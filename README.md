@@ -3,6 +3,7 @@ This is a list of interesting papers and projects about TinyML.
 
 
 ## 2019
+- Visual Wake Words Dataset | [`[pdf]`](https://arxiv.org/pdf/1906.05721.pdf) 
 - Reconfigurable Multitask Audio Dynamics Processing Scheme | [`[pdf]`](https://arxiv.org/abs/1903.06392 ) 
 - 
 
@@ -20,6 +21,7 @@ This is a list of interesting papers and projects about TinyML.
 - Howl: A Deployed, Open-Source Wake Word Detection System | [`[pdf]`](https://arxiv.org/pdf/2008.09606.pdf) [`[official code]`](https://github.com/castorini/howl)
 - **[LeakyPick]** IoT Audio Spy Detector | [`[pdf]`](https://arxiv.org/pdf/2007.00500.pdf) 
 - OPTIMIZE WHAT MATTERS: TRAINING DNN-HMM KEYWORD SPOTTING MODEL USING END METRIC | [`[pdf]`](https://arxiv.org/pdf/2011.01151.pdf) 
+
 ## Contact & Feedback
 If you have any suggestions about TinyML papers and projects, feel free to mail me :)
 
