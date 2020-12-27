@@ -1,14 +1,23 @@
 # TinyML Paper and Projects
 This is a list of interesting papers and projects about TinyML. 
-
+## 2016 
+- DEEP COMPRESSION: COMPRESSING DEEP NEURAL NETWORKS WITH PRUNING, TRAINED QUANTIZATION AND HUFFMAN CODING | [`[pdf]`](https://arxiv.org/pdf/1510.00149.pdf) 
+- **[SQUEEZENET]** ALEXNET-LEVEL ACCURACY WITH50X FEWER PARAMETERS AND <0.5MB MODEL SIZE | [`[pdf]`](https://arxiv.org/pdf/1602.07360.pdf)
+ 
+## 2018 
+- **[AMC]** AutoML for Model Compression and Acceleration on Mobile Devices | [`[pdf]`](https://arxiv.org/pdf/1802.03494.pdf) [`[official code]`](https://github.com/mit-han-lab/amc)
+- **[HAQ]** Hardware-Aware Automated Quantization with Mixed Precision | [`[pdf]`](https://arxiv.org/abs/1811.08886) 
+- 
 
 ## 2019
+- **[PROXYLESSNAS]** DIRECT NEURAL ARCHITECTURE SEARCH ON TARGET TASK AND HARDWARE |[`[pdf]`](https://arxiv.org/pdf/1812.00332.pdf) [`[official code]`](https://github.com/mit-han-lab/proxylessnas)
 - Visual Wake Words Dataset | [`[pdf]`](https://arxiv.org/pdf/1906.05721.pdf) 
 - Reconfigurable Multitask Audio Dynamics Processing Scheme | [`[pdf]`](https://arxiv.org/abs/1903.06392 ) 
 - 
 
 ## 2020
 - BENCHMARKING TINYML SYSTEMS: CHALLENGES AND DIRECTION |[`[pdf]`](https://arxiv.org/pdf/2003.04821v3.pdf) 
+- Lite Transformer with Long-Short Range Attention |[`[pdf]`](https://arxiv.org/pdf/2004.11886.pdf) 
 - **[TENSORFLOW LITE MICRO]** EMBEDDED MACHINE LEARNING ON TINYML SYSTEMS |[`[pdf]`](https://arxiv.org/pdf/2010.08678v2.pdf) 
 - **[AttendNets]** Tiny Deep Image Recognition Neural Networks for the Edge via Visual Attention Condensers |[`[pdf]`](https://arxiv.org/pdf/2009.14385v1.pdf) 
 - **[TinySpeech]** Attention Condensers for Deep Speech Recognition Neural Networks on Edge Devices |[`[pdf]`](https://arxiv.org/pdf/2008.04245v6.pdf) 
@@ -21,6 +30,7 @@ This is a list of interesting papers and projects about TinyML.
 - Howl: A Deployed, Open-Source Wake Word Detection System | [`[pdf]`](https://arxiv.org/pdf/2008.09606.pdf) [`[official code]`](https://github.com/castorini/howl)
 - **[LeakyPick]** IoT Audio Spy Detector | [`[pdf]`](https://arxiv.org/pdf/2007.00500.pdf) 
 - OPTIMIZE WHAT MATTERS: TRAINING DNN-HMM KEYWORD SPOTTING MODEL USING END METRIC | [`[pdf]`](https://arxiv.org/pdf/2011.01151.pdf) 
+- Once for All: Train One Network and Specialize it for Efficient Deployment  |[`[pdf]`](https://arxiv.org/pdf/1908.09791.pdf) [`[official code]`](https://github.com/mit-han-lab/once-for-all)
 
 ## Contact & Feedback
 If you have any suggestions about TinyML papers and projects, feel free to mail me :)
