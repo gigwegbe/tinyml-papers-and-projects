@@ -36,7 +36,7 @@ This is a list of interesting papers and projects about TinyML.
 - **[LeakyPick]** IoT Audio Spy Detector | [`[pdf]`](https://arxiv.org/pdf/2007.00500.pdf) 
 - OPTIMIZE WHAT MATTERS: TRAINING DNN-HMM KEYWORD SPOTTING MODEL USING END METRIC | [`[pdf]`](https://arxiv.org/pdf/2011.01151.pdf) 
 - Once for All: Train One Network and Specialize it for Efficient Deployment  |[`[pdf]`](https://arxiv.org/pdf/1908.09791.pdf) [`[official code]`](https://github.com/mit-han-lab/once-for-all)
-
+- A Tiny CNN Architecture for Medical Face Mask Detection for Resource-Constrained Endpoints  |[`[pdf]`](https://arxiv.org/pdf/2011.14858.pdf)
 ## Contact & Feedback
 If you have any suggestions about TinyML papers and projects, feel free to mail me :)
 
