@@ -6,11 +6,13 @@ This is a list of interesting papers and projects about TinyML.
  
 ## 2018 
 - **[AMC]** AutoML for Model Compression and Acceleration on Mobile Devices | [`[pdf]`](https://arxiv.org/pdf/1802.03494.pdf) [`[official code]`](https://github.com/mit-han-lab/amc)
+- Mobile Machine Learning Hardware at ARM: A Systems-on-Chip (SoC) Perspective | [`[pdf]`](https://arxiv.org/pdf/1801.06274.pdf) 
 - **[HAQ]** Hardware-Aware Automated Quantization with Mixed Precision | [`[pdf]`](https://arxiv.org/abs/1811.08886) 
-- 
+- Efficient and Robust Machine Learning for Real-World Systems | [`[pdf]`](https://arxiv.org/pdf/1812.02240.pdf) 
 
 ## 2019
 - **[PROXYLESSNAS]** DIRECT NEURAL ARCHITECTURE SEARCH ON TARGET TASK AND HARDWARE |[`[pdf]`](https://arxiv.org/pdf/1812.00332.pdf) [`[official code]`](https://github.com/mit-han-lab/proxylessnas)
+- Energy Efficient Hardware for On-Device CNN Inference via Transfer Learning | [`[pdf]`](https://arxiv.org/pdf/1812.01672.pdf) 
 - Visual Wake Words Dataset | [`[pdf]`](https://arxiv.org/pdf/1906.05721.pdf) 
 - Reconfigurable Multitask Audio Dynamics Processing Scheme | [`[pdf]`](https://arxiv.org/abs/1903.06392 ) 
 - Pushing the limits of RNN Compression | [`[pdf]`](https://arxiv.org/pdf/1910.02558.pdf) 
