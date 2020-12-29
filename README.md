@@ -29,6 +29,7 @@ This is a list of interesting papers and projects about TinyML.
 - **[MICRONETS]** NEURAL NETWORK ARCHITECTURES FOR DEPLOYING TINYML APPLICATIONS ON COMMODITY MICROCONTROLLERS |[`[pdf]`](https://arxiv.org/pdf/2010.11267v2.pdf)
 - **[TinyLSTMs]** Efficient Neural Speech Enhancement for Hearing Aids |[`[pdf]`](https://arxiv.org/pdf/2005.11138.pdf)
 - **[MCUNet]** Tiny Deep Learning on IoT Devices |[`[pdf]`](https://arxiv.org/abs/2007.10319) [`[official code]`](https://github.com/mit-han-lab/mcunet)
+- Efficient Residue Number System Based Winograd Convolution | [`[pdf]`](https://arxiv.org/pdf/2007.12216.pdf) 
 - On Front-end Gain Invariant Modeling for Wake Word Spotting | [`[pdf]`](https://arxiv.org/pdf/2010.06676.pdf) 
 - TOWARDS DATA-EFFICIENT MODELING FOR WAKE WORD SPOTTING | [`[pdf]`](https://arxiv.org/pdf/2010.06659.pdf) 
 - Accurate Detection of Wake Word Start and End Using a CNN | [`[pdf]`](https://arxiv.org/pdf/2008.03790.pdf) 
