@@ -40,8 +40,8 @@ This is a list of interesting papers and projects about TinyML.
 - A Tiny CNN Architecture for Medical Face Mask Detection for Resource-Constrained Endpoints  |[`[pdf]`](https://arxiv.org/pdf/2011.14858.pdf)
 
 
-## Awesome TinyML Projects
-- [TinyFederatedLearning](https://github.com/kavyakvk/TinyFederatedLearning)
+## Awesome TinyML Projects 
+- TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
 - 
 ## Contact & Feedback
 If you have any suggestions about TinyML papers and projects, feel free to mail me :)
