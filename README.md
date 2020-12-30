@@ -42,6 +42,8 @@ This is a list of interesting papers and projects about TinyML.
 
 ## Awesome TinyML Projects 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
+- Moving From AI To IntelligentAI To Reduce The Cost Of AI At The Edge [`[official code]`](https://www.numerix-dsp.com/ai/) [`[presentation]`](https://youtu.be/mYy4Zv80tXQ)
+- Vibration Monitoring Machine Learning Demonstration [`[official code]`](https://www.numerix-dsp.com/ai/) [`[presentation]`](https://youtu.be/2iInOo0Lkfs)
 - 
 ## Contact & Feedback
 If you have any suggestions about TinyML papers and projects, feel free to mail me :)
