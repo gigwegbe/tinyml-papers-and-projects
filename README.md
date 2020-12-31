@@ -44,7 +44,12 @@ This is a list of interesting papers and projects about TinyML.
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
 - Moving From AI To IntelligentAI To Reduce The Cost Of AI At The Edge [`[official code]`](https://www.numerix-dsp.com/ai/) [`[presentation]`](https://youtu.be/mYy4Zv80tXQ)
 - Vibration Monitoring Machine Learning Demonstration [`[official code]`](https://www.numerix-dsp.com/ai/) [`[presentation]`](https://youtu.be/2iInOo0Lkfs)
-- 
+- [TinyML Study Group](https://github.com/tinyml-team/study-group)
+- [Arduino trash classification TinyML example](https://github.com/lightb0x/arduino_trash_classification)
+- [Air Guitar CS249R](https://github.com/RobJMal/Air-Guitar-CS249R)
+- [TinyML ESP32](https://github.com/HollowMan6/TinyML-ESP32)
+- [TinyML Motion- Classifier](https://github.com/TronixLab/TinyML-Motion-Classifier)
+- [Edge AI Anomaly Detection](https://github.com/ShawnHymel/tinyml-example-anomaly-detection)
 ## Contact & Feedback
 If you have any suggestions about TinyML papers and projects, feel free to mail me :)
 
