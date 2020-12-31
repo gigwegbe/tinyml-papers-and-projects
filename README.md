@@ -48,8 +48,9 @@ This is a list of interesting papers and projects about TinyML.
 - [Arduino trash classification TinyML example](https://github.com/lightb0x/arduino_trash_classification)
 - [Air Guitar CS249R](https://github.com/RobJMal/Air-Guitar-CS249R)
 - [TinyML ESP32](https://github.com/HollowMan6/TinyML-ESP32)
-- [TinyML Motion- Classifier](https://github.com/TronixLab/TinyML-Motion-Classifier)
+- [TinyML Motion Classifier](https://github.com/TronixLab/TinyML-Motion-Classifier)
 - [Edge AI Anomaly Detection](https://github.com/ShawnHymel/tinyml-example-anomaly-detection)
+- [EleTect - TinyML and IoT Based Smart Wildlife Tracker](https://www.hackster.io/dhruvsheth_/eletect-tinyml-and-iot-based-smart-wildlife-tracker-c03e5a)
 ## Contact & Feedback
 If you have any suggestions about TinyML papers and projects, feel free to mail me :)
 
