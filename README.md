@@ -1,5 +1,6 @@
 # TinyML Paper and Projects
-This is a list of interesting papers and projects about TinyML. 
+This is a list of interesting papers, projects, articles and talks about TinyML. 
+# Awesome Papers
 ## 2016 
 - DEEP COMPRESSION: COMPRESSING DEEP NEURAL NETWORKS WITH PRUNING, TRAINED QUANTIZATION AND HUFFMAN CODING | [`[pdf]`](https://arxiv.org/pdf/1510.00149.pdf) 
 - **[SQUEEZENET]** ALEXNET-LEVEL ACCURACY WITH50X FEWER PARAMETERS AND <0.5MB MODEL SIZE | [`[pdf]`](https://arxiv.org/pdf/1602.07360.pdf)
@@ -42,6 +43,7 @@ This is a list of interesting papers and projects about TinyML.
 - On Front-end Gain Invariant Modeling for Wake Word Spotting | [`[pdf]`](https://arxiv.org/pdf/2010.06676.pdf) 
 - TOWARDS DATA-EFFICIENT MODELING FOR WAKE WORD SPOTTING | [`[pdf]`](https://arxiv.org/pdf/2010.06659.pdf) 
 - Accurate Detection of Wake Word Start and End Using a CNN | [`[pdf]`](https://arxiv.org/pdf/2008.03790.pdf) 
+- **[PoPS]** Policy Pruning and Shrinking for Deep Reinforcement Learning | [`[pdf]`](https://arxiv.org/pdf/2001.05012.pdf) 
 - Howl: A Deployed, Open-Source Wake Word Detection System | [`[pdf]`](https://arxiv.org/pdf/2008.09606.pdf) [`[official code]`](https://github.com/castorini/howl)
 - **[LeakyPick]** IoT Audio Spy Detector | [`[pdf]`](https://arxiv.org/pdf/2007.00500.pdf) 
 - OPTIMIZE WHAT MATTERS: TRAINING DNN-HMM KEYWORD SPOTTING MODEL USING END METRIC | [`[pdf]`](https://arxiv.org/pdf/2011.01151.pdf) 
@@ -62,6 +64,13 @@ This is a list of interesting papers and projects about TinyML.
 - [TinyML Motion Classifier](https://github.com/TronixLab/TinyML-Motion-Classifier)
 - [Edge AI Anomaly Detection](https://github.com/ShawnHymel/tinyml-example-anomaly-detection)
 - [EleTect - TinyML and IoT Based Smart Wildlife Tracker](https://www.hackster.io/dhruvsheth_/eletect-tinyml-and-iot-based-smart-wildlife-tracker-c03e5a)
+- [The C++ Neural Network and Machine Learning project](https://github.com/intel/cppnnml)
+
+## Books and Articles
+- [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
+- [Model Quantization Using TensorFlow Lite](https://medium.com/sclable/model-quantization-using-tensorflow-lite-2fe6a171a90d)
+- 
+
 ## Contact & Feedback
 If you have any suggestions about TinyML papers and projects, feel free to mail me :)
 
