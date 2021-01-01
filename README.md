@@ -4,7 +4,10 @@ This is a list of interesting papers and projects about TinyML.
 - DEEP COMPRESSION: COMPRESSING DEEP NEURAL NETWORKS WITH PRUNING, TRAINED QUANTIZATION AND HUFFMAN CODING | [`[pdf]`](https://arxiv.org/pdf/1510.00149.pdf) 
 - **[SQUEEZENET]** ALEXNET-LEVEL ACCURACY WITH50X FEWER PARAMETERS AND <0.5MB MODEL SIZE | [`[pdf]`](https://arxiv.org/pdf/1602.07360.pdf)
  
-## 2018 
+## 2017 
+ - Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference | [`[pdf]`](https://arxiv.org/pdf/1712.05877.pdf)
+ 
+ ## 2018 
 - **[AMC]** AutoML for Model Compression and Acceleration on Mobile Devices | [`[pdf]`](https://arxiv.org/pdf/1802.03494.pdf) [`[official code]`](https://github.com/mit-han-lab/amc)
 - Mobile Machine Learning Hardware at ARM: A Systems-on-Chip (SoC) Perspective | [`[pdf]`](https://arxiv.org/pdf/1801.06274.pdf) 
 - **[HAQ]** Hardware-Aware Automated Quantization with Mixed Precision | [`[pdf]`](https://arxiv.org/abs/1811.08886) 
