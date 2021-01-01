@@ -9,8 +9,10 @@ This is a list of interesting papers and projects about TinyML.
 - Mobile Machine Learning Hardware at ARM: A Systems-on-Chip (SoC) Perspective | [`[pdf]`](https://arxiv.org/pdf/1801.06274.pdf) 
 - **[HAQ]** Hardware-Aware Automated Quantization with Mixed Precision | [`[pdf]`](https://arxiv.org/abs/1811.08886) 
 - Efficient and Robust Machine Learning for Real-World Systems | [`[pdf]`](https://arxiv.org/pdf/1812.02240.pdf) 
+- **[YOLO-LITE]** A Real-Time Object Detection Algorithm Optimized for Non-GPU Computers | [`[pdf]`](https://arxiv.org/pdf/1811.05588v1.pdf) 
 
 ## 2019
+- Image Classification on IoT Edge Devices: Profiling and Modeling| [`[pdf]`](https://arxiv.org/pdf/1902.11119.pdf)
 - **[PROXYLESSNAS]** DIRECT NEURAL ARCHITECTURE SEARCH ON TARGET TASK AND HARDWARE |[`[pdf]`](https://arxiv.org/pdf/1812.00332.pdf) [`[official code]`](https://github.com/mit-han-lab/proxylessnas)
 - Energy Efficient Hardware for On-Device CNN Inference via Transfer Learning | [`[pdf]`](https://arxiv.org/pdf/1812.01672.pdf) 
 - Visual Wake Words Dataset | [`[pdf]`](https://arxiv.org/pdf/1906.05721.pdf) 
