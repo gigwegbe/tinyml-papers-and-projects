@@ -51,6 +51,8 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Shiftry: RNN Inference in 2KB of RAM |[`[pdf]`](https://www.microsoft.com/en-us/research/uploads/prod/2020/10/oopsla20main-p230-p-aba27a6-48263M-final.pdf) 
 - Once for All: Train One Network and Specialize it for Efficient Deployment  |[`[pdf]`](https://arxiv.org/pdf/1908.09791.pdf) [`[official code]`](https://github.com/mit-han-lab/once-for-all)
 - A Tiny CNN Architecture for Medical Face Mask Detection for Resource-Constrained Endpoints  |[`[pdf]`](https://arxiv.org/pdf/2011.14858.pdf)
+- Rethinking Generalization in American Sign Language Prediction for Edge Devices with Extremely Low Memory Footprint |[`[pdf]`](https://arxiv.org/pdf/2011.13741.pdf) [`[presentation]`](https://www.youtube.com/watch?v=bJ1vnhAbJ9o&feature=youtu.be)
+
 
 
 ## Awesome TinyML Projects 
