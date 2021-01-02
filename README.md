@@ -69,7 +69,16 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 ## Books and Articles
 - [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
 - [Model Quantization Using TensorFlow Lite](https://medium.com/sclable/model-quantization-using-tensorflow-lite-2fe6a171a90d)
-- 
+-
+
+
+## TinyML Talks 
+
+|  Title       |                     Speaker               |       Published Date      |
+|:------------:|:-----------------------------------------:|:-------------------------:| 
+|     ------   |        -----        |          -          |                 -------   |
+|    -------   |        -----        |          -          |                 -------   |
+
 
 ## Contact & Feedback
 If you have any suggestions about TinyML papers and projects, feel free to mail me :)
