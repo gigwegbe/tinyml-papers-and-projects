@@ -73,6 +73,10 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Model Quantization Using TensorFlow Lite](https://medium.com/sclable/model-quantization-using-tensorflow-lite-2fe6a171a90d)
 -
 
+# Courses 
+- [CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home?authuser=0)
+- [Tiny Machine Learning (TinyML)](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
+- [Embedded and Distributed AI course at Jonkoping University, Sweden](https://www.youtube.com/watch?v=OTXqT00MmPA&list=PLyulI6o7oOtycIT15i_I2_mhuLxnNvPvX)
 
 ## TinyML Talks 
 
