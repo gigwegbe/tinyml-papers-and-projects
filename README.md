@@ -47,11 +47,13 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Howl: A Deployed, Open-Source Wake Word Detection System | [`[pdf]`](https://arxiv.org/pdf/2008.09606.pdf) [`[official code]`](https://github.com/castorini/howl)
 - **[LeakyPick]** IoT Audio Spy Detector | [`[pdf]`](https://arxiv.org/pdf/2007.00500.pdf) 
 - OPTIMIZE WHAT MATTERS: TRAINING DNN-HMM KEYWORD SPOTTING MODEL USING END METRIC | [`[pdf]`](https://arxiv.org/pdf/2011.01151.pdf) 
-- RNNPool: Efficient Non-linear Pooling for RAM Constrained Inference | [`[blog]`](https://www.microsoft.com/en-us/research/blog/seeing-on-tiny-battery-powered-microcontrollers-with-rnnpool/?utm_medium=email&_hsmi=104017359&_hsenc=p2ANqtz-_DVkWnyh_NhAV6j4hTFngepUyiNjZ5GO5CYIQfpl5NzerjwxOBQcpdkilzGpt9ic4HglvgM80h7wIkFNX89xe-3_j7Kw&utm_content=104017359&utm_source=hs_email)  [`[pdf]`](https://arxiv.org/pdf/2002.11921.pdf) [`[official code]`](https://github.com/microsoft/EdgeML/blob/master/pytorch/edgeml_pytorch/graph/rnnpool.py)
-- Shiftry: RNN Inference in 2KB of RAM |[`[pdf]`](https://www.microsoft.com/en-us/research/uploads/prod/2020/10/oopsla20main-p230-p-aba27a6-48263M-final.pdf) 
-- Once for All: Train One Network and Specialize it for Efficient Deployment  |[`[pdf]`](https://arxiv.org/pdf/1908.09791.pdf) [`[official code]`](https://github.com/mit-han-lab/once-for-all)
+- **[RNNPool]** Efficient Non-linear Pooling for RAM Constrained Inference | [`[blog]`](https://www.microsoft.com/en-us/research/blog/seeing-on-tiny-battery-powered-microcontrollers-with-rnnpool/?utm_medium=email&_hsmi=104017359&_hsenc=p2ANqtz-_DVkWnyh_NhAV6j4hTFngepUyiNjZ5GO5CYIQfpl5NzerjwxOBQcpdkilzGpt9ic4HglvgM80h7wIkFNX89xe-3_j7Kw&utm_content=104017359&utm_source=hs_email)  [`[pdf]`](https://arxiv.org/pdf/2002.11921.pdf) [`[official code]`](https://github.com/microsoft/EdgeML/blob/master/pytorch/edgeml_pytorch/graph/rnnpool.py)
+- **[Shiftry]** RNN Inference in 2KB of RAM |[`[pdf]`](https://www.microsoft.com/en-us/research/uploads/prod/2020/10/oopsla20main-p230-p-aba27a6-48263M-final.pdf) 
+- **[Once for All]** Train One Network and Specialize it for Efficient Deployment  |[`[pdf]`](https://arxiv.org/pdf/1908.09791.pdf) [`[official code]`](https://github.com/mit-han-lab/once-for-all)
 - A Tiny CNN Architecture for Medical Face Mask Detection for Resource-Constrained Endpoints  |[`[pdf]`](https://arxiv.org/pdf/2011.14858.pdf)
 - Rethinking Generalization in American Sign Language Prediction for Edge Devices with Extremely Low Memory Footprint |[`[pdf]`](https://arxiv.org/pdf/2011.13741.pdf) [`[presentation]`](https://www.youtube.com/watch?v=bJ1vnhAbJ9o&feature=youtu.be)
+- **[ShadowNet]** A Secure and Efficient System for On-device Model Inference |[`[pdf]`](https://arxiv.org/pdf/2011.05905.pdf) 
+
 
 
 
