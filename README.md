@@ -66,17 +66,19 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [TinyML Motion Classifier](https://github.com/TronixLab/TinyML-Motion-Classifier)
 - [Edge AI Anomaly Detection](https://github.com/ShawnHymel/tinyml-example-anomaly-detection)
 - [EleTect - TinyML and IoT Based Smart Wildlife Tracker](https://www.hackster.io/dhruvsheth_/eletect-tinyml-and-iot-based-smart-wildlife-tracker-c03e5a)
+- [MagicWand-TFLite-ESP32](https://github.com/andriyadi/MagicWand-TFLite-ESP32)
 - [The C++ Neural Network and Machine Learning project](https://github.com/intel/cppnnml)
 
 ## Books and Articles
 - [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
 - [Model Quantization Using TensorFlow Lite](https://medium.com/sclable/model-quantization-using-tensorflow-lite-2fe6a171a90d)
--
+- [Predictions for Embedded Machine Learning for IoT in 2021](https://www.iotworldtoday.com/2020/12/10/predictions-for-embedded-machine-learning-for-iot-in-2021/)
 
 # Courses 
 - [CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home?authuser=0)
 - [Tiny Machine Learning (TinyML)](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
 - [Embedded and Distributed AI course at Jonkoping University, Sweden](https://www.youtube.com/watch?v=OTXqT00MmPA&list=PLyulI6o7oOtycIT15i_I2_mhuLxnNvPvX)
+
 
 ## TinyML Talks 
 
