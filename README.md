@@ -69,6 +69,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Edge AI Anomaly Detection](https://github.com/ShawnHymel/tinyml-example-anomaly-detection)
 - [EleTect - TinyML and IoT Based Smart Wildlife Tracker](https://www.hackster.io/dhruvsheth_/eletect-tinyml-and-iot-based-smart-wildlife-tracker-c03e5a)
 - [MagicWand-TFLite-ESP32](https://github.com/andriyadi/MagicWand-TFLite-ESP32)
+- [Autonomous embedded driving using computer vision](https://www.edgeimpulse.com/blog/autonomous-driving-using-computer-vision)
 - [The C++ Neural Network and Machine Learning project](https://github.com/intel/cppnnml)
 
 ## Books and Articles
