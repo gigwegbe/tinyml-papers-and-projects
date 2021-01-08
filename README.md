@@ -76,6 +76,8 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
 - [Model Quantization Using TensorFlow Lite](https://medium.com/sclable/model-quantization-using-tensorflow-lite-2fe6a171a90d)
 - [Predictions for Embedded Machine Learning for IoT in 2021](https://www.iotworldtoday.com/2020/12/10/predictions-for-embedded-machine-learning-for-iot-in-2021/)
+- [Matthew Mattina: Life-Saving Models in Your Pocket](https://blog.deeplearning.ai/blog/the-batch-new-year-wishes-from-fei-fei-li-harry-shum-ayanna-howard-ilya-sutskever-matthew-mattina) 
+- [How predictive maintenance is changing the industrial enterprise for good](https://techhq.com/2021/01/how-predictive-maintenance-is-changing-the-industrial-enterprise-for-good/)
 
 # Courses 
 - [CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home?authuser=0)
