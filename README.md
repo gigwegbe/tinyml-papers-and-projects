@@ -28,7 +28,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Compiling KB-Sized Machine Learning Models to Tiny IoT Devices | [`[pdf]`](microsoft.com/en-us/research/uploads/prod/2018/10/pldi19-SeeDot.pdf)
 - Reconfigurable Multitask Audio Dynamics Processing Scheme | [`[pdf]`](https://arxiv.org/abs/1903.06392 ) 
 - Pushing the limits of RNN Compression | [`[pdf]`](https://arxiv.org/pdf/1910.02558.pdf) 
-- **[SpArSe]** Sparse Architecture Search for CNNs on Resource-Constrained Microcontrollers  | [`[pdf]`](https://arxiv.org/pdf/1905.12107.pdf) 
+- **[SpArSe]** Sparse Architecture Search for CNNs on Resource-Constrained Microcontrollers  |[`[pdf]`](https://arxiv.org/pdf/1905.12107.pdf) 
 
 ## 2020
 - COMPRESSING RNNS FOR IOT DEVICES BY 15-38X USING KRONECKER PRODUCTS |[`[pdf]`](https://arxiv.org/pdf/1906.02876.pdf) 
