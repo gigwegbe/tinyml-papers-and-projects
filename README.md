@@ -56,7 +56,8 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Rethinking Generalization in American Sign Language Prediction for Edge Devices with Extremely Low Memory Footprint |[`[pdf]`](https://arxiv.org/pdf/2011.13741.pdf) [`[presentation]`](https://www.youtube.com/watch?v=bJ1vnhAbJ9o&feature=youtu.be)
 - **[ShadowNet]** A Secure and Efficient System for On-device Model Inference |[`[pdf]`](https://arxiv.org/pdf/2011.05905.pdf) 
 
-
+## 2021
+- **[I-BERT]** Integer-only BERT Quantization |[`[pdf]`](https://arxiv.org/pdf/2101.01321.pdf) 
 
 
 ## Awesome TinyML Projects 
