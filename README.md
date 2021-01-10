@@ -74,6 +74,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [MagicWand-TFLite-ESP32](https://github.com/andriyadi/MagicWand-TFLite-ESP32)
 - [Autonomous embedded driving using computer vision](https://www.edgeimpulse.com/blog/autonomous-driving-using-computer-vision)
 - [The C++ Neural Network and Machine Learning project](https://github.com/intel/cppnnml)
+- [TinyML on Arduino](https://github.com/sandeepmistry/aimldevfest-workshop-2019)
 
 ## Books and Articles
 - [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
@@ -81,6 +82,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Predictions for Embedded Machine Learning for IoT in 2021](https://www.iotworldtoday.com/2020/12/10/predictions-for-embedded-machine-learning-for-iot-in-2021/)
 - [Matthew Mattina: Life-Saving Models in Your Pocket](https://blog.deeplearning.ai/blog/the-batch-new-year-wishes-from-fei-fei-li-harry-shum-ayanna-howard-ilya-sutskever-matthew-mattina) 
 - [How predictive maintenance is changing the industrial enterprise for good](https://techhq.com/2021/01/how-predictive-maintenance-is-changing-the-industrial-enterprise-for-good/)
+- [Tiny four-bit computers are now all you need to train AI](https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/)
 
 # Courses 
 - [CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home?authuser=0)
