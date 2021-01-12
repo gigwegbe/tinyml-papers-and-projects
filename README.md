@@ -28,6 +28,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Compiling KB-Sized Machine Learning Models to Tiny IoT Devices | [`[pdf]`](microsoft.com/en-us/research/uploads/prod/2018/10/pldi19-SeeDot.pdf)
 - Reconfigurable Multitask Audio Dynamics Processing Scheme | [`[pdf]`](https://arxiv.org/abs/1903.06392 ) 
 - Pushing the limits of RNN Compression | [`[pdf]`](https://arxiv.org/pdf/1910.02558.pdf) 
+- Memory-Driven Mixed Low Precision Quantization For Enabling Deep Network Inference On Microcontrollers | [`[pdf]`](https://arxiv.org/pdf/1905.13082.pdf) [`[official code]`](https://github.com/EEESlab/CMix-NN)
 - **[SpArSe]** Sparse Architecture Search for CNNs on Resource-Constrained Microcontrollers  |[`[pdf]`](https://arxiv.org/pdf/1905.12107.pdf) 
 
 ## 2020
@@ -48,6 +49,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[PoPS]** Policy Pruning and Shrinking for Deep Reinforcement Learning | [`[pdf]`](https://arxiv.org/pdf/2001.05012.pdf) 
 - Howl: A Deployed, Open-Source Wake Word Detection System | [`[pdf]`](https://arxiv.org/pdf/2008.09606.pdf) [`[official code]`](https://github.com/castorini/howl)
 - **[LeakyPick]** IoT Audio Spy Detector | [`[pdf]`](https://arxiv.org/pdf/2007.00500.pdf) 
+- Leveraging Automated Mixed-Low-Precision Quantization for tiny edge microcontrollers | [`[pdf]`](https://arxiv.org/pdf/2008.05124.pdf) 
 - OPTIMIZE WHAT MATTERS: TRAINING DNN-HMM KEYWORD SPOTTING MODEL USING END METRIC | [`[pdf]`](https://arxiv.org/pdf/2011.01151.pdf) 
 - **[RNNPool]** Efficient Non-linear Pooling for RAM Constrained Inference | [`[blog]`](https://www.microsoft.com/en-us/research/blog/seeing-on-tiny-battery-powered-microcontrollers-with-rnnpool/?utm_medium=email&_hsmi=104017359&_hsenc=p2ANqtz-_DVkWnyh_NhAV6j4hTFngepUyiNjZ5GO5CYIQfpl5NzerjwxOBQcpdkilzGpt9ic4HglvgM80h7wIkFNX89xe-3_j7Kw&utm_content=104017359&utm_source=hs_email)  [`[pdf]`](https://arxiv.org/pdf/2002.11921.pdf) [`[official code]`](https://github.com/microsoft/EdgeML/blob/master/pytorch/edgeml_pytorch/graph/rnnpool.py)
 - **[Shiftry]** RNN Inference in 2KB of RAM |[`[pdf]`](https://www.microsoft.com/en-us/research/uploads/prod/2020/10/oopsla20main-p230-p-aba27a6-48263M-final.pdf) 
