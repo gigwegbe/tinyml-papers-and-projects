@@ -49,6 +49,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[PoPS]** Policy Pruning and Shrinking for Deep Reinforcement Learning | [`[pdf]`](https://arxiv.org/pdf/2001.05012.pdf) 
 - Howl: A Deployed, Open-Source Wake Word Detection System | [`[pdf]`](https://arxiv.org/pdf/2008.09606.pdf) [`[official code]`](https://github.com/castorini/howl)
 - **[LeakyPick]** IoT Audio Spy Detector | [`[pdf]`](https://arxiv.org/pdf/2007.00500.pdf) 
+- On-Device Machine Learning: An Algorithms and Learning Theory Perspective  | [`[pdf]`](https://arxiv.org/pdf/1911.00623.pdf) 
 - Leveraging Automated Mixed-Low-Precision Quantization for tiny edge microcontrollers | [`[pdf]`](https://arxiv.org/pdf/2008.05124.pdf) 
 - OPTIMIZE WHAT MATTERS: TRAINING DNN-HMM KEYWORD SPOTTING MODEL USING END METRIC | [`[pdf]`](https://arxiv.org/pdf/2011.01151.pdf) 
 - **[RNNPool]** Efficient Non-linear Pooling for RAM Constrained Inference | [`[blog]`](https://www.microsoft.com/en-us/research/blog/seeing-on-tiny-battery-powered-microcontrollers-with-rnnpool/?utm_medium=email&_hsmi=104017359&_hsenc=p2ANqtz-_DVkWnyh_NhAV6j4hTFngepUyiNjZ5GO5CYIQfpl5NzerjwxOBQcpdkilzGpt9ic4HglvgM80h7wIkFNX89xe-3_j7Kw&utm_content=104017359&utm_source=hs_email)  [`[pdf]`](https://arxiv.org/pdf/2002.11921.pdf) [`[official code]`](https://github.com/microsoft/EdgeML/blob/master/pytorch/edgeml_pytorch/graph/rnnpool.py)
