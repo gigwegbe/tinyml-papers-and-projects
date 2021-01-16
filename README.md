@@ -60,6 +60,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[ShadowNet]** A Secure and Efficient System for On-device Model Inference |[`[pdf]`](https://arxiv.org/pdf/2011.05905.pdf) 
 - MLPerf Inference Benchmark |[`[pdf]`](https://arxiv.org/pdf/1911.02549.pdf) 
 - MLPerf Mobile Inference Benchmark : Why Mobile AI Benchmarking Is Hard and What to Do About It |[`[pdf]`](https://arxiv.org/pdf/2012.02328.pdf) 
+- **[TinyRL]** Learning to Seek: Tiny Robot Learning for Source Seeking on a Nano Quadcopter |[`[pdf]`](https://arxiv.org/pdf/1909.11236.pdf) 
 
 ## 2021
 - **[I-BERT]** Integer-only BERT Quantization |[`[pdf]`](https://arxiv.org/pdf/2101.01321.pdf) 
