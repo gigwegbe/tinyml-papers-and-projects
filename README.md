@@ -58,6 +58,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - A Tiny CNN Architecture for Medical Face Mask Detection for Resource-Constrained Endpoints  |[`[pdf]`](https://arxiv.org/pdf/2011.14858.pdf)
 - Rethinking Generalization in American Sign Language Prediction for Edge Devices with Extremely Low Memory Footprint |[`[pdf]`](https://arxiv.org/pdf/2011.13741.pdf) [`[presentation]`](https://www.youtube.com/watch?v=bJ1vnhAbJ9o&feature=youtu.be)
 - **[ShadowNet]** A Secure and Efficient System for On-device Model Inference |[`[pdf]`](https://arxiv.org/pdf/2011.05905.pdf) 
+- Hardware Aware Training for Efficient Keyword Spotting on General Purpose and Specialized Hardware |[`[pdf]`](https://arxiv.org/pdf/2009.04465.pdf)
 - MLPerf Inference Benchmark |[`[pdf]`](https://arxiv.org/pdf/1911.02549.pdf) 
 - MLPerf Mobile Inference Benchmark : Why Mobile AI Benchmarking Is Hard and What to Do About It |[`[pdf]`](https://arxiv.org/pdf/2012.02328.pdf) 
 - **[TinyRL]** Learning to Seek: Tiny Robot Learning for Source Seeking on a Nano Quadcopter |[`[pdf]`](https://arxiv.org/pdf/1909.11236.pdf) 
