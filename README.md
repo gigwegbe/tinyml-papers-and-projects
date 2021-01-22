@@ -84,6 +84,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Autonomous embedded driving using computer vision](https://www.edgeimpulse.com/blog/autonomous-driving-using-computer-vision)
 - [The C++ Neural Network and Machine Learning project](https://github.com/intel/cppnnml)
 - [TinyML on Arduino](https://github.com/sandeepmistry/aimldevfest-workshop-2019)
+- [Water Meter System Complete](https://github.com/jomjol/water-meter-system-complete)
 
 ## Books and Articles
 - [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
