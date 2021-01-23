@@ -99,7 +99,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Tiny four-bit computers are now all you need to train AI](https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/)
 
 
-## Librarys and Tools
+## Libraries and Tools
 - [EVE is Edge Virtualization Engine](https://github.com/lf-edge/eve/blob/master/README.md)
 
 # Courses 
