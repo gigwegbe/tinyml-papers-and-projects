@@ -85,6 +85,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [The C++ Neural Network and Machine Learning project](https://github.com/intel/cppnnml)
 - [TinyML on Arduino](https://github.com/sandeepmistry/aimldevfest-workshop-2019)
 - [Water Meter System Complete](https://github.com/jomjol/water-meter-system-complete)
+- [Handwriting Recognition](https://www.hackster.io/naveenbskumar/handwriting-recognition-7583e3)
 
 ## Books and Articles
 - [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
@@ -96,6 +97,10 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Matthew Mattina: Life-Saving Models in Your Pocket](https://blog.deeplearning.ai/blog/the-batch-new-year-wishes-from-fei-fei-li-harry-shum-ayanna-howard-ilya-sutskever-matthew-mattina) 
 - [How predictive maintenance is changing the industrial enterprise for good](https://techhq.com/2021/01/how-predictive-maintenance-is-changing-the-industrial-enterprise-for-good/)
 - [Tiny four-bit computers are now all you need to train AI](https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/)
+
+
+## Librarys and Tools
+- [EVE is Edge Virtualization Engine](https://github.com/lf-edge/eve/blob/master/README.md)
 
 # Courses 
 - [CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home?authuser=0)
