@@ -67,6 +67,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[I-BERT]** Integer-only BERT Quantization |[`[pdf]`](https://arxiv.org/pdf/2101.01321.pdf) 
 - **[TinyTL]** Reduce Memory, Not Parameters for Efficient On-Device Learning |[`[pdf]`](https://arxiv.org/pdf/2007.11622.pdf) [`[official code]`](https://github.com/mit-han-lab/tinyml/tree/master/tinytl)
 - ON THE QUANTIZATION OF RECURRENT NEURAL NETWORKS |[`[pdf]`](https://arxiv.org/pdf/2101.05453.pdf) 
+- **[TINY TRANSDUCER]** A HIGHLY-EFFICIENT SPEECH RECOGNITION MODEL ON EDGE DEVICES |[`[pdf]`](https://arxiv.org/pdf/2101.06856.pdf)
 
 
 ## Awesome TinyML Projects 
