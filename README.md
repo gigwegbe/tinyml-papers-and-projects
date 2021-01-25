@@ -87,6 +87,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [TinyML on Arduino](https://github.com/sandeepmistry/aimldevfest-workshop-2019)
 - [Water Meter System Complete](https://github.com/jomjol/water-meter-system-complete)
 - [Handwriting Recognition](https://www.hackster.io/naveenbskumar/handwriting-recognition-7583e3)
+- [Why Benchmarking TinyML Systems Is Challenging](https://analyticsindiamag.com/why-benchmarking-tinyml-systems-is-challenging/)
 
 ## Books and Articles
 - [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
