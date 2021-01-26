@@ -102,6 +102,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 
 
 ## Libraries and Tools
+- [Edge Impulse](https://www.edgeimpulse.com/)
 - [EVE is Edge Virtualization Engine](https://github.com/lf-edge/eve/blob/master/README.md)
 
 # Courses 
