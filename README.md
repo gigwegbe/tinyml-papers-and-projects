@@ -9,7 +9,8 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
  - Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference | [`[pdf]`](https://arxiv.org/pdf/1712.05877.pdf)
  - Resource-efficient Machine Learning in 2 KB RAM for the Internet of Things  | [`[pdf]`](https://www.microsoft.com/en-us/research/uploads/prod/2017/06/kumar17.pdf)
  - ProtoNN: Compressed and Accurate kNN for Resource-scarce Devices  | [`[pdf]`](https://www.microsoft.com/en-us/research/uploads/prod/2017/06/protonn.pdf)
- - 
+ - OPENMV: A PYTHON POWERED, EXTENSIBLE MACHINE VISION CAMERA | [`[pdf]`](https://arxiv.org/pdf/1711.10464.pdf) [`[official code]`]( https://github.com/openmv/openmv.git)
+
  ## 2018 
 - **[AMC]** AutoML for Model Compression and Acceleration on Mobile Devices | [`[pdf]`](https://arxiv.org/pdf/1802.03494.pdf) [`[official code]`](https://github.com/mit-han-lab/amc)
 - Mobile Machine Learning Hardware at ARM: A Systems-on-Chip (SoC) Perspective | [`[pdf]`](https://arxiv.org/pdf/1801.06274.pdf) 
