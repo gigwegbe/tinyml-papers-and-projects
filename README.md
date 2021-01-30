@@ -9,6 +9,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
  - Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference | [`[pdf]`](https://arxiv.org/pdf/1712.05877.pdf)
  - Resource-efficient Machine Learning in 2 KB RAM for the Internet of Things  | [`[pdf]`](https://www.microsoft.com/en-us/research/uploads/prod/2017/06/kumar17.pdf)
  - ProtoNN: Compressed and Accurate kNN for Resource-scarce Devices  | [`[pdf]`](https://www.microsoft.com/en-us/research/uploads/prod/2017/06/protonn.pdf)
+ - 
  ## 2018 
 - **[AMC]** AutoML for Model Compression and Acceleration on Mobile Devices | [`[pdf]`](https://arxiv.org/pdf/1802.03494.pdf) [`[official code]`](https://github.com/mit-han-lab/amc)
 - Mobile Machine Learning Hardware at ARM: A Systems-on-Chip (SoC) Perspective | [`[pdf]`](https://arxiv.org/pdf/1801.06274.pdf) 
@@ -59,6 +60,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Rethinking Generalization in American Sign Language Prediction for Edge Devices with Extremely Low Memory Footprint |[`[pdf]`](https://arxiv.org/pdf/2011.13741.pdf) [`[presentation]`](https://www.youtube.com/watch?v=bJ1vnhAbJ9o&feature=youtu.be)
 - **[ShadowNet]** A Secure and Efficient System for On-device Model Inference |[`[pdf]`](https://arxiv.org/pdf/2011.05905.pdf) 
 - Hardware Aware Training for Efficient Keyword Spotting on General Purpose and Specialized Hardware |[`[pdf]`](https://arxiv.org/pdf/2009.04465.pdf)
+- Automated facial recognition for wildlife that lack unique markings: A deep learning approach for brown bears  |[`[pdf]`](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.6840)
 - MLPerf Inference Benchmark |[`[pdf]`](https://arxiv.org/pdf/1911.02549.pdf) 
 - MLPerf Mobile Inference Benchmark : Why Mobile AI Benchmarking Is Hard and What to Do About It |[`[pdf]`](https://arxiv.org/pdf/2012.02328.pdf) 
 - **[TinyRL]** Learning to Seek: Tiny Robot Learning for Source Seeking on a Nano Quadcopter |[`[pdf]`](https://arxiv.org/pdf/1909.11236.pdf) 
