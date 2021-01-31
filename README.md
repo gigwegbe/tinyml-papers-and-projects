@@ -72,7 +72,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - ON THE QUANTIZATION OF RECURRENT NEURAL NETWORKS |[`[pdf]`](https://arxiv.org/pdf/2101.05453.pdf) 
 - **[TINY TRANSDUCER]** A HIGHLY-EFFICIENT SPEECH RECOGNITION MODEL ON EDGE DEVICES |[`[pdf]`](https://arxiv.org/pdf/2101.06856.pdf)
 - **[LEAF]** A LEARNABLE FRONTEND FOR AUDIO CLASSIFICATION |[`[pdf]`](https://arxiv.org/pdf/2101.08596.pdf)
-
+- Enabling Large NNs on Tiny MCUs with Swapping |[`[pdf]`](https://arxiv.org/pdf/2101.08744.pdf)
 
 ## Awesome TinyML Projects 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
