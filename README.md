@@ -95,6 +95,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Arduino Machine Learning: Build a Tensorflow lite model to control robot-car](https://www.survivingwithandroid.com/arduino-machine-learning-tensorflow-lite/)
 - [Build your own Google Assistant using tinyML](https://mjrobot.org/2021/01/27/building-an-intelligent-voice-assistant-from-scratch/)
 - [Weather forcasting with TinyML](https://github.com/BaptisteZloch/Weather_forcasting) 
+- [Localize your cat at home with BLE beacon, ESP32s, and Machine Learning](https://github.com/filipsPL/cat-localizer)
 
 ## Books and Articles
 - [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
