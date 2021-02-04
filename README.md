@@ -94,11 +94,12 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Why Benchmarking TinyML Systems Is Challenging](https://analyticsindiamag.com/why-benchmarking-tinyml-systems-is-challenging/)
 - [Arduino Machine Learning: Build a Tensorflow lite model to control robot-car](https://www.survivingwithandroid.com/arduino-machine-learning-tensorflow-lite/)
 - [Build your own Google Assistant using tinyML](https://mjrobot.org/2021/01/27/building-an-intelligent-voice-assistant-from-scratch/)
+- [Weather forcasting with TinyML](https://github.com/BaptisteZloch/Weather_forcasting) 
 
 ## Books and Articles
 - [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
 - [Model Quantization Using TensorFlow Lite](https://medium.com/sclable/model-quantization-using-tensorflow-lite-2fe6a171a90d)
-- [What is TinyML?](https://www.fierceelectronics.com/electronics/what-tinyml)
+- [What is TinyML?](https://www.fierceelectronics.com/electronics/what-tinyml)    
 - [TinyML as-a-Service: What is it and what does it mean for the IoT Edge?](https://www.ericsson.com/en/blog/2019/12/tinyml-as-a-service-iot-edge)
 - [TinyML is breathing life into billions of devices](https://thenextweb.com/neural/2020/09/03/tinyml-is-breathing-life-into-billions-of-devices/)
 - [TinyML as a Service and the challenges of machine learning at the edge](https://www.ericsson.com/en/blog/2019/12/tinyml-as-a-service)
