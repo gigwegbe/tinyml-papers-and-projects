@@ -65,6 +65,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - MLPerf Inference Benchmark |[`[pdf]`](https://arxiv.org/pdf/1911.02549.pdf) 
 - MLPerf Mobile Inference Benchmark : Why Mobile AI Benchmarking Is Hard and What to Do About It |[`[pdf]`](https://arxiv.org/pdf/2012.02328.pdf) 
 - **[TinyRL]** Learning to Seek: Tiny Robot Learning for Source Seeking on a Nano Quadcopter |[`[pdf]`](https://arxiv.org/pdf/1909.11236.pdf) 
+- **[Larq]** An Open-Source Library for Training Binarized Neural Networks |[`[pdf]`](https://arxiv.org/pdf/2011.09398.pdf) [`[presentation]`](https://www.youtube.com/watch?v=f9SNqDejOB0) [`[official code]`](https://github.com/larq/larq)
 
 ## 2021
 - **[I-BERT]** Integer-only BERT Quantization |[`[pdf]`](https://arxiv.org/pdf/2101.01321.pdf) 
@@ -73,6 +74,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[TINY TRANSDUCER]** A HIGHLY-EFFICIENT SPEECH RECOGNITION MODEL ON EDGE DEVICES |[`[pdf]`](https://arxiv.org/pdf/2101.06856.pdf)
 - **[LEAF]** A LEARNABLE FRONTEND FOR AUDIO CLASSIFICATION |[`[pdf]`](https://arxiv.org/pdf/2101.08596.pdf)
 - Enabling Large NNs on Tiny MCUs with Swapping |[`[pdf]`](https://arxiv.org/pdf/2101.08744.pdf)
+- Fixed-point Quantization of Convolutional Neural Networks for Quantized Inference on Embedded Platforms |[`[pdf]`](https://arxiv.org/pdf/2102.02147.pdf) 
 
 ## Awesome TinyML Projects 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
@@ -115,6 +117,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Edge Impulse](https://www.edgeimpulse.com/)
 - [EVE is Edge Virtualization Engine](https://github.com/lf-edge/eve/blob/master/README.md)
 - [microTVM](https://tvm.apache.org/docs/microtvm/index.html)
+- [Larq](https://github.com/larq/larq) 
 
 # Courses 
 - [CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home?authuser=0)
