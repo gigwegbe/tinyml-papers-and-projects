@@ -30,6 +30,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Compiling KB-Sized Machine Learning Models to Tiny IoT Devices | [`[pdf]`](microsoft.com/en-us/research/uploads/prod/2018/10/pldi19-SeeDot.pdf)
 - Reconfigurable Multitask Audio Dynamics Processing Scheme | [`[pdf]`](https://arxiv.org/abs/1903.06392 ) 
 - Pushing the limits of RNN Compression | [`[pdf]`](https://arxiv.org/pdf/1910.02558.pdf) 
+- A low-power end-to-end hybrid neuromorphic framework for surveillance applications | [`[pdf]`](https://arxiv.org/pdf/1910.09806.pdf) 
 - Memory-Driven Mixed Low Precision Quantization For Enabling Deep Network Inference On Microcontrollers | [`[pdf]`](https://arxiv.org/pdf/1905.13082.pdf) [`[official code]`](https://github.com/EEESlab/CMix-NN)
 - **[SpArSe]** Sparse Architecture Search for CNNs on Resource-Constrained Microcontrollers  |[`[pdf]`](https://arxiv.org/pdf/1905.12107.pdf) 
 
@@ -65,6 +66,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - MLPerf Inference Benchmark |[`[pdf]`](https://arxiv.org/pdf/1911.02549.pdf) 
 - MLPerf Mobile Inference Benchmark : Why Mobile AI Benchmarking Is Hard and What to Do About It |[`[pdf]`](https://arxiv.org/pdf/2012.02328.pdf) 
 - **[TinyRL]** Learning to Seek: Tiny Robot Learning for Source Seeking on a Nano Quadcopter |[`[pdf]`](https://arxiv.org/pdf/1909.11236.pdf) 
+- Pushing the Limits of Narrow Precision Inferencing at Cloud Scale with Microsoft Floating Point |[`[pdf]`](https://proceedings.neurips.cc//paper/2020/file/747e32ab0fea7fbd2ad9ec03daa3f840-Paper.pdf)
 - **[Larq]** An Open-Source Library for Training Binarized Neural Networks |[`[pdf]`](https://arxiv.org/pdf/2011.09398.pdf) [`[presentation]`](https://www.youtube.com/watch?v=f9SNqDejOB0) [`[official code]`](https://github.com/larq/larq)
 
 ## 2021
@@ -75,6 +77,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[LEAF]** A LEARNABLE FRONTEND FOR AUDIO CLASSIFICATION |[`[pdf]`](https://arxiv.org/pdf/2101.08596.pdf)
 - Enabling Large NNs on Tiny MCUs with Swapping |[`[pdf]`](https://arxiv.org/pdf/2101.08744.pdf)
 - Fixed-point Quantization of Convolutional Neural Networks for Quantized Inference on Embedded Platforms |[`[pdf]`](https://arxiv.org/pdf/2102.02147.pdf) 
+- 
 
 ## Awesome TinyML Projects 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
