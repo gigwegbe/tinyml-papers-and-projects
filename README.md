@@ -66,7 +66,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Automated facial recognition for wildlife that lack unique markings: A deep learning approach for brown bears  |[`[pdf]`](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.6840)
 - MLPerf Inference Benchmark |[`[pdf]`](https://arxiv.org/pdf/1911.02549.pdf) 
 - MLPerf Mobile Inference Benchmark : Why Mobile AI Benchmarking Is Hard and What to Do About It |[`[pdf]`](https://arxiv.org/pdf/2012.02328.pdf) 
-- **[TinyRL]** Learning to Seek: Tiny Robot Learning for Source Seeking on a Nano Quadcopter |[`[pdf]`](https://arxiv.org/pdf/1909.11236.pdf) 
+- **[TinyRL]** Learning to Seek: Tiny Robot Learning for Source Seeking on a Nano Quadcopter |[`[pdf]`](https://arxiv.org/pdf/1909.11236.pdf) [`[presentation]`](https://youtu.be/wmVKbX7MOnU)
 - Pushing the Limits of Narrow Precision Inferencing at Cloud Scale with Microsoft Floating Point |[`[pdf]`](https://proceedings.neurips.cc//paper/2020/file/747e32ab0fea7fbd2ad9ec03daa3f840-Paper.pdf)
 - **[Larq]** An Open-Source Library for Training Binarized Neural Networks |[`[pdf]`](https://arxiv.org/pdf/2011.09398.pdf) [`[presentation]`](https://www.youtube.com/watch?v=f9SNqDejOB0) [`[official code]`](https://github.com/larq/larq)
 
