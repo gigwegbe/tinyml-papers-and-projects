@@ -78,7 +78,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[LEAF]** A LEARNABLE FRONTEND FOR AUDIO CLASSIFICATION |[`[pdf]`](https://arxiv.org/pdf/2101.08596.pdf)
 - Enabling Large NNs on Tiny MCUs with Swapping |[`[pdf]`](https://arxiv.org/pdf/2101.08744.pdf)
 - Fixed-point Quantization of Convolutional Neural Networks for Quantized Inference on Embedded Platforms |[`[pdf]`](https://arxiv.org/pdf/2102.02147.pdf) 
-- 
+- Estimating indoor occupancy through low-cost BLE devices |[`[pdf]`](https://arxiv.org/pdf/2102.03351.pdf) 
 
 ## Awesome TinyML Projects 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
@@ -121,11 +121,13 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Edge Impulse](https://www.edgeimpulse.com/)
 - [EVE is Edge Virtualization Engine](https://github.com/lf-edge/eve/blob/master/README.md)
 - [microTVM](https://tvm.apache.org/docs/microtvm/index.html)
-- [Larq](https://github.com/larq/larq) 
+- [Larq](https://github.com/larq/larq)
+- [Neural Network on Microcontroller (NNoM)](https://github.com/majianjia/nnom) 
 
 # Courses 
 - [CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home?authuser=0)
 - [Tiny Machine Learning (TinyML)](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
+- [Introduction to Embedded Machine Learning](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
 - [Embedded and Distributed AI course at Jonkoping University, Sweden](https://www.youtube.com/watch?v=OTXqT00MmPA&list=PLyulI6o7oOtycIT15i_I2_mhuLxnNvPvX)
 
 
