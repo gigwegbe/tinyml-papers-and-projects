@@ -79,6 +79,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Enabling Large NNs on Tiny MCUs with Swapping |[`[pdf]`](https://arxiv.org/pdf/2101.08744.pdf)
 - Fixed-point Quantization of Convolutional Neural Networks for Quantized Inference on Embedded Platforms |[`[pdf]`](https://arxiv.org/pdf/2102.02147.pdf) 
 - Estimating indoor occupancy through low-cost BLE devices |[`[pdf]`](https://arxiv.org/pdf/2102.03351.pdf) 
+- [DEVICETTS: A SMALL-FOOTPRINT, FAST, STABLE NETWORK FOR ON-DEVICE TEXT-TO-SPEECH](https://arxiv.org/pdf/2010.15311.pdf)
 
 ## Awesome TinyML Projects 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
@@ -102,6 +103,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Build your own Google Assistant using tinyML](https://mjrobot.org/2021/01/27/building-an-intelligent-voice-assistant-from-scratch/)
 - [Weather forcasting with TinyML](https://github.com/BaptisteZloch/Weather_forcasting) 
 - [Localize your cat at home with BLE beacon, ESP32s, and Machine Learning](https://github.com/filipsPL/cat-localizer)
+- [Fall detection and heart rate monitoring using AVR-IoT](https://www.hackster.io/naveenbskumar/fall-detection-and-heart-rate-monitoring-using-avr-iot-75fb16)
 
 ## Books and Articles
 - [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
