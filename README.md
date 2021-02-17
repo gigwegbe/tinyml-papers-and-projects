@@ -105,6 +105,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Weather forcasting with TinyML](https://github.com/BaptisteZloch/Weather_forcasting) 
 - [Localize your cat at home with BLE beacon, ESP32s, and Machine Learning](https://github.com/filipsPL/cat-localizer)
 - [Fall detection and heart rate monitoring using AVR-IoT](https://www.hackster.io/naveenbskumar/fall-detection-and-heart-rate-monitoring-using-avr-iot-75fb16)
+- [Number recognition with MNIST on Raspberry Pi Pico](https://github.com/iwatake2222/pico-mnist)
 
 ## Books and Articles
 - [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
