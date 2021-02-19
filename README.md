@@ -141,7 +141,6 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 |  Title       |                     Speaker               |       Published Date      |
 |:------------:|:-----------------------------------------:|:-------------------------:| 
 |     ------   |        -----        |          -          |                 -------   |
-|    -------   |        -----        |          -          |                 -------   |
 
 
 ## Contact & Feedback
