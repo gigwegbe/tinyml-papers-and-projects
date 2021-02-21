@@ -82,6 +82,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[DEVICETTS]** A SMALL-FOOTPRINT, FAST, STABLE NETWORK FOR ON-DEVICE TEXT-TO-SPEECH |[`[pdf]`](https://arxiv.org/pdf/2010.15311.pdf)
 - A 0.57-GOPS/DSP Object Detection PIM Accelerator on FPGA |[`[pdf]`](https://dl.acm.org/doi/pdf/10.1145/3394885.3431659)
 - Rethinking Co-design of Neural Architectures and Hardware Accelerators |[`[pdf]`](https://arxiv.org/pdf/2102.08619.pdf)
+- **[Apollo]** Transferable Architecture Exploration |[`[pdf]`](https://arxiv.org/pdf/2102.01723.pdf)
 ## Awesome TinyML Projects 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
 - Moving From AI To IntelligentAI To Reduce The Cost Of AI At The Edge [`[official code]`](https://www.numerix-dsp.com/ai/) [`[presentation]`](https://youtu.be/mYy4Zv80tXQ)
