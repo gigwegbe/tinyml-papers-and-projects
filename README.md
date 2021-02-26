@@ -110,6 +110,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Fall detection and heart rate monitoring using AVR-IoT](https://www.hackster.io/naveenbskumar/fall-detection-and-heart-rate-monitoring-using-avr-iot-75fb16)
 - [Number recognition with MNIST on Raspberry Pi Pico](https://github.com/iwatake2222/pico-mnist)
 - [HallSensor RPM meter using Machine Learning](https://github.com/Miguelest07/HallSensor_ML_EdgeImpulse)
+- [The Maker Show: TinyML for wildlife conservation](https://dev.to/fordevs-community/the-maker-show-tinyml-for-wildlife-conservation-idg)
 
 ## Books and Articles
 - [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
