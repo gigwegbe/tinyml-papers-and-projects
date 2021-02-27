@@ -85,6 +85,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Rethinking Co-design of Neural Architectures and Hardware Accelerators |[`[pdf]`](https://arxiv.org/pdf/2102.08619.pdf)
 - **[Apollo]** Transferable Architecture Exploration |[`[pdf]`](https://arxiv.org/pdf/2102.01723.pdf)
 - DEEP NEURAL NETWORK BASED COUGH DETECTION USING BED-MOUNTED ACCELEROMETER MEASUREMENTS |[`[pdf]`](https://arxiv.org/pdf/2102.04997.pdf)
+- TapNet: The Design, Training, Implementation, and Applications of a Multi-Task Learning CNN for Off-Screen Mobile Input|[`[pdf]`](https://arxiv.org/pdf/2102.09087.pdf)
 ## Awesome TinyML Projects 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
 - Moving From AI To IntelligentAI To Reduce The Cost Of AI At The Edge [`[official code]`](https://www.numerix-dsp.com/ai/) [`[presentation]`](https://youtu.be/mYy4Zv80tXQ)
