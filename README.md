@@ -87,6 +87,9 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - DEEP NEURAL NETWORK BASED COUGH DETECTION USING BED-MOUNTED ACCELEROMETER MEASUREMENTS |[`[pdf]`](https://arxiv.org/pdf/2102.04997.pdf)
 - TapNet: The Design, Training, Implementation, and Applications of a Multi-Task Learning CNN for Off-Screen Mobile Input|[`[pdf]`](https://arxiv.org/pdf/2102.09087.pdf)
 - MEMORY-EFFICIENT SPEECH RECOGNITION ON SMART DEVICES |[`[pdf]`](https://arxiv.org/pdf/2102.11531.pdf)
+- SWIS - Shared Weight bIt Sparsity for Efficient Neural Network Acceleration |[`[pdf]`](https://arxiv.org/pdf/2103.01308.pdf)
+- Hardware Aware Training for Efficient Keyword Spotting on General Purpose and Specialized Hardware |[`[pdf]`](https://arxiv.org/pdf/2009.04465.pdf)
+
 ## Awesome TinyML Projects 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
 - Moving From AI To IntelligentAI To Reduce The Cost Of AI At The Edge [`[official code]`](https://www.numerix-dsp.com/ai/) [`[presentation]`](https://youtu.be/mYy4Zv80tXQ)
