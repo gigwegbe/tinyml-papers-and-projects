@@ -89,6 +89,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - MEMORY-EFFICIENT SPEECH RECOGNITION ON SMART DEVICES |[`[pdf]`](https://arxiv.org/pdf/2102.11531.pdf)
 - SWIS - Shared Weight bIt Sparsity for Efficient Neural Network Acceleration |[`[pdf]`](https://arxiv.org/pdf/2103.01308.pdf)
 - Hardware Aware Training for Efficient Keyword Spotting on General Purpose and Specialized Hardware |[`[pdf]`](https://arxiv.org/pdf/2009.04465.pdf)
+- Hypervector Design for Efficient Hyperdimensional Computing on Edge Devices  |[`[pdf]`](https://arxiv.org/pdf/2103.06709.pdf)
 
 ## Awesome TinyML Projects 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
