@@ -93,7 +93,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Hypervector Design for Efficient Hyperdimensional Computing on Edge Devices  |[`[pdf]`](https://arxiv.org/pdf/2103.06709.pdf)
 - When Being Soft Makes You Tough:A Collision Resilient Quadcopter Inspired by Arthropod Exoskeletons |[`[pdf]`](https://arxiv.org/pdf/2103.04423.pdf)
 - **[TinyOL]** TinyML with Online-Learning on Microcontrollers |[`[pdf]`](https://arxiv.org/pdf/2103.08295.pdf)
-
+- Quantization-Guided Training for Compact TinyML Models |[`[pdf]`](https://arxiv.org/pdf/2103.06231.pdf)
 ## Awesome TinyML Projects 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
 - Moving From AI To IntelligentAI To Reduce The Cost Of AI At The Edge [`[official code]`](https://www.numerix-dsp.com/ai/) [`[presentation]`](https://youtu.be/mYy4Zv80tXQ)
