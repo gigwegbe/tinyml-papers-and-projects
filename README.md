@@ -95,6 +95,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[TinyOL]** TinyML with Online-Learning on Microcontrollers |[`[pdf]`](https://arxiv.org/pdf/2103.08295.pdf)
 - Quantization-Guided Training for Compact TinyML Models |[`[pdf]`](https://arxiv.org/pdf/2103.06231.pdf)
 - hls4ml: An Open-Source Codesign Workflow to Empower Scientific Low-Power Machine Learning Devices |[`[pdf]`](https://arxiv.org/pdf/2103.05579.pdf)
+- Memory-Efficient, Limb Position-Aware Hand Gesture Recognition using Hyperdimensional Computing |[`[pdf]`](https://arxiv.org/pdf/2103.05267.pdf)
 ## Awesome TinyML Projects 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
 - Moving From AI To IntelligentAI To Reduce The Cost Of AI At The Edge [`[official code]`](https://www.numerix-dsp.com/ai/) [`[presentation]`](https://youtu.be/mYy4Zv80tXQ)
