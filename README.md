@@ -81,6 +81,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Enabling Large NNs on Tiny MCUs with Swapping |[`[pdf]`](https://arxiv.org/pdf/2101.08744.pdf)
 - Fixed-point Quantization of Convolutional Neural Networks for Quantized Inference on Embedded Platforms |[`[pdf]`](https://arxiv.org/pdf/2102.02147.pdf) 
 - Estimating indoor occupancy through low-cost BLE devices |[`[pdf]`](https://arxiv.org/pdf/2102.03351.pdf) 
+- **[Tiny Eats]** Eating Detection on a Microcontroller |[`[pdf]`](https://arxiv.org/pdf/2003.06699.pdf) 
 - **[DEVICETTS]** A SMALL-FOOTPRINT, FAST, STABLE NETWORK FOR ON-DEVICE TEXT-TO-SPEECH |[`[pdf]`](https://arxiv.org/pdf/2010.15311.pdf)
 - A 0.57-GOPS/DSP Object Detection PIM Accelerator on FPGA |[`[pdf]`](https://dl.acm.org/doi/pdf/10.1145/3394885.3431659)
 - Rethinking Co-design of Neural Architectures and Hardware Accelerators |[`[pdf]`](https://arxiv.org/pdf/2102.08619.pdf)
