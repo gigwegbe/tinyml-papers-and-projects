@@ -127,7 +127,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [HallSensor RPM meter using Machine Learning](https://github.com/Miguelest07/HallSensor_ML_EdgeImpulse)
 - [The Maker Show: TinyML for wildlife conservation](https://dev.to/fordevs-community/the-maker-show-tinyml-for-wildlife-conservation-idg)
 - [TinyML using different frameworks applied to STM32F407 uC](https://github.com/fjpolo/STM32F407TinyML)
-
+- [ESP32 Cam and Edge Impulse](https://github.com/luisomoreau/ESP32-Cam-Edge-Impulse)
 
 ## Books and Articles
 - [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
@@ -142,7 +142,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Tiny four-bit computers are now all you need to train AI](https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/)
 - [Taking Back Control](https://www.hackster.io/news/taking-back-control-14068dbb0bb7?fbclid=IwAR0QGucom06pzd7K5SJIdYByZr67xd29YlqTdbnK78OU7GqW540vJPeD534)
 - [How AI is Taking on Sensors](https://www.electropages.com/blog/2021/02/how-ai-taking-sensors)
-- 
+
 
 
 ## Libraries and Tools
