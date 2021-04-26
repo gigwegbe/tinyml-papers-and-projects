@@ -101,6 +101,9 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - A Comprehensive Survey on Hardware-Aware Neural Architecture Search |[`[pdf]`](https://arxiv.org/pdf/2101.09336.pdf)
 - An Intelligent Bed Sensor System for Non-Contact Respiratory Rate Monitoring |[`[pdf]`](https://arxiv.org/pdf/2103.13792.pdf)
 - Measuring what Really Matters: Optimizing Neural Networks for TinyML |[`[pdf]`](https://arxiv.org/pdf/2104.10645.pdf)
+- Few-Shot Keyword Spotting in Any Language |[`[pdf]`](https://arxiv.org/pdf/2104.01454.pdf)
+- DOPING: A TECHNIQUE FOR EXTREME COMPRESSION OF LSTM MODELS USING SPARSE STRUCTURED ADDITIVE MATRICES |[`[pdf]`] (https://proceedings.mlsys.org/paper/2021/file/a3f390d88e4c41f2747bfa2f1b5f87db-Paper.pdf)
+- 
 ## Awesome TinyML Projects 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
 - Moving From AI To IntelligentAI To Reduce The Cost Of AI At The Edge [`[official code]`](https://www.numerix-dsp.com/ai/) [`[presentation]`](https://youtu.be/mYy4Zv80tXQ)
