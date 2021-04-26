@@ -103,7 +103,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Measuring what Really Matters: Optimizing Neural Networks for TinyML |[`[pdf]`](https://arxiv.org/pdf/2104.10645.pdf)
 - Few-Shot Keyword Spotting in Any Language |[`[pdf]`](https://arxiv.org/pdf/2104.01454.pdf)
 - DOPING: A TECHNIQUE FOR EXTREME COMPRESSION OF LSTM MODELS USING SPARSE STRUCTURED ADDITIVE MATRICES |[`[pdf]`] (https://proceedings.mlsys.org/paper/2021/file/a3f390d88e4c41f2747bfa2f1b5f87db-Paper.pdf)
-- 
+- **[OutlierNets]** Highly Compact Deep Autoencoder Network Architectures for On-Device Acoustic Anomaly Detection |[`[pdf]`](https://arxiv.org/pdf/2104.00528.pdf)
 ## Awesome TinyML Projects 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
 - Moving From AI To IntelligentAI To Reduce The Cost Of AI At The Edge [`[official code]`](https://www.numerix-dsp.com/ai/) [`[presentation]`](https://youtu.be/mYy4Zv80tXQ)
