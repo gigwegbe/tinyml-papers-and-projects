@@ -105,6 +105,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - DOPING: A TECHNIQUE FOR EXTREME COMPRESSION OF LSTM MODELS USING SPARSE STRUCTURED ADDITIVE MATRICES |[`[pdf]`] (https://proceedings.mlsys.org/paper/2021/file/a3f390d88e4c41f2747bfa2f1b5f87db-Paper.pdf)
 - **[OutlierNets]** Highly Compact Deep Autoencoder Network Architectures for On-Device Acoustic Anomaly Detection |[`[pdf]`](https://arxiv.org/pdf/2104.00528.pdf)
 - **[TENT]** Efficient Quantization of Neural Networks on the tiny Edge with Tapered FixEd PoiNT |[`[pdf]`](https://arxiv.org/pdf/2104.02233.pdf)
+- A 1D-CNN Based Deep Learning Technique for Sleep Apnea Detection in IoT Sensors [pdf]`](https://arxiv.org/pdf/2105.00528.pdf)
 
 
 
