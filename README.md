@@ -106,6 +106,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[OutlierNets]** Highly Compact Deep Autoencoder Network Architectures for On-Device Acoustic Anomaly Detection |[`[pdf]`](https://arxiv.org/pdf/2104.00528.pdf)
 - **[TENT]** Efficient Quantization of Neural Networks on the tiny Edge with Tapered FixEd PoiNT |[`[pdf]`](https://arxiv.org/pdf/2104.02233.pdf)
 - A 1D-CNN Based Deep Learning Technique for Sleep Apnea Detection in IoT Sensors [pdf]`](https://arxiv.org/pdf/2105.00528.pdf)
+- ADAPTIVE TEST-TIME AUGMENTATION FOR LOW-POWER CPU [pdf]`](https://arxiv.org/pdf/2105.06183.pdf)
 
 
 
