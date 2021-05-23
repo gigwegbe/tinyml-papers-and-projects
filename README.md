@@ -109,6 +109,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - ADAPTIVE TEST-TIME AUGMENTATION FOR LOW-POWER CPU |[`[pdf]`] (https://arxiv.org/pdf/2105.06183.pdf)
 - **[ProxiMic]** Convenient Voice Activation via Close-to-Mic Speech Detected by a Single Microphone |[`[pdf]`] (https://dl.acm.org/doi/pdf/10.1145/3411764.3445687)
 - **[Fusion-DHL]** WiFi, IMU, and Floorplan Fusion for Dense History of Locations in Indoor Environments |[`[pdf]`] (https://arxiv.org/pdf/2105.08837.pdf)
+- **[µNAS]** Constrained Neural Architecture Search for Microcontrollers |[`[pdf]`] (https://dl.acm.org/doi/pdf/10.1145/3437984.3458836?utm_content=167905304&utm_medium=social&utm_source=linkedin&hss_channel=lcp-19239958)
 
 
 ## Awesome TinyML Projects 
