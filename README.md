@@ -141,6 +141,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [TinyML using different frameworks applied to STM32F407 uC](https://github.com/fjpolo/STM32F407TinyML)
 - [ESP32 Cam and Edge Impulse](https://github.com/luisomoreau/ESP32-Cam-Edge-Impulse)
 - [TinyML ESP32-CAM: Edge Image classification with Edge Impulse](https://www.survivingwithandroid.com/tinyml-esp32-cam-edge-image-classification-with-edge-impulse/)
+- [CurrentSense-TinyML](https://github.com/Santandersecurityresearch/CurrentSense-TinyML)
 
 ## Books and Articles
 - [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
