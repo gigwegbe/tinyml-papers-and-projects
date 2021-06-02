@@ -106,11 +106,11 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[OutlierNets]** Highly Compact Deep Autoencoder Network Architectures for On-Device Acoustic Anomaly Detection |[`[pdf]`](https://arxiv.org/pdf/2104.00528.pdf)
 - **[TENT]** Efficient Quantization of Neural Networks on the tiny Edge with Tapered FixEd PoiNT |[`[pdf]`](https://arxiv.org/pdf/2104.02233.pdf)
 - A 1D-CNN Based Deep Learning Technique for Sleep Apnea Detection in IoT Sensors [pdf]`](https://arxiv.org/pdf/2105.00528.pdf)
-- ADAPTIVE TEST-TIME AUGMENTATION FOR LOW-POWER CPU |[`[pdf]`] (https://arxiv.org/pdf/2105.06183.pdf)
-- **[ProxiMic]** Convenient Voice Activation via Close-to-Mic Speech Detected by a Single Microphone |[`[pdf]`] (https://dl.acm.org/doi/pdf/10.1145/3411764.3445687)
-- **[Fusion-DHL]** WiFi, IMU, and Floorplan Fusion for Dense History of Locations in Indoor Environments |[`[pdf]`] (https://arxiv.org/pdf/2105.08837.pdf)
-- **[µNAS]** Constrained Neural Architecture Search for Microcontrollers |[`[pdf]`] (https://dl.acm.org/doi/pdf/10.1145/3437984.3458836?utm_content=167905304&utm_medium=social&utm_source=linkedin&hss_channel=lcp-19239958)
-
+- ADAPTIVE TEST-TIME AUGMENTATION FOR LOW-POWER CPU |[`[pdf]`](https://arxiv.org/pdf/2105.06183.pdf)
+- **[ProxiMic]** Convenient Voice Activation via Close-to-Mic Speech Detected by a Single Microphone |[`[pdf]`](https://dl.acm.org/doi/pdf/10.1145/3411764.3445687)
+- **[Fusion-DHL]** WiFi, IMU, and Floorplan Fusion for Dense History of Locations in Indoor Environments |[`[pdf]`](https://arxiv.org/pdf/2105.08837.pdf)
+- **[µNAS]** Constrained Neural Architecture Search for Microcontrollers |[`[pdf]`](https://dl.acm.org/doi/pdf/10.1145/3437984.3458836?utm_content=167905304&utm_medium=social&utm_source=linkedin&hss_channel=lcp-19239958)
+- RaspberryPI for mosquito neutralization by power laser |[`[pdf]`](https://arxiv.org/pdf/2105.14190.pdf)
 
 ## Awesome TinyML Projects 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
