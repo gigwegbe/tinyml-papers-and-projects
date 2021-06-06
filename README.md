@@ -157,6 +157,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Taking Back Control](https://www.hackster.io/news/taking-back-control-14068dbb0bb7?fbclid=IwAR0QGucom06pzd7K5SJIdYByZr67xd29YlqTdbnK78OU7GqW540vJPeD534)
 - [How AI is Taking on Sensors](https://www.electropages.com/blog/2021/02/how-ai-taking-sensors)
 - [MLCommons™ Releases MLPerf™ Inference v1.0 Results with First Power Measurements](https://mlcommons.org/en/news/mlperf-inference-v10/)
+- [TapLock - A bike lock with machine learning](https://www.hackster.io/taplock/taplock-a-bike-lock-with-machine-learning-85641c)
 
 
 
