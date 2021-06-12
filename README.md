@@ -112,6 +112,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[µNAS]** Constrained Neural Architecture Search for Microcontrollers |[`[pdf]`](https://dl.acm.org/doi/pdf/10.1145/3437984.3458836?utm_content=167905304&utm_medium=social&utm_source=linkedin&hss_channel=lcp-19239958)
 - RaspberryPI for mosquito neutralization by power laser |[`[pdf]`](https://arxiv.org/pdf/2105.14190.pdf)
 - Widening Access to Applied Machine Learning with TinyML |[`[pdf]`](https://arxiv.org/pdf/2106.04008.pdf)
+- Using Machine Learning in Embedded Systems |[`[pdf]`](https://www.tiriasresearch.com/wp-content/uploads/2021/05/Using-Machine-Learning-in-Embedded-Systems.pdf)
 
 ## Awesome TinyML Projects 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
