@@ -113,6 +113,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - RaspberryPI for mosquito neutralization by power laser |[`[pdf]`](https://arxiv.org/pdf/2105.14190.pdf)
 - Widening Access to Applied Machine Learning with TinyML |[`[pdf]`](https://arxiv.org/pdf/2106.04008.pdf)
 - Using Machine Learning in Embedded Systems |[`[pdf]`](https://www.tiriasresearch.com/wp-content/uploads/2021/05/Using-Machine-Learning-in-Embedded-Systems.pdf)
+- **[FRILL]** A Non-Semantic Speech Embedding for Mobile Devices |[`[pdf]`](https://arxiv.org/pdf/2011.04609.pdf)
 
 ## Awesome TinyML Projects 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
