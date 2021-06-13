@@ -19,6 +19,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[GesturePod]** Gesture-based Interaction Cane for People with Visual Impairments | [`[pdf]`](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/CHI19_GesturePod.pdf) 
 - **[YOLO-LITE]** A Real-Time Object Detection Algorithm Optimized for Non-GPU Computers | [`[pdf]`](https://arxiv.org/pdf/1811.05588v1.pdf) 
 - **[CMSIS-NN]** Efficient Neural Network Kernels for Arm Cortex-M CPUs | [`[pdf]`](https://arxiv.org/pdf/1801.06601.pdf) 
+- Quantizing deep convolutional networks for efficient inference: A whitepaper | [`[pdf]`](https://arxiv.org/pdf/1806.08342.pdf) 
 
 
 ## 2019
