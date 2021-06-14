@@ -115,6 +115,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Widening Access to Applied Machine Learning with TinyML |[`[pdf]`](https://arxiv.org/pdf/2106.04008.pdf)
 - Using Machine Learning in Embedded Systems |[`[pdf]`](https://www.tiriasresearch.com/wp-content/uploads/2021/05/Using-Machine-Learning-in-Embedded-Systems.pdf)
 - **[FRILL]** A Non-Semantic Speech Embedding for Mobile Devices |[`[pdf]`](https://arxiv.org/pdf/2011.04609.pdf)
+- Few-Shot Keyword Spotting in Any Language |[`[pdf]`](https://github.com/luisomoreau/ESP32-Cam-Edge-Impulse)
 
 ## Awesome TinyML Projects 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
@@ -147,6 +148,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [TinyML ESP32-CAM: Edge Image classification with Edge Impulse](https://www.survivingwithandroid.com/tinyml-esp32-cam-edge-image-classification-with-edge-impulse/)
 - [CurrentSense-TinyML](https://github.com/Santandersecurityresearch/CurrentSense-TinyML)
 - [Under $100 and Less Than 1mW: Pneumonia Detection Solution for Everyone](https://www.edgeimpulse.com/blog/under-dollar100-and-less-than-1mw-pneumonia-detection-solution-for-everyone)
+- Few-Shot Keyword Spotting in Any Language (https://github.com/luisomoreau/ESP32-Cam-Edge-Impulse)
 
 ## Books and Articles
 - [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
