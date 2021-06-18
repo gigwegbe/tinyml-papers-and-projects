@@ -117,6 +117,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[FRILL]** A Non-Semantic Speech Embedding for Mobile Devices |[`[pdf]`](https://arxiv.org/pdf/2011.04609.pdf)
 - Few-Shot Keyword Spotting in Any Language  |[`[pdf]`](https://arxiv.org/pdf/2104.01454.pdf)
 - MLPerf Tiny Benchmark |[`[pdf]`](https://arxiv.org/pdf/2106.07597.pdf)
+- Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better |[`[pdf]`](https://arxiv.org/pdf/2106.08962.pdf)
 
 ## Awesome TinyML Projects 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
