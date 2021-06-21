@@ -108,6 +108,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[TENT]** Efficient Quantization of Neural Networks on the tiny Edge with Tapered FixEd PoiNT |[`[pdf]`](https://arxiv.org/pdf/2104.02233.pdf)
 - A 1D-CNN Based Deep Learning Technique for Sleep Apnea Detection in IoT Sensors  |[`[pdf]`](https://arxiv.org/pdf/2105.00528.pdf)
 - ADAPTIVE TEST-TIME AUGMENTATION FOR LOW-POWER CPU |[`[pdf]`](https://arxiv.org/pdf/2105.06183.pdf)
+- Compiler Toolchains for Deep Learning Workloads on Embedded Platforms |[`[pdf]`](https://arxiv.org/pdf/2104.04576.pdf)
 - **[ProxiMic]** Convenient Voice Activation via Close-to-Mic Speech Detected by a Single Microphone |[`[pdf]`](https://dl.acm.org/doi/pdf/10.1145/3411764.3445687)
 - **[Fusion-DHL]** WiFi, IMU, and Floorplan Fusion for Dense History of Locations in Indoor Environments |[`[pdf]`](https://arxiv.org/pdf/2105.08837.pdf)
 - **[µNAS]** Constrained Neural Architecture Search for Microcontrollers |[`[pdf]`](https://dl.acm.org/doi/pdf/10.1145/3437984.3458836?utm_content=167905304&utm_medium=social&utm_source=linkedin&hss_channel=lcp-19239958)
