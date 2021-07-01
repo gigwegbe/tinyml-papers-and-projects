@@ -78,6 +78,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[TinyTL]** Reduce Memory, Not Parameters for Efficient On-Device Learning |[`[pdf]`](https://arxiv.org/pdf/2007.11622.pdf) [`[official code]`](https://github.com/mit-han-lab/tinyml/tree/master/tinytl)
 - ON THE QUANTIZATION OF RECURRENT NEURAL NETWORKS |[`[pdf]`](https://arxiv.org/pdf/2101.05453.pdf) 
 - **[TINY TRANSDUCER]** A HIGHLY-EFFICIENT SPEECH RECOGNITION MODEL ON EDGE DEVICES |[`[pdf]`](https://arxiv.org/pdf/2101.06856.pdf)
+- LARQ COMPUTE ENGINE: DESIGN, BENCHMARK, AND DEPLOY STATE-OF-THE-ART BINARIZED NEURAL NETWORKS |[`[pdf]`](https://arxiv.org/pdf/2011.09398.pdf)
 - **[LEAF]** A LEARNABLE FRONTEND FOR AUDIO CLASSIFICATION |[`[pdf]`](https://arxiv.org/pdf/2101.08596.pdf)
 - Enabling Large NNs on Tiny MCUs with Swapping |[`[pdf]`](https://arxiv.org/pdf/2101.08744.pdf)
 - Fixed-point Quantization of Convolutional Neural Networks for Quantized Inference on Embedded Platforms |[`[pdf]`](https://arxiv.org/pdf/2102.02147.pdf) 
