@@ -156,6 +156,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [CurrentSense-TinyML](https://github.com/Santandersecurityresearch/CurrentSense-TinyML)
 - [Under $100 and Less Than 1mW: Pneumonia Detection Solution for Everyone](https://www.edgeimpulse.com/blog/under-dollar100-and-less-than-1mw-pneumonia-detection-solution-for-everyone)
 - [Early Pigs' Respiratory Disease Detection Using Edge Impulse](https://www.hackster.io/clinton_oduor/early-pigs-respiratory-disease-detection-using-edge-impulse-2ab039)
+- [Posture Watchdog](https://www.hackster.io/naveenbskumar/posture-watchdog-c03f77?utm_campaign=Advanced%20Wearables%20Contest%20Hackster.io&utm_source=twitter&utm_medium=social&utm_content=Dream%20Smart%20Wearables%20winner:%20posture%20watchdog)
 
 ## Books and Articles
 - [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
