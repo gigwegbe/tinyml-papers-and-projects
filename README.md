@@ -123,6 +123,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - AttendSeg: A Tiny Attention Condenser Neural Network for Semantic Segmentation on the Edge |[`[pdf]`](https://arxiv.org/pdf/2104.14623.pdf)
 - RANDOMNESS IN NEURAL NETWORK TRAINING:CHARACTERIZING THE IMPACT OF TOOLING |[`[pdf]`](https://arxiv.org/pdf/2106.11872.pdf)
 - TinyML: Analysis of Xtensa LX6 microprocessor for Neural Network Applications by ESP32 SoC |[`[pdf]`](https://arxiv.org/pdf/2106.10652.pdf)
+- LB-CNN: An Open Source Framework for Fast Training of Light Binary Convolutional Neural Networks using Chainer and Cupy |[`[pdf]`](https://arxiv.org/pdf/2106.15350.pdf)
 
 ## Awesome TinyML Projects 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
