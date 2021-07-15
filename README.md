@@ -178,6 +178,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [How AI is Taking on Sensors](https://www.electropages.com/blog/2021/02/how-ai-taking-sensors)
 - [MLCommons™ Releases MLPerf™ Inference v1.0 Results with First Power Measurements](https://mlcommons.org/en/news/mlperf-inference-v10/)
 - [TapLock - A bike lock with machine learning](https://www.hackster.io/taplock/taplock-a-bike-lock-with-machine-learning-85641c)
+- [Neural network architectures for deploying TinyML applications on commodity microcontrollers](https://community.arm.com/developer/research/b/articles/posts/neural-network-architectures-for-deploying-tinyml-applications-on-commodity-microcontrollers)
 
 
 
