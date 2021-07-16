@@ -124,6 +124,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - RANDOMNESS IN NEURAL NETWORK TRAINING:CHARACTERIZING THE IMPACT OF TOOLING |[`[pdf]`](https://arxiv.org/pdf/2106.11872.pdf)
 - TinyML: Analysis of Xtensa LX6 microprocessor for Neural Network Applications by ESP32 SoC |[`[pdf]`](https://arxiv.org/pdf/2106.10652.pdf)
 - LB-CNN: An Open Source Framework for Fast Training of Light Binary Convolutional Neural Networks using Chainer and Cupy |[`[pdf]`](https://arxiv.org/pdf/2106.15350.pdf)
+- Only Train Once: A One-Shot Neural Network Training And Pruning Framework |[`[pdf]`](https://arxiv.org/pdf/2107.07467.pdf)
 
 ## Awesome TinyML Projects 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
