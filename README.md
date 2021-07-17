@@ -159,6 +159,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Under $100 and Less Than 1mW: Pneumonia Detection Solution for Everyone](https://www.edgeimpulse.com/blog/under-dollar100-and-less-than-1mw-pneumonia-detection-solution-for-everyone)
 - [Early Pigs' Respiratory Disease Detection Using Edge Impulse](https://www.hackster.io/clinton_oduor/early-pigs-respiratory-disease-detection-using-edge-impulse-2ab039)
 - [Posture Watchdog](https://www.hackster.io/naveenbskumar/posture-watchdog-c03f77?utm_campaign=Advanced%20Wearables%20Contest%20Hackster.io&utm_source=twitter&utm_medium=social&utm_content=Dream%20Smart%20Wearables%20winner:%20posture%20watchdog)
+- [Wireless Quarter: Edge Intelligence](https://www.nordicsemi.com/-/media/Publications/Wireless-Quarter-pdf/2021/WQ_Issue_2_2021.pdf?la=en&hash=A58D1AB12248E18E465658CE3CDFE33F9187692F#page=8)
 
 ## Benchmarking
 - [EEMBCs EnergyRunner](https://github.com/eembc/energyrunner)
