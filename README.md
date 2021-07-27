@@ -183,6 +183,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [TapLock - A bike lock with machine learning](https://www.hackster.io/taplock/taplock-a-bike-lock-with-machine-learning-85641c)
 - [Neural network architectures for deploying TinyML applications on commodity microcontrollers](https://community.arm.com/developer/research/b/articles/posts/neural-network-architectures-for-deploying-tinyml-applications-on-commodity-microcontrollers)
 - [A natively flexible 32-bit Arm microprocessor](https://www.nature.com/articles/s41586-021-03625-w)
+- [Wearable Devices Can Reduce Collision Risk in Blind and Visually Impaired People](https://masseyeandear.org/news/press-releases/2021/07/wearable-devices-can-reduce-collision-risk-in-blind-and-visually-impaired-people)
 
 
 
