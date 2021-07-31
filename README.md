@@ -196,9 +196,10 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 
 # Courses 
 - [CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home?authuser=0) |[Youtube](https://www.youtube.com/channel/UCLv1K6OaYHP44hXFd5rNqyA)
-- [Tiny Machine Learning (TinyML)](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
+- [Tiny Machine Learning (TinyML)](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)|[`[code]`](https://github.com/tinyMLx/colabs)
 - [Introduction to Embedded Machine Learning](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
 - [Embedded and Distributed AI course at Jonkoping University, Sweden](https://www.youtube.com/watch?v=OTXqT00MmPA&list=PLyulI6o7oOtycIT15i_I2_mhuLxnNvPvX)
+- 
 
 
 ## TinyML Talks 
