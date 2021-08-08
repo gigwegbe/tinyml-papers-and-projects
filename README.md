@@ -161,6 +161,8 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Posture Watchdog](https://www.hackster.io/naveenbskumar/posture-watchdog-c03f77?utm_campaign=Advanced%20Wearables%20Contest%20Hackster.io&utm_source=twitter&utm_medium=social&utm_content=Dream%20Smart%20Wearables%20winner:%20posture%20watchdog)
 - [Wireless Quarter: Edge Intelligence](https://www.nordicsemi.com/-/media/Publications/Wireless-Quarter-pdf/2021/WQ_Issue_2_2021.pdf?la=en&hash=A58D1AB12248E18E465658CE3CDFE33F9187692F#page=8)
 - [Localized Environmental Sensing With TinyML](https://highdemandskills.com/localized-monitoring-tinyml/)
+- [BEANNA: A Binary-Enabled Architecture for
+Neural Network Acceleration](https://arxiv.org/pdf/2108.02313.pdf)
 
 ## Benchmarking
 - [EEMBCs EnergyRunner](https://github.com/eembc/energyrunner)
@@ -185,6 +187,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [A natively flexible 32-bit Arm microprocessor](https://www.nature.com/articles/s41586-021-03625-w)
 - [Wearable Devices Can Reduce Collision Risk in Blind and Visually Impaired People](https://masseyeandear.org/news/press-releases/2021/07/wearable-devices-can-reduce-collision-risk-in-blind-and-visually-impaired-people)
 - [TinyML in MicroCosmos](https://www.hackster.io/CHA_RAN/tinyml-in-microcosmos-c1161c)
+
 
 
 ## Libraries and Tools
