@@ -163,6 +163,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Localized Environmental Sensing With TinyML](https://highdemandskills.com/localized-monitoring-tinyml/)
 - [BEANNA: A Binary-Enabled Architecture for
 Neural Network Acceleration](https://arxiv.org/pdf/2108.02313.pdf)
+- [Feature Augmented Hybrid CNN for Stress Recognition Using Wrist-based Photoplethysmography Sensor](https://arxiv.org/pdf/2108.02313.pdf)
 
 ## Benchmarking
 - [EEMBCs EnergyRunner](https://github.com/eembc/energyrunner)
