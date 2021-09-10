@@ -1,12 +1,13 @@
-# TinyML Devices Outlines(Under Construction)
+# TinyML Devices Outlines (Under Construction)
+
 - Specifications
 - Projects Used
 - Vendors
 
-
 ## Boards
-- Arduino Nano 
+
+- Arduino Nano
 - Raspberry pi boards
-- Esp32 devices 
-- OpenMV devices 
-- reTerminal 
+- Esp32 devices
+- OpenMV devices
+- reTerminal
