@@ -1,89 +1,97 @@
 # TinyML Paper and Projects
-This is a list of interesting papers, projects, articles and talks about TinyML. 
+
+This is a list of interesting papers, projects, articles and talks about TinyML.
+
 # Awesome Papers
-## 2016 
-- DEEP COMPRESSION: COMPRESSING DEEP NEURAL NETWORKS WITH PRUNING, TRAINED QUANTIZATION AND HUFFMAN CODING | [`[pdf]`](https://arxiv.org/pdf/1510.00149.pdf) 
+
+## 2016
+
+- DEEP COMPRESSION: COMPRESSING DEEP NEURAL NETWORKS WITH PRUNING, TRAINED QUANTIZATION AND HUFFMAN CODING | [`[pdf]`](https://arxiv.org/pdf/1510.00149.pdf)
 - **[SQUEEZENET]** ALEXNET-LEVEL ACCURACY WITH50X FEWER PARAMETERS AND <0.5MB MODEL SIZE | [`[pdf]`](https://arxiv.org/pdf/1602.07360.pdf)
- 
-## 2017 
- - Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference | [`[pdf]`](https://arxiv.org/pdf/1712.05877.pdf)
- - Resource-efficient Machine Learning in 2 KB RAM for the Internet of Things  | [`[pdf]`](https://www.microsoft.com/en-us/research/uploads/prod/2017/06/kumar17.pdf)
- - ProtoNN: Compressed and Accurate kNN for Resource-scarce Devices  | [`[pdf]`](https://www.microsoft.com/en-us/research/uploads/prod/2017/06/protonn.pdf)
- - OPENMV: A PYTHON POWERED, EXTENSIBLE MACHINE VISION CAMERA | [`[pdf]`](https://arxiv.org/pdf/1711.10464.pdf) [`[official code]`]( https://github.com/openmv/openmv.git)
 
- ## 2018 
+## 2017
+
+- Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference | [`[pdf]`](https://arxiv.org/pdf/1712.05877.pdf)
+- Resource-efficient Machine Learning in 2 KB RAM for the Internet of Things  | [`[pdf]`](https://www.microsoft.com/en-us/research/uploads/prod/2017/06/kumar17.pdf)
+- ProtoNN: Compressed and Accurate kNN for Resource-scarce Devices  | [`[pdf]`](https://www.microsoft.com/en-us/research/uploads/prod/2017/06/protonn.pdf)
+- OPENMV: A PYTHON POWERED, EXTENSIBLE MACHINE VISION CAMERA | [`[pdf]`](https://arxiv.org/pdf/1711.10464.pdf) [`[official code]`]( https://github.com/openmv/openmv.git)
+
+## 2018
+
 - **[AMC]** AutoML for Model Compression and Acceleration on Mobile Devices | [`[pdf]`](https://arxiv.org/pdf/1802.03494.pdf) [`[official code]`](https://github.com/mit-han-lab/amc)
-- Mobile Machine Learning Hardware at ARM: A Systems-on-Chip (SoC) Perspective | [`[pdf]`](https://arxiv.org/pdf/1801.06274.pdf) 
-- **[HAQ]** Hardware-Aware Automated Quantization with Mixed Precision | [`[pdf]`](https://arxiv.org/abs/1811.08886) 
-- Efficient and Robust Machine Learning for Real-World Systems | [`[pdf]`](https://arxiv.org/pdf/1812.02240.pdf) 
-- **[GesturePod]** Gesture-based Interaction Cane for People with Visual Impairments | [`[pdf]`](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/CHI19_GesturePod.pdf) 
-- **[YOLO-LITE]** A Real-Time Object Detection Algorithm Optimized for Non-GPU Computers | [`[pdf]`](https://arxiv.org/pdf/1811.05588v1.pdf) 
-- **[CMSIS-NN]** Efficient Neural Network Kernels for Arm Cortex-M CPUs | [`[pdf]`](https://arxiv.org/pdf/1801.06601.pdf) 
-- Quantizing deep convolutional networks for efficient inference: A whitepaper | [`[pdf]`](https://arxiv.org/pdf/1806.08342.pdf) 
-
+- Mobile Machine Learning Hardware at ARM: A Systems-on-Chip (SoC) Perspective | [`[pdf]`](https://arxiv.org/pdf/1801.06274.pdf)
+- **[HAQ]** Hardware-Aware Automated Quantization with Mixed Precision | [`[pdf]`](https://arxiv.org/abs/1811.08886)
+- Efficient and Robust Machine Learning for Real-World Systems | [`[pdf]`](https://arxiv.org/pdf/1812.02240.pdf)
+- **[GesturePod]** Gesture-based Interaction Cane for People with Visual Impairments | [`[pdf]`](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/CHI19_GesturePod.pdf)
+- **[YOLO-LITE]** A Real-Time Object Detection Algorithm Optimized for Non-GPU Computers | [`[pdf]`](https://arxiv.org/pdf/1811.05588v1.pdf)
+- **[CMSIS-NN]** Efficient Neural Network Kernels for Arm Cortex-M CPUs | [`[pdf]`](https://arxiv.org/pdf/1801.06601.pdf)
+- Quantizing deep convolutional networks for efficient inference: A whitepaper | [`[pdf]`](https://arxiv.org/pdf/1806.08342.pdf)
 
 ## 2019
+
 - FastGRNN: A Fast, Accurate, Stable and Tiny Kilobyte Sized Gated Recurrent Neural Network | [`[pdf]`](https://arxiv.org/pdf/1901.02358.pdf)
 - Image Classification on IoT Edge Devices: Profiling and Modeling| [`[pdf]`](https://arxiv.org/pdf/1902.11119.pdf)
 - **[PROXYLESSNAS]** DIRECT NEURAL ARCHITECTURE SEARCH ON TARGET TASK AND HARDWARE |[`[pdf]`](https://arxiv.org/pdf/1812.00332.pdf) [`[official code]`](https://github.com/mit-han-lab/proxylessnas)
-- Energy Efficient Hardware for On-Device CNN Inference via Transfer Learning | [`[pdf]`](https://arxiv.org/pdf/1812.01672.pdf) 
-- Visual Wake Words Dataset | [`[pdf]`](https://arxiv.org/pdf/1906.05721.pdf) 
+- Energy Efficient Hardware for On-Device CNN Inference via Transfer Learning | [`[pdf]`](https://arxiv.org/pdf/1812.01672.pdf)
+- Visual Wake Words Dataset | [`[pdf]`](https://arxiv.org/pdf/1906.05721.pdf)
 - Compiling KB-Sized Machine Learning Models to Tiny IoT Devices | [`[pdf]`](microsoft.com/en-us/research/uploads/prod/2018/10/pldi19-SeeDot.pdf)
-- Reconfigurable Multitask Audio Dynamics Processing Scheme | [`[pdf]`](https://arxiv.org/abs/1903.06392 ) 
-- Pushing the limits of RNN Compression | [`[pdf]`](https://arxiv.org/pdf/1910.02558.pdf) 
-- A low-power end-to-end hybrid neuromorphic framework for surveillance applications | [`[pdf]`](https://arxiv.org/pdf/1910.09806.pdf) 
+- Reconfigurable Multitask Audio Dynamics Processing Scheme | [`[pdf]`](https://arxiv.org/abs/1903.06392 )
+- Pushing the limits of RNN Compression | [`[pdf]`](https://arxiv.org/pdf/1910.02558.pdf)
+- A low-power end-to-end hybrid neuromorphic framework for surveillance applications | [`[pdf]`](https://arxiv.org/pdf/1910.09806.pdf)
 - Memory-Driven Mixed Low Precision Quantization For Enabling Deep Network Inference On Microcontrollers | [`[pdf]`](https://arxiv.org/pdf/1905.13082.pdf) [`[official code]`](https://github.com/EEESlab/CMix-NN)
-- **[SpArSe]** Sparse Architecture Search for CNNs on Resource-Constrained Microcontrollers  |[`[pdf]`](https://arxiv.org/pdf/1905.12107.pdf) 
-- Latent Weights Do Not Exist: Rethinking Binarized Neural Network Optimization  |[`[pdf]`](https://arxiv.org/pdf/1906.02107.pdf) 
+- **[SpArSe]** Sparse Architecture Search for CNNs on Resource-Constrained Microcontrollers  |[`[pdf]`](https://arxiv.org/pdf/1905.12107.pdf)
+- Latent Weights Do Not Exist: Rethinking Binarized Neural Network Optimization  |[`[pdf]`](https://arxiv.org/pdf/1906.02107.pdf)
 
 ## 2020
-- COMPRESSING RNNS FOR IOT DEVICES BY 15-38X USING KRONECKER PRODUCTS |[`[pdf]`](https://arxiv.org/pdf/1906.02876.pdf) 
-- BENCHMARKING TINYML SYSTEMS: CHALLENGES AND DIRECTION |[`[pdf]`](https://arxiv.org/pdf/2003.04821v3.pdf) 
-- Lite Transformer with Long-Short Range Attention |[`[pdf]`](https://arxiv.org/pdf/2004.11886.pdf) 
-- **[FANN-on-MCU]** An Open-Source Toolkit for Energy-Efficient Neural Network Inference at the Edge of the Internet of Things |[`[pdf]`](https://arxiv.org/pdf/1911.03314.pdf) 
-- **[TENSORFLOW LITE MICRO]** EMBEDDED MACHINE LEARNING ON TINYML SYSTEMS |[`[pdf]`](https://arxiv.org/pdf/2010.08678v2.pdf) 
-- **[AttendNets]** Tiny Deep Image Recognition Neural Networks for the Edge via Visual Attention Condensers |[`[pdf]`](https://arxiv.org/pdf/2009.14385v1.pdf) 
-- **[TinySpeech]** Attention Condensers for Deep Speech Recognition Neural Networks on Edge Devices |[`[pdf]`](https://arxiv.org/pdf/2008.04245v6.pdf) 
+
+- COMPRESSING RNNS FOR IOT DEVICES BY 15-38X USING KRONECKER PRODUCTS |[`[pdf]`](https://arxiv.org/pdf/1906.02876.pdf)
+- BENCHMARKING TINYML SYSTEMS: CHALLENGES AND DIRECTION |[`[pdf]`](https://arxiv.org/pdf/2003.04821v3.pdf)
+- Lite Transformer with Long-Short Range Attention |[`[pdf]`](https://arxiv.org/pdf/2004.11886.pdf)
+- **[FANN-on-MCU]** An Open-Source Toolkit for Energy-Efficient Neural Network Inference at the Edge of the Internet of Things |[`[pdf]`](https://arxiv.org/pdf/1911.03314.pdf)
+- **[TENSORFLOW LITE MICRO]** EMBEDDED MACHINE LEARNING ON TINYML SYSTEMS |[`[pdf]`](https://arxiv.org/pdf/2010.08678v2.pdf)
+- **[AttendNets]** Tiny Deep Image Recognition Neural Networks for the Edge via Visual Attention Condensers |[`[pdf]`](https://arxiv.org/pdf/2009.14385v1.pdf)
+- **[TinySpeech]** Attention Condensers for Deep Speech Recognition Neural Networks on Edge Devices |[`[pdf]`](https://arxiv.org/pdf/2008.04245v6.pdf)
 - Robust navigation with tinyML for autonomous mini-vehicles |[`[pdf]`](https://arxiv.org/pdf/2007.00302v1.pdf) [`[official code]`](https://github.com/praesc/Robust-navigation-with-TinyML)
 - **[MICRONETS]** NEURAL NETWORK ARCHITECTURES FOR DEPLOYING TINYML APPLICATIONS ON COMMODITY MICROCONTROLLERS |[`[pdf]`](https://arxiv.org/pdf/2010.11267v2.pdf)
 - **[TinyLSTMs]** Efficient Neural Speech Enhancement for Hearing Aids |[`[pdf]`](https://arxiv.org/pdf/2005.11138.pdf)
 - **[MCUNet]** Tiny Deep Learning on IoT Devices |[`[pdf]`](https://arxiv.org/abs/2007.10319) [`[official code]`](https://github.com/mit-han-lab/mcunet)
-- Efficient Residue Number System Based Winograd Convolution | [`[pdf]`](https://arxiv.org/pdf/2007.12216.pdf) 
-- On Front-end Gain Invariant Modeling for Wake Word Spotting | [`[pdf]`](https://arxiv.org/pdf/2010.06676.pdf) 
-- TOWARDS DATA-EFFICIENT MODELING FOR WAKE WORD SPOTTING | [`[pdf]`](https://arxiv.org/pdf/2010.06659.pdf) 
-- Accurate Detection of Wake Word Start and End Using a CNN | [`[pdf]`](https://arxiv.org/pdf/2008.03790.pdf) 
-- **[PoPS]** Policy Pruning and Shrinking for Deep Reinforcement Learning | [`[pdf]`](https://arxiv.org/pdf/2001.05012.pdf) 
+- Efficient Residue Number System Based Winograd Convolution | [`[pdf]`](https://arxiv.org/pdf/2007.12216.pdf)
+- On Front-end Gain Invariant Modeling for Wake Word Spotting | [`[pdf]`](https://arxiv.org/pdf/2010.06676.pdf)
+- TOWARDS DATA-EFFICIENT MODELING FOR WAKE WORD SPOTTING | [`[pdf]`](https://arxiv.org/pdf/2010.06659.pdf)
+- Accurate Detection of Wake Word Start and End Using a CNN | [`[pdf]`](https://arxiv.org/pdf/2008.03790.pdf)
+- **[PoPS]** Policy Pruning and Shrinking for Deep Reinforcement Learning | [`[pdf]`](https://arxiv.org/pdf/2001.05012.pdf)
 - Howl: A Deployed, Open-Source Wake Word Detection System | [`[pdf]`](https://arxiv.org/pdf/2008.09606.pdf) [`[official code]`](https://github.com/castorini/howl)
-- **[LeakyPick]** IoT Audio Spy Detector | [`[pdf]`](https://arxiv.org/pdf/2007.00500.pdf) 
-- On-Device Machine Learning: An Algorithms and Learning Theory Perspective  | [`[pdf]`](https://arxiv.org/pdf/1911.00623.pdf) 
-- Leveraging Automated Mixed-Low-Precision Quantization for tiny edge microcontrollers | [`[pdf]`](https://arxiv.org/pdf/2008.05124.pdf) 
-- OPTIMIZE WHAT MATTERS: TRAINING DNN-HMM KEYWORD SPOTTING MODEL USING END METRIC | [`[pdf]`](https://arxiv.org/pdf/2011.01151.pdf) 
+- **[LeakyPick]** IoT Audio Spy Detector | [`[pdf]`](https://arxiv.org/pdf/2007.00500.pdf)
+- On-Device Machine Learning: An Algorithms and Learning Theory Perspective  | [`[pdf]`](https://arxiv.org/pdf/1911.00623.pdf)
+- Leveraging Automated Mixed-Low-Precision Quantization for tiny edge microcontrollers | [`[pdf]`](https://arxiv.org/pdf/2008.05124.pdf)
+- OPTIMIZE WHAT MATTERS: TRAINING DNN-HMM KEYWORD SPOTTING MODEL USING END METRIC | [`[pdf]`](https://arxiv.org/pdf/2011.01151.pdf)
 - **[RNNPool]** Efficient Non-linear Pooling for RAM Constrained Inference | [`[blog]`](https://www.microsoft.com/en-us/research/blog/seeing-on-tiny-battery-powered-microcontrollers-with-rnnpool/?utm_medium=email&_hsmi=104017359&_hsenc=p2ANqtz-_DVkWnyh_NhAV6j4hTFngepUyiNjZ5GO5CYIQfpl5NzerjwxOBQcpdkilzGpt9ic4HglvgM80h7wIkFNX89xe-3_j7Kw&utm_content=104017359&utm_source=hs_email)  [`[pdf]`](https://arxiv.org/pdf/2002.11921.pdf) [`[official code]`](https://github.com/microsoft/EdgeML/blob/master/pytorch/edgeml_pytorch/graph/rnnpool.py)
-- **[Shiftry]** RNN Inference in 2KB of RAM |[`[pdf]`](https://www.microsoft.com/en-us/research/uploads/prod/2020/10/oopsla20main-p230-p-aba27a6-48263M-final.pdf) 
+- **[Shiftry]** RNN Inference in 2KB of RAM |[`[pdf]`](https://www.microsoft.com/en-us/research/uploads/prod/2020/10/oopsla20main-p230-p-aba27a6-48263M-final.pdf)
 - **[Once for All]** Train One Network and Specialize it for Efficient Deployment  |[`[pdf]`](https://arxiv.org/pdf/1908.09791.pdf) [`[official code]`](https://github.com/mit-han-lab/once-for-all)
 - A Tiny CNN Architecture for Medical Face Mask Detection for Resource-Constrained Endpoints  |[`[pdf]`](https://arxiv.org/pdf/2011.14858.pdf)
 - Rethinking Generalization in American Sign Language Prediction for Edge Devices with Extremely Low Memory Footprint |[`[pdf]`](https://arxiv.org/pdf/2011.13741.pdf) [`[presentation]`](https://www.youtube.com/watch?v=bJ1vnhAbJ9o&feature=youtu.be)
-- **[ShadowNet]** A Secure and Efficient System for On-device Model Inference |[`[pdf]`](https://arxiv.org/pdf/2011.05905.pdf) 
+- **[ShadowNet]** A Secure and Efficient System for On-device Model Inference |[`[pdf]`](https://arxiv.org/pdf/2011.05905.pdf)
 - Hardware Aware Training for Efficient Keyword Spotting on General Purpose and Specialized Hardware |[`[pdf]`](https://arxiv.org/pdf/2009.04465.pdf)
 - Automated facial recognition for wildlife that lack unique markings: A deep learning approach for brown bears  |[`[pdf]`](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.6840)
 - The Hardware Lottery |[`[pdf]`](https://arxiv.org/pdf/2009.06489.pdf)
-- MLPerf Inference Benchmark |[`[pdf]`](https://arxiv.org/pdf/1911.02549.pdf) 
-- MLPerf Mobile Inference Benchmark : Why Mobile AI Benchmarking Is Hard and What to Do About It |[`[pdf]`](https://arxiv.org/pdf/2012.02328.pdf) 
+- MLPerf Inference Benchmark |[`[pdf]`](https://arxiv.org/pdf/1911.02549.pdf)
+- MLPerf Mobile Inference Benchmark : Why Mobile AI Benchmarking Is Hard and What to Do About It |[`[pdf]`](https://arxiv.org/pdf/2012.02328.pdf)
 - **[TinyRL]** Learning to Seek: Tiny Robot Learning for Source Seeking on a Nano Quadcopter |[`[pdf]`](https://arxiv.org/pdf/1909.11236.pdf) [`[presentation]`](https://youtu.be/wmVKbX7MOnU)
 - Pushing the Limits of Narrow Precision Inferencing at Cloud Scale with Microsoft Floating Point |[`[pdf]`](https://proceedings.neurips.cc//paper/2020/file/747e32ab0fea7fbd2ad9ec03daa3f840-Paper.pdf)
 - **[Larq]** An Open-Source Library for Training Binarized Neural Networks |[`[pdf]`](https://arxiv.org/pdf/2011.09398.pdf) [`[presentation]`](https://www.youtube.com/watch?v=f9SNqDejOB0) [`[official code]`](https://github.com/larq/larq)
 
 ## 2021
-- **[I-BERT]** Integer-only BERT Quantization |[`[pdf]`](https://arxiv.org/pdf/2101.01321.pdf) 
+
+- **[I-BERT]** Integer-only BERT Quantization |[`[pdf]`](https://arxiv.org/pdf/2101.01321.pdf)
 - **[TinyTL]** Reduce Memory, Not Parameters for Efficient On-Device Learning |[`[pdf]`](https://arxiv.org/pdf/2007.11622.pdf) [`[official code]`](https://github.com/mit-han-lab/tinyml/tree/master/tinytl)
-- ON THE QUANTIZATION OF RECURRENT NEURAL NETWORKS |[`[pdf]`](https://arxiv.org/pdf/2101.05453.pdf) 
+- ON THE QUANTIZATION OF RECURRENT NEURAL NETWORKS |[`[pdf]`](https://arxiv.org/pdf/2101.05453.pdf)
 - **[TINY TRANSDUCER]** A HIGHLY-EFFICIENT SPEECH RECOGNITION MODEL ON EDGE DEVICES |[`[pdf]`](https://arxiv.org/pdf/2101.06856.pdf)
 - LARQ COMPUTE ENGINE: DESIGN, BENCHMARK, AND DEPLOY STATE-OF-THE-ART BINARIZED NEURAL NETWORKS |[`[pdf]`](https://arxiv.org/pdf/2011.09398.pdf)
 - **[LEAF]** A LEARNABLE FRONTEND FOR AUDIO CLASSIFICATION |[`[pdf]`](https://arxiv.org/pdf/2101.08596.pdf)
 - Enabling Large NNs on Tiny MCUs with Swapping |[`[pdf]`](https://arxiv.org/pdf/2101.08744.pdf)
-- Fixed-point Quantization of Convolutional Neural Networks for Quantized Inference on Embedded Platforms |[`[pdf]`](https://arxiv.org/pdf/2102.02147.pdf) 
-- Estimating indoor occupancy through low-cost BLE devices |[`[pdf]`](https://arxiv.org/pdf/2102.03351.pdf) 
-- **[Tiny Eats]** Eating Detection on a Microcontroller |[`[pdf]`](https://arxiv.org/pdf/2003.06699.pdf) 
+- Fixed-point Quantization of Convolutional Neural Networks for Quantized Inference on Embedded Platforms |[`[pdf]`](https://arxiv.org/pdf/2102.02147.pdf)
+- Estimating indoor occupancy through low-cost BLE devices |[`[pdf]`](https://arxiv.org/pdf/2102.03351.pdf)
+- **[Tiny Eats]** Eating Detection on a Microcontroller |[`[pdf]`](https://arxiv.org/pdf/2003.06699.pdf)
 - **[DEVICETTS]** A SMALL-FOOTPRINT, FAST, STABLE NETWORK FOR ON-DEVICE TEXT-TO-SPEECH |[`[pdf]`](https://arxiv.org/pdf/2010.15311.pdf)
 - A 0.57-GOPS/DSP Object Detection PIM Accelerator on FPGA |[`[pdf]`](https://dl.acm.org/doi/pdf/10.1145/3394885.3431659)
 - Rethinking Co-design of Neural Architectures and Hardware Accelerators |[`[pdf]`](https://arxiv.org/pdf/2102.08619.pdf)
@@ -126,7 +134,8 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - LB-CNN: An Open Source Framework for Fast Training of Light Binary Convolutional Neural Networks using Chainer and Cupy |[`[pdf]`](https://arxiv.org/pdf/2106.15350.pdf)
 - Only Train Once: A One-Shot Neural Network Training And Pruning Framework |[`[pdf]`](https://arxiv.org/pdf/2107.07467.pdf)
 
-## Awesome TinyML Projects 
+## Awesome TinyML Projects
+
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
 - Moving From AI To IntelligentAI To Reduce The Cost Of AI At The Edge [`[official code]`](https://www.numerix-dsp.com/ai/) [`[presentation]`](https://youtu.be/mYy4Zv80tXQ)
 - Vibration Monitoring Machine Learning Demonstration [`[official code]`](https://www.numerix-dsp.com/ai/) [`[presentation]`](https://youtu.be/2iInOo0Lkfs)
@@ -146,7 +155,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Why Benchmarking TinyML Systems Is Challenging](https://analyticsindiamag.com/why-benchmarking-tinyml-systems-is-challenging/)
 - [Arduino Machine Learning: Build a Tensorflow lite model to control robot-car](https://www.survivingwithandroid.com/arduino-machine-learning-tensorflow-lite/)
 - [Build your own Google Assistant using tinyML](https://mjrobot.org/2021/01/27/building-an-intelligent-voice-assistant-from-scratch/)
-- [Weather forcasting with TinyML](https://github.com/BaptisteZloch/Weather_forcasting) 
+- [Weather forcasting with TinyML](https://github.com/BaptisteZloch/Weather_forcasting)
 - [Localize your cat at home with BLE beacon, ESP32s, and Machine Learning](https://github.com/filipsPL/cat-localizer)
 - [Fall detection and heart rate monitoring using AVR-IoT](https://www.hackster.io/naveenbskumar/fall-detection-and-heart-rate-monitoring-using-avr-iot-75fb16)
 - [Number recognition with MNIST on Raspberry Pi Pico](https://github.com/iwatake2222/pico-mnist)
@@ -166,18 +175,20 @@ Neural Network Acceleration](https://arxiv.org/pdf/2108.02313.pdf)
 - [Feature Augmented Hybrid CNN for Stress Recognition Using Wrist-based Photoplethysmography Sensor](https://arxiv.org/pdf/2108.02313.pdf)
 
 ## Benchmarking
+
 - [EEMBCs EnergyRunner](https://github.com/eembc/energyrunner)
 - [MLPerf](https://github.com/mlcommons/tiny/)
 
 ## Books and Articles
+
 - [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
 - [Model Quantization Using TensorFlow Lite](https://medium.com/sclable/model-quantization-using-tensorflow-lite-2fe6a171a90d)
-- [What is TinyML?](https://www.fierceelectronics.com/electronics/what-tinyml)    
+- [What is TinyML?](https://www.fierceelectronics.com/electronics/what-tinyml)
 - [TinyML as-a-Service: What is it and what does it mean for the IoT Edge?](https://www.ericsson.com/en/blog/2019/12/tinyml-as-a-service-iot-edge)
 - [TinyML is breathing life into billions of devices](https://thenextweb.com/neural/2020/09/03/tinyml-is-breathing-life-into-billions-of-devices/)
 - [TinyML as a Service and the challenges of machine learning at the edge](https://www.ericsson.com/en/blog/2019/12/tinyml-as-a-service)
 - [Predictions for Embedded Machine Learning for IoT in 2021](https://www.iotworldtoday.com/2020/12/10/predictions-for-embedded-machine-learning-for-iot-in-2021/)
-- [Matthew Mattina: Life-Saving Models in Your Pocket](https://blog.deeplearning.ai/blog/the-batch-new-year-wishes-from-fei-fei-li-harry-shum-ayanna-howard-ilya-sutskever-matthew-mattina) 
+- [Matthew Mattina: Life-Saving Models in Your Pocket](https://blog.deeplearning.ai/blog/the-batch-new-year-wishes-from-fei-fei-li-harry-shum-ayanna-howard-ilya-sutskever-matthew-mattina)
 - [How predictive maintenance is changing the industrial enterprise for good](https://techhq.com/2021/01/how-predictive-maintenance-is-changing-the-industrial-enterprise-for-good/)
 - [Tiny four-bit computers are now all you need to train AI](https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/)
 - [Taking Back Control](https://www.hackster.io/news/taking-back-control-14068dbb0bb7?fbclid=IwAR0QGucom06pzd7K5SJIdYByZr67xd29YlqTdbnK78OU7GqW540vJPeD534)
@@ -189,31 +200,28 @@ Neural Network Acceleration](https://arxiv.org/pdf/2108.02313.pdf)
 - [Wearable Devices Can Reduce Collision Risk in Blind and Visually Impaired People](https://masseyeandear.org/news/press-releases/2021/07/wearable-devices-can-reduce-collision-risk-in-blind-and-visually-impaired-people)
 - [TinyML in MicroCosmos](https://www.hackster.io/CHA_RAN/tinyml-in-microcosmos-c1161c)
 
-
-
 ## Libraries and Tools
+
 - [Edge Impulse](https://www.edgeimpulse.com/)
 - [EVE is Edge Virtualization Engine](https://github.com/lf-edge/eve/blob/master/README.md)
 - [microTVM](https://tvm.apache.org/docs/microtvm/index.html)
 - [Larq](https://github.com/larq/larq)
-- [Neural Network on Microcontroller (NNoM)](https://github.com/majianjia/nnom) 
+- [Neural Network on Microcontroller (NNoM)](https://github.com/majianjia/nnom)
 
-# Courses 
-- [CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home?authuser=0) |[Youtube](https://www.youtube.com/channel/UCLv1K6OaYHP44hXFd5rNqyA)
-- [Tiny Machine Learning (TinyML)](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)|[`[code]`](https://github.com/tinyMLx/colabs)
-- [Introduction to Embedded Machine Learning](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
+## Courses
+
+- [CS249r: Tiny Machine Learning (TinyML) at Harvard University](https://sites.google.com/g.harvard.edu/tinyml/home?authuser=0) | [Youtube](https://www.youtube.com/channel/UCLv1K6OaYHP44hXFd5rNqyA) | [edX - professional-certificate](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning) | [`[code]`](https://github.com/tinyMLx/colabs)
+- [Introduction to Embedded Machine Learning by Edge Impulse](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
 - [Embedded and Distributed AI course at Jonkoping University, Sweden](https://www.youtube.com/watch?v=OTXqT00MmPA&list=PLyulI6o7oOtycIT15i_I2_mhuLxnNvPvX)
-- 
 
-
-## TinyML Talks 
+## TinyML Talks
 
 |  Title       |                     Speaker               |       Published Date      |
-|:------------:|:-----------------------------------------:|:-------------------------:| 
+|:------------:|:-----------------------------------------:|:-------------------------:|
 |     ------   |        -----        |          -          |                 -------   |
 
-
 ## Contact & Feedback
+
 If you have any suggestions about TinyML papers and projects, feel free to mail me :)
 
 - [e-mail](mailto:gigwegbe@gmail.com)
