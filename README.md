@@ -133,6 +133,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - TinyML: Analysis of Xtensa LX6 microprocessor for Neural Network Applications by ESP32 SoC |[`[pdf]`](https://arxiv.org/pdf/2106.10652.pdf)
 - LB-CNN: An Open Source Framework for Fast Training of Light Binary Convolutional Neural Networks using Chainer and Cupy |[`[pdf]`](https://arxiv.org/pdf/2106.15350.pdf)
 - Only Train Once: A One-Shot Neural Network Training And Pruning Framework |[`[pdf]`](https://arxiv.org/pdf/2107.07467.pdf)
+- [BEANNA: A Binary-Enabled Architecture for Neural Network Acceleration](https://arxiv.org/pdf/2108.02313.pdf)
 
 ## Awesome TinyML Projects
 
@@ -170,9 +171,8 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Posture Watchdog](https://www.hackster.io/naveenbskumar/posture-watchdog-c03f77?utm_campaign=Advanced%20Wearables%20Contest%20Hackster.io&utm_source=twitter&utm_medium=social&utm_content=Dream%20Smart%20Wearables%20winner:%20posture%20watchdog)
 - [Wireless Quarter: Edge Intelligence](https://www.nordicsemi.com/-/media/Publications/Wireless-Quarter-pdf/2021/WQ_Issue_2_2021.pdf?la=en&hash=A58D1AB12248E18E465658CE3CDFE33F9187692F#page=8)
 - [Localized Environmental Sensing With TinyML](https://highdemandskills.com/localized-monitoring-tinyml/)
-- [BEANNA: A Binary-Enabled Architecture for
-Neural Network Acceleration](https://arxiv.org/pdf/2108.02313.pdf)
 - [Feature Augmented Hybrid CNN for Stress Recognition Using Wrist-based Photoplethysmography Sensor](https://arxiv.org/pdf/2108.02313.pdf)
+
 
 ## Benchmarking
 
@@ -180,7 +180,6 @@ Neural Network Acceleration](https://arxiv.org/pdf/2108.02313.pdf)
 - [MLPerf](https://github.com/mlcommons/tiny/)
 
 ## Books and Articles
-
 - [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
 - [Model Quantization Using TensorFlow Lite](https://medium.com/sclable/model-quantization-using-tensorflow-lite-2fe6a171a90d)
 - [What is TinyML?](https://www.fierceelectronics.com/electronics/what-tinyml)
