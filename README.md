@@ -132,8 +132,8 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - RANDOMNESS IN NEURAL NETWORK TRAINING:CHARACTERIZING THE IMPACT OF TOOLING |[`[pdf]`](https://arxiv.org/pdf/2106.11872.pdf)
 - TinyML: Analysis of Xtensa LX6 microprocessor for Neural Network Applications by ESP32 SoC |[`[pdf]`](https://arxiv.org/pdf/2106.10652.pdf)
 - LB-CNN: An Open Source Framework for Fast Training of Light Binary Convolutional Neural Networks using Chainer and Cupy |[`[pdf]`](https://arxiv.org/pdf/2106.15350.pdf)
-- Only Train Once: A One-Shot Neural Network Training And Pruning Framework |[`[pdf]`](https://arxiv.org/pdf/2107.07467.pdf)
-- [BEANNA: A Binary-Enabled Architecture for Neural Network Acceleration](https://arxiv.org/pdf/2108.02313.pdf)
+- **[Only Train Once]**: A One-Shot Neural Network Training And Pruning Framework |[`[pdf]`](https://arxiv.org/pdf/2107.07467.pdf)
+- **[BEANNA]**: A Binary-Enabled Architecture for Neural Network Acceleration|[`[pdf]`](https://arxiv.org/pdf/2108.02313.pdf)
 
 ## Awesome TinyML Projects
 
@@ -172,6 +172,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Wireless Quarter: Edge Intelligence](https://www.nordicsemi.com/-/media/Publications/Wireless-Quarter-pdf/2021/WQ_Issue_2_2021.pdf?la=en&hash=A58D1AB12248E18E465658CE3CDFE33F9187692F#page=8)
 - [Localized Environmental Sensing With TinyML](https://highdemandskills.com/localized-monitoring-tinyml/)
 - [Feature Augmented Hybrid CNN for Stress Recognition Using Wrist-based Photoplethysmography Sensor](https://arxiv.org/pdf/2108.02313.pdf)
+- [FedML: A Research Library and Benchmark for Federated Machine Learning](https://arxiv.org/pdf/2108.02313.pdf)
 
 
 ## Benchmarking
