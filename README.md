@@ -134,6 +134,8 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - LB-CNN: An Open Source Framework for Fast Training of Light Binary Convolutional Neural Networks using Chainer and Cupy |[`[pdf]`](https://arxiv.org/pdf/2106.15350.pdf)
 - **[Only Train Once]**: A One-Shot Neural Network Training And Pruning Framework |[`[pdf]`](https://arxiv.org/pdf/2107.07467.pdf)
 - **[BEANNA]**: A Binary-Enabled Architecture for Neural Network Acceleration|[`[pdf]`](https://arxiv.org/pdf/2108.02313.pdf)
+- A TinyML Platform for On-Device Continual Learning with Quantized Latent Replays |[`[pdf]`](https://arxiv.org/pdf/2110.10486.pdf)
+- CLASSIFICATION OF ANOMALOUS GAIT USING MACHINE LEARNING TECHNIQUES AND EMBEDDED SENSORS |[`[pdf]`](https://arxiv.org/pdf/2110.06139.pdf)
 
 ## Awesome TinyML Projects
 
