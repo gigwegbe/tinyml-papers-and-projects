@@ -38,6 +38,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Reconfigurable Multitask Audio Dynamics Processing Scheme | [`[pdf]`](https://arxiv.org/abs/1903.06392 )
 - Pushing the limits of RNN Compression | [`[pdf]`](https://arxiv.org/pdf/1910.02558.pdf)
 - A low-power end-to-end hybrid neuromorphic framework for surveillance applications | [`[pdf]`](https://arxiv.org/pdf/1910.09806.pdf)
+- Deep Learning at the Edge | [`[pdf]`](https://arxiv.org/pdf/1910.10231.pdf)
 - Memory-Driven Mixed Low Precision Quantization For Enabling Deep Network Inference On Microcontrollers | [`[pdf]`](https://arxiv.org/pdf/1905.13082.pdf) [`[official code]`](https://github.com/EEESlab/CMix-NN)
 - **[SpArSe]** Sparse Architecture Search for CNNs on Resource-Constrained Microcontrollers  |[`[pdf]`](https://arxiv.org/pdf/1905.12107.pdf)
 - Latent Weights Do Not Exist: Rethinking Binarized Neural Network Optimization  |[`[pdf]`](https://arxiv.org/pdf/1906.02107.pdf)
@@ -136,6 +137,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[BEANNA]**: A Binary-Enabled Architecture for Neural Network Acceleration|[`[pdf]`](https://arxiv.org/pdf/2108.02313.pdf)
 - A TinyML Platform for On-Device Continual Learning with Quantized Latent Replays |[`[pdf]`](https://arxiv.org/pdf/2110.10486.pdf)
 - CLASSIFICATION OF ANOMALOUS GAIT USING MACHINE LEARNING TECHNIQUES AND EMBEDDED SENSORS |[`[pdf]`](https://arxiv.org/pdf/2110.06139.pdf)
+- **[MOBILEVIT]**: LIGHT-WEIGHT, GENERAL-PURPOSE, AND MOBILE-FRIENDLY VISION TRANSFORMER |[`[pdf]`](https://arxiv.org/pdf/2110.02178.pdf?utm_medium=email&_hsmi=175723863&_hsenc=p2ANqtz--rVrB87u6eUrx_A5XM8m9kyJc-xTO-fwCZheo-n_Mx9IQ02upaLz87dMne5xsrlcFq5G0vxBHD_IzIXHOIvuR--axMLA&utm_content=175723863&utm_source=hs_email)
 
 ## Awesome TinyML Projects
 
