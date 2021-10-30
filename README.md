@@ -41,6 +41,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Deep Learning at the Edge | [`[pdf]`](https://arxiv.org/pdf/1910.10231.pdf)
 - Memory-Driven Mixed Low Precision Quantization For Enabling Deep Network Inference On Microcontrollers | [`[pdf]`](https://arxiv.org/pdf/1905.13082.pdf) [`[official code]`](https://github.com/EEESlab/CMix-NN)
 - **[SpArSe]** Sparse Architecture Search for CNNs on Resource-Constrained Microcontrollers  |[`[pdf]`](https://arxiv.org/pdf/1905.12107.pdf)
+- **[MobileNetV2]** Inverted Residuals and Linear Bottlenecks |[`[pdf]`](https://arxiv.org/pdf/1801.04381.pdf)
 - Latent Weights Do Not Exist: Rethinking Binarized Neural Network Optimization  |[`[pdf]`](https://arxiv.org/pdf/1906.02107.pdf)
 
 ## 2020
