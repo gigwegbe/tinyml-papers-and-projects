@@ -80,6 +80,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - MLPerf Mobile Inference Benchmark : Why Mobile AI Benchmarking Is Hard and What to Do About It |[`[pdf]`](https://arxiv.org/pdf/2012.02328.pdf)
 - **[TinyRL]** Learning to Seek: Tiny Robot Learning for Source Seeking on a Nano Quadcopter |[`[pdf]`](https://arxiv.org/pdf/1909.11236.pdf) [`[presentation]`](https://youtu.be/wmVKbX7MOnU)
 - Pushing the Limits of Narrow Precision Inferencing at Cloud Scale with Microsoft Floating Point |[`[pdf]`](https://proceedings.neurips.cc//paper/2020/file/747e32ab0fea7fbd2ad9ec03daa3f840-Paper.pdf)
+- **[TinyBERT]** Distilling BERT for Natural Language Understanding  |[`[pdf]`](https://arxiv.org/pdf/1909.10351.pdf)
 - **[Larq]** An Open-Source Library for Training Binarized Neural Networks |[`[pdf]`](https://arxiv.org/pdf/2011.09398.pdf) [`[presentation]`](https://www.youtube.com/watch?v=f9SNqDejOB0) [`[official code]`](https://github.com/larq/larq)
 
 ## 2021
@@ -139,6 +140,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - A TinyML Platform for On-Device Continual Learning with Quantized Latent Replays |[`[pdf]`](https://arxiv.org/pdf/2110.10486.pdf)
 - CLASSIFICATION OF ANOMALOUS GAIT USING MACHINE LEARNING TECHNIQUES AND EMBEDDED SENSORS |[`[pdf]`](https://arxiv.org/pdf/2110.06139.pdf)
 - **[MOBILEVIT]**: LIGHT-WEIGHT, GENERAL-PURPOSE, AND MOBILE-FRIENDLY VISION TRANSFORMER |[`[pdf]`](https://arxiv.org/pdf/2110.02178.pdf?utm_medium=email&_hsmi=175723863&_hsenc=p2ANqtz--rVrB87u6eUrx_A5XM8m9kyJc-xTO-fwCZheo-n_Mx9IQ02upaLz87dMne5xsrlcFq5G0vxBHD_IzIXHOIvuR--axMLA&utm_content=175723863&utm_source=hs_email)
+- **[MCUNetV2]**: Memory-Efficient Patch-based Inference for Tiny Deep Learning |[`[pdf]`](https://arxiv.org/abs/2110.15352#)
 
 ## Awesome TinyML Projects
 
