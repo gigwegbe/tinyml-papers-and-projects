@@ -141,7 +141,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - CLASSIFICATION OF ANOMALOUS GAIT USING MACHINE LEARNING TECHNIQUES AND EMBEDDED SENSORS |[`[pdf]`](https://arxiv.org/pdf/2110.06139.pdf)
 - **[MOBILEVIT]**: LIGHT-WEIGHT, GENERAL-PURPOSE, AND MOBILE-FRIENDLY VISION TRANSFORMER |[`[pdf]`](https://arxiv.org/pdf/2110.02178.pdf?utm_medium=email&_hsmi=175723863&_hsenc=p2ANqtz--rVrB87u6eUrx_A5XM8m9kyJc-xTO-fwCZheo-n_Mx9IQ02upaLz87dMne5xsrlcFq5G0vxBHD_IzIXHOIvuR--axMLA&utm_content=175723863&utm_source=hs_email)
 - **[MCUNetV2]**: Memory-Efficient Patch-based Inference for Tiny Deep Learning |[`[pdf]`](https://arxiv.org/abs/2110.15352#)
-
+- **[LCS]**: LEARNING COMPRESSIBLE SUBSPACES FOR ADAPTIVE NETWORK COMPRESSION AT INFERENCE TIME |[`[pdf]`](https://arxiv.org/pdf/2110.04252.pdf)
 ## Awesome TinyML Projects
 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
@@ -206,6 +206,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [A natively flexible 32-bit Arm microprocessor](https://www.nature.com/articles/s41586-021-03625-w)
 - [Wearable Devices Can Reduce Collision Risk in Blind and Visually Impaired People](https://masseyeandear.org/news/press-releases/2021/07/wearable-devices-can-reduce-collision-risk-in-blind-and-visually-impaired-people)
 - [TinyML in MicroCosmos](https://www.hackster.io/CHA_RAN/tinyml-in-microcosmos-c1161c)
+- [‘Small Data’ Are Also Crucial for Machine Learning](https://www.hackster.io/CHA_RAN/tinyml-in-microcosmos-c1161c)
 
 ## Libraries and Tools
 
