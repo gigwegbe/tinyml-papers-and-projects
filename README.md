@@ -98,6 +98,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[DEVICETTS]** A SMALL-FOOTPRINT, FAST, STABLE NETWORK FOR ON-DEVICE TEXT-TO-SPEECH |[`[pdf]`](https://arxiv.org/pdf/2010.15311.pdf)
 - A 0.57-GOPS/DSP Object Detection PIM Accelerator on FPGA |[`[pdf]`](https://dl.acm.org/doi/pdf/10.1145/3394885.3431659)
 - Rethinking Co-design of Neural Architectures and Hardware Accelerators |[`[pdf]`](https://arxiv.org/pdf/2102.08619.pdf)
+- Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks |[`[pdf]`](https://arxiv.org/pdf/2102.00554.pdf)
 - **[Apollo]** Transferable Architecture Exploration |[`[pdf]`](https://arxiv.org/pdf/2102.01723.pdf)
 - DEEP NEURAL NETWORK BASED COUGH DETECTION USING BED-MOUNTED ACCELEROMETER MEASUREMENTS |[`[pdf]`](https://arxiv.org/pdf/2102.04997.pdf)
 - TapNet: The Design, Training, Implementation, and Applications of a Multi-Task Learning CNN for Off-Screen Mobile Input|[`[pdf]`](https://arxiv.org/pdf/2102.09087.pdf)
