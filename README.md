@@ -144,6 +144,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[MCUNetV2]**: Memory-Efficient Patch-based Inference for Tiny Deep Learning |[`[pdf]`](https://arxiv.org/abs/2110.15352#)
 - **[LCS]**: LEARNING COMPRESSIBLE SUBSPACES FOR ADAPTIVE NETWORK COMPRESSION AT INFERENCE TIME |[`[pdf]`](https://arxiv.org/pdf/2110.04252.pdf)
 - **[ANALOGNETS]**: ML-HW CO-DESIGN OF NOISE-ROBUST TINYML MODELS AND ALWAYS-ON ANALOG COMPUTE-IN-MEMORY ACCELERATOR |[`[pdf]`](https://arxiv.org/pdf/2111.06503.pdf)
+- **[BSC]**: Block-based Stochastic Computing to Enable Accurate and Efficient TinyML |[`[pdf]`](https://arxiv.org/pdf/2111.06686.pdf)
 ## Awesome TinyML Projects
 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
