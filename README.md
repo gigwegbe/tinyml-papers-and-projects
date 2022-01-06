@@ -214,6 +214,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [Wearable Devices Can Reduce Collision Risk in Blind and Visually Impaired People](https://masseyeandear.org/news/press-releases/2021/07/wearable-devices-can-reduce-collision-risk-in-blind-and-visually-impaired-people)
 - [TinyML in MicroCosmos](https://www.hackster.io/CHA_RAN/tinyml-in-microcosmos-c1161c)
 - [‘Small Data’ Are Also Crucial for Machine Learning](https://www.hackster.io/CHA_RAN/tinyml-in-microcosmos-c1161c)
+- [AI Inspection Using Analog Gauge as an Example](https://indatalabs.com/blog/ai-inspection)
 
 ## Libraries and Tools
 
