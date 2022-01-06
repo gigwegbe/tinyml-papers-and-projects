@@ -148,6 +148,9 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[TiWS-iForest]**: Isolation Forest in Weakly Supervised and Tiny ML scenarios |[`[pdf]`](https://arxiv.org/pdf/2111.15432.pdf)
 
 ## 2022
+A Heterogeneous In-Memory Computing Cluster For Flexible End-to-End Inference of Real-World Deep Neural Networks |[`[pdf]`]https://arxiv.org/pdf/2201.01089.pdf)
+
+
 
 ## Awesome TinyML Projects
 
@@ -223,6 +226,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - [microTVM](https://tvm.apache.org/docs/microtvm/index.html)
 - [Larq](https://github.com/larq/larq)
 - [Neural Network on Microcontroller (NNoM)](https://github.com/majianjia/nnom)
+- [BerryNet](https://github.com/DT42/BerryNet)
 
 ## Courses
 
