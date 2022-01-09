@@ -2,7 +2,7 @@
 
 This is a list of interesting papers, projects, articles and talks about TinyML.
 
-# Awesome Papers
+# Awesome Papers  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## 2016
 
