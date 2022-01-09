@@ -83,6 +83,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Pushing the Limits of Narrow Precision Inferencing at Cloud Scale with Microsoft Floating Point |[`[pdf]`](https://proceedings.neurips.cc//paper/2020/file/747e32ab0fea7fbd2ad9ec03daa3f840-Paper.pdf)
 - **[TinyBERT]** Distilling BERT for Natural Language Understanding  |[`[pdf]`](https://arxiv.org/pdf/1909.10351.pdf)
 - **[Larq]** An Open-Source Library for Training Binarized Neural Networks |[`[pdf]`](https://arxiv.org/pdf/2011.09398.pdf) [`[presentation]`](https://www.youtube.com/watch?v=f9SNqDejOB0) [`[official code]`](https://github.com/larq/larq)
+- **[FedML]** A Research Library and Benchmark for Federated Machine Learning  |[`[pdf]`](https://arxiv.org/pdf/2007.13518.pdf)
 
 ## 2021
 
@@ -144,6 +145,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[MOBILEVIT]**: LIGHT-WEIGHT, GENERAL-PURPOSE, AND MOBILE-FRIENDLY VISION TRANSFORMER |[`[pdf]`](https://arxiv.org/pdf/2110.02178.pdf?utm_medium=email&_hsmi=175723863&_hsenc=p2ANqtz--rVrB87u6eUrx_A5XM8m9kyJc-xTO-fwCZheo-n_Mx9IQ02upaLz87dMne5xsrlcFq5G0vxBHD_IzIXHOIvuR--axMLA&utm_content=175723863&utm_source=hs_email)
 - **[MCUNetV2]**: Memory-Efficient Patch-based Inference for Tiny Deep Learning |[`[pdf]`](https://arxiv.org/abs/2110.15352#)
 - **[LCS]**: LEARNING COMPRESSIBLE SUBSPACES FOR ADAPTIVE NETWORK COMPRESSION AT INFERENCE TIME |[`[pdf]`](https://arxiv.org/pdf/2110.04252.pdf)
+- [Feature Augmented Hybrid CNN for Stress Recognition Using Wrist-based Photoplethysmography Sensor](https://arxiv.org/pdf/2108.02313.pdf)
 - **[ANALOGNETS]**: ML-HW CO-DESIGN OF NOISE-ROBUST TINYML MODELS AND ALWAYS-ON ANALOG COMPUTE-IN-MEMORY ACCELERATOR |[`[pdf]`](https://arxiv.org/pdf/2111.06503.pdf)
 - **[BSC]**: Block-based Stochastic Computing to Enable Accurate and Efficient TinyML |[`[pdf]`](https://arxiv.org/pdf/2111.06686.pdf)
 - **[TiWS-iForest]**: Isolation Forest in Weakly Supervised and Tiny ML scenarios |[`[pdf]`](https://arxiv.org/pdf/2111.15432.pdf)
@@ -189,14 +191,13 @@ A Heterogeneous In-Memory Computing Cluster For Flexible End-to-End Inference of
 - [Posture Watchdog](https://www.hackster.io/naveenbskumar/posture-watchdog-c03f77?utm_campaign=Advanced%20Wearables%20Contest%20Hackster.io&utm_source=twitter&utm_medium=social&utm_content=Dream%20Smart%20Wearables%20winner:%20posture%20watchdog)
 - [Wireless Quarter: Edge Intelligence](https://www.nordicsemi.com/-/media/Publications/Wireless-Quarter-pdf/2021/WQ_Issue_2_2021.pdf?la=en&hash=A58D1AB12248E18E465658CE3CDFE33F9187692F#page=8)
 - [Localized Environmental Sensing With TinyML](https://highdemandskills.com/localized-monitoring-tinyml/)
-- [Feature Augmented Hybrid CNN for Stress Recognition Using Wrist-based Photoplethysmography Sensor](https://arxiv.org/pdf/2108.02313.pdf)
-- [FedML: A Research Library and Benchmark for Federated Machine Learning](https://arxiv.org/pdf/2108.02313.pdf)
-
+- [Tensorflow Lite for Microcontrollers in Micropython](https://github.com/mocleiri/tensorflow-micropython-examples)
 
 ## Benchmarking
 
 - [EEMBCs EnergyRunner](https://github.com/eembc/energyrunner)
 - [MLPerf](https://github.com/mlcommons/tiny/)
+- [FedML](https://fedml.ai/)
 
 ## Books and Articles
 - [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
