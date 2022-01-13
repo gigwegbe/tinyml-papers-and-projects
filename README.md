@@ -44,6 +44,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[SpArSe]** Sparse Architecture Search for CNNs on Resource-Constrained Microcontrollers  |[`[pdf]`](https://arxiv.org/pdf/1905.12107.pdf)
 - **[MobileNetV2]** Inverted Residuals and Linear Bottlenecks |[`[pdf]`](https://arxiv.org/pdf/1801.04381.pdf)
 - Latent Weights Do Not Exist: Rethinking Binarized Neural Network Optimization  |[`[pdf]`](https://arxiv.org/pdf/1906.02107.pdf)
+- Low-Power Computer Vision: Status, Challenges, Opportunities |[`[pdf]`](https://arxiv.org/pdf/1904.07714.pdf)
 
 ## 2020
 
@@ -137,6 +138,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - AttendSeg: A Tiny Attention Condenser Neural Network for Semantic Segmentation on the Edge |[`[pdf]`](https://arxiv.org/pdf/2104.14623.pdf)
 - RANDOMNESS IN NEURAL NETWORK TRAINING:CHARACTERIZING THE IMPACT OF TOOLING |[`[pdf]`](https://arxiv.org/pdf/2106.11872.pdf)
 - TinyML: Analysis of Xtensa LX6 microprocessor for Neural Network Applications by ESP32 SoC |[`[pdf]`](https://arxiv.org/pdf/2106.10652.pdf)
+- **[Keyword Transformer]**: A Self-Attention Model for Keyword Spotting |[`[pdf]`](https://arxiv.org/pdf/2104.00769.pdf)
 - LB-CNN: An Open Source Framework for Fast Training of Light Binary Convolutional Neural Networks using Chainer and Cupy |[`[pdf]`](https://arxiv.org/pdf/2106.15350.pdf)
 - **[Only Train Once]**: A One-Shot Neural Network Training And Pruning Framework |[`[pdf]`](https://arxiv.org/pdf/2107.07467.pdf)
 - **[BEANNA]**: A Binary-Enabled Architecture for Neural Network Acceleration|[`[pdf]`](https://arxiv.org/pdf/2108.02313.pdf)
@@ -149,6 +151,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[ANALOGNETS]**: ML-HW CO-DESIGN OF NOISE-ROBUST TINYML MODELS AND ALWAYS-ON ANALOG COMPUTE-IN-MEMORY ACCELERATOR |[`[pdf]`](https://arxiv.org/pdf/2111.06503.pdf)
 - **[BSC]**: Block-based Stochastic Computing to Enable Accurate and Efficient TinyML |[`[pdf]`](https://arxiv.org/pdf/2111.06686.pdf)
 - **[TiWS-iForest]**: Isolation Forest in Weakly Supervised and Tiny ML scenarios |[`[pdf]`](https://arxiv.org/pdf/2111.15432.pdf)
+
 
 ## 2022
 A Heterogeneous In-Memory Computing Cluster For Flexible End-to-End Inference of Real-World Deep Neural Networks |[`[pdf]`](https://arxiv.org/pdf/2201.01089.pdf)
