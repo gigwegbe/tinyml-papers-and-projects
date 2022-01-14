@@ -195,6 +195,7 @@ A Heterogeneous In-Memory Computing Cluster For Flexible End-to-End Inference of
 - [Wireless Quarter: Edge Intelligence](https://www.nordicsemi.com/-/media/Publications/Wireless-Quarter-pdf/2021/WQ_Issue_2_2021.pdf?la=en&hash=A58D1AB12248E18E465658CE3CDFE33F9187692F#page=8)
 - [Localized Environmental Sensing With TinyML](https://highdemandskills.com/localized-monitoring-tinyml/)
 - [Tensorflow Lite for Microcontrollers in Micropython](https://github.com/mocleiri/tensorflow-micropython-examples)
+- [TensorFlow Lite Micro for Espressif Chipsets](https://github.com/espressif/tflite-micro-esp-examples)
 
 ## Benchmarking
 
