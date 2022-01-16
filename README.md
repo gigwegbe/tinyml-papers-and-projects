@@ -154,8 +154,8 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 
 
 ## 2022
-A Heterogeneous In-Memory Computing Cluster For Flexible End-to-End Inference of Real-World Deep Neural Networks |[`[pdf]`](https://arxiv.org/pdf/2201.01089.pdf)
-
+- A Heterogeneous In-Memory Computing Cluster For Flexible End-to-End Inference of Real-World Deep Neural Networks |[`[pdf]`](https://arxiv.org/pdf/2201.01089.pdf)
+- CFU Playground: Full-Stack Open-Source Framework for Tiny Machine Learning (tinyML) Acceleration on FPGAs |[`[pdf]`](https://arxiv.org/pdf/2201.01863.pdf)
 
 
 ## Awesome TinyML Projects
