@@ -77,6 +77,8 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[ShadowNet]** A Secure and Efficient System for On-device Model Inference |[`[pdf]`](https://arxiv.org/pdf/2011.05905.pdf)
 - Hardware Aware Training for Efficient Keyword Spotting on General Purpose and Specialized Hardware |[`[pdf]`](https://arxiv.org/pdf/2009.04465.pdf)
 - Automated facial recognition for wildlife that lack unique markings: A deep learning approach for brown bears  |[`[pdf]`](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.6840)
+- **[HyNNA]**: Improved Performance for Neuromorphic Vision Sensor based Surveillance
+using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.08603.pdf)
 - The Hardware Lottery |[`[pdf]`](https://arxiv.org/pdf/2009.06489.pdf)
 - MLPerf Inference Benchmark |[`[pdf]`](https://arxiv.org/pdf/1911.02549.pdf)
 - MLPerf Mobile Inference Benchmark : Why Mobile AI Benchmarking Is Hard and What to Do About It |[`[pdf]`](https://arxiv.org/pdf/2012.02328.pdf)
