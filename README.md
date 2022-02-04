@@ -242,6 +242,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - [CS249r: Tiny Machine Learning (TinyML) at Harvard University](https://sites.google.com/g.harvard.edu/tinyml/home?authuser=0) | [Youtube](https://www.youtube.com/channel/UCLv1K6OaYHP44hXFd5rNqyA) | [edX - professional-certificate](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning) | [`[code]`](https://github.com/tinyMLx/colabs)
 - [Introduction to Embedded Machine Learning by Edge Impulse](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
 - [Embedded and Distributed AI course at Jonkoping University, Sweden](https://www.youtube.com/watch?v=OTXqT00MmPA&list=PLyulI6o7oOtycIT15i_I2_mhuLxnNvPvX)
+- [MLT Artificial Intelligence - EdgeAI](https://www.youtube.com/playlist?list=PLaPdEEY26UXxrxn-82sqe9cTTvWC0y-rM)
 
 ## TinyML Talks
 
