@@ -160,6 +160,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - CFU Playground: Full-Stack Open-Source Framework for Tiny Machine Learning (tinyML) Acceleration on FPGAs |[`[pdf]`](https://arxiv.org/pdf/2201.01863.pdf)
 - BottleFit: Learning Compressed Representations in Deep Neural Networks for Effective and Efficient Split Computing |[`[pdf]`](https://arxiv.org/pdf/2201.02693.pdf)
 - **[UDC]**: Unified DNAS for Compressible TinyML Models |[`[pdf]`](https://arxiv.org/pdf/2201.05842.pdf)
+- A VM/Containerized Approach for Scaling TinyML Applications |[`[pdf]`](https://arxiv.org/pdf/2202.05057.pdf)
 
 ## Awesome TinyML Projects
 
@@ -236,6 +237,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - [Larq](https://github.com/larq/larq)
 - [Neural Network on Microcontroller (NNoM)](https://github.com/majianjia/nnom)
 - [BerryNet](https://github.com/DT42/BerryNet)
+- [Rune](https://github.com/hotg-ai/rune)
 
 ## Courses
 
