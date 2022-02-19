@@ -161,6 +161,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - BottleFit: Learning Compressed Representations in Deep Neural Networks for Effective and Efficient Split Computing |[`[pdf]`](https://arxiv.org/pdf/2201.02693.pdf)
 - **[UDC]**: Unified DNAS for Compressible TinyML Models |[`[pdf]`](https://arxiv.org/pdf/2201.05842.pdf)
 - A VM/Containerized Approach for Scaling TinyML Applications |[`[pdf]`](https://arxiv.org/pdf/2202.05057.pdf)
+- A Fast Network Exploration Strategy to Profile Low Energy Consumption for Keyword Spotting |[`[pdf]`](https://arxiv.org/pdf/2202.02361.pdf)
 
 ## Awesome TinyML Projects
 
