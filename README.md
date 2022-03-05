@@ -162,7 +162,8 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - **[UDC]**: Unified DNAS for Compressible TinyML Models |[`[pdf]`](https://arxiv.org/pdf/2201.05842.pdf)
 - A VM/Containerized Approach for Scaling TinyML Applications |[`[pdf]`](https://arxiv.org/pdf/2202.05057.pdf)
 - A Fast Network Exploration Strategy to Profile Low Energy Consumption for Keyword Spotting |[`[pdf]`](https://arxiv.org/pdf/2202.02361.pdf)
-
+- PocketNN: Integer-only Training and Inference of Neural Networks via Direct Feedback Alignment and Pocket Activations in Pure C++ |[`[pdf]`](https://arxiv.org/pdf/2201.02863.pdf)
+- 
 ## Awesome TinyML Projects
 
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
@@ -239,6 +240,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - [Neural Network on Microcontroller (NNoM)](https://github.com/majianjia/nnom)
 - [BerryNet](https://github.com/DT42/BerryNet)
 - [Rune](https://github.com/hotg-ai/rune)
+- [Onnxruntime](https://github.com/microsoft/onnxruntime)
 
 ## Courses
 
