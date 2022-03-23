@@ -209,8 +209,14 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - [MLPerf](https://github.com/mlcommons/tiny/)
 - [FedML](https://fedml.ai/)
 
-## Books and Articles
-- [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
+## Books
+
+- `[2022-04]` **TinyML Cookbook** (Gian Marco Iodice. Packt): [`[Book]`](https://www.packtpub.com/product/tinyml-cookbook/9781801814973) | [`[Github]`](https://github.com/PacktPublishing/TinyML-Cookbook)
+- `[2020-04]` **Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter**: Build scalable real-world projects to implement end-to-end neural networks on Android and iOS (Anubhav Singh, Rimjhim Bhadani, 2020. Packt): [`[Book]`](https://www.amazon.com/Mobile-Deep-Learning-TensorFlow-Flutter/dp/1789611210)
+- `[2020-01]` **TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers** (Pete Warden. O'Reilly Media): [`[Book]`](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
+
+## Articles
+
 - [Model Quantization Using TensorFlow Lite](https://medium.com/sclable/model-quantization-using-tensorflow-lite-2fe6a171a90d)
 - [What is TinyML?](https://www.fierceelectronics.com/electronics/what-tinyml)
 - [TinyML as-a-Service: What is it and what does it mean for the IoT Edge?](https://www.ericsson.com/en/blog/2019/12/tinyml-as-a-service-iot-edge)
@@ -244,10 +250,11 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 
 ## Courses
 
-- [CS249r: Tiny Machine Learning (TinyML) at Harvard University](https://sites.google.com/g.harvard.edu/tinyml/home?authuser=0) | [Youtube](https://www.youtube.com/channel/UCLv1K6OaYHP44hXFd5rNqyA) | [edX - professional-certificate](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning) | [`[code]`](https://github.com/tinyMLx/colabs)
-- [Introduction to Embedded Machine Learning by Edge Impulse](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
-- [Embedded and Distributed AI course at Jonkoping University, Sweden](https://www.youtube.com/watch?v=OTXqT00MmPA&list=PLyulI6o7oOtycIT15i_I2_mhuLxnNvPvX)
-- [MLT Artificial Intelligence - EdgeAI](https://www.youtube.com/playlist?list=PLaPdEEY26UXxrxn-82sqe9cTTvWC0y-rM)
+- **CS249r: Tiny Machine Learning (TinyML)** - *Harvard University* by Vijay Janapa Reddi: [sites.google.com](https://sites.google.com/g.harvard.edu/tinyml/home?authuser=0) | [`[YouTube]`](https://www.youtube.com/channel/UCLv1K6OaYHP44hXFd5rNqyA) | [`[edx]`](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)| [`[Github]`](https://github.com/tinyMLx/colabs)
+- **MLOps for Scaling TinyML** - *Harvard University* by Vijay Janapa Reddi: [`[edX]`](https://www.edx.org/course/mlops-for-scaling-tinyml)
+- **Introduction to Embedded Machine Learning** - *Edge Impulse* by Shawn Hymel: [`[Coursera]`](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
+- **Embedded and Distributed AI** - *Jonkoping University, Sweden* by  Beril Sirmacek: [`[YouTube]`](https://www.youtube.com/watch?v=OTXqT00MmPA&list=PLyulI6o7oOtycIT15i_I2_mhuLxnNvPvX)
+- **MLT Artificial Intelligence - EdgeAI** - Machine Learning Tokyo: [`[YouTube]`](https://www.youtube.com/playlist?list=PLaPdEEY26UXxrxn-82sqe9cTTvWC0y-rM)
 
 ## TinyML Talks
 
