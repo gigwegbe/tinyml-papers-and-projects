@@ -1,22 +1,33 @@
-# TinyML Paper and Projects
+## TinyML Paper and Projects
 
 This is a list of interesting papers, projects, articles and talks about TinyML.
 
-# Awesome Papers  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+- [Awesome Papers](#awesome-papers-): [2016](#2016) | [2017](#2017) | [2018](#2018) | [2019](#2019) | [2020](#2020) | [2022](#2022)
+- [Awesome Projects](#awesome-tinyml-projects): [Projects Source code](#projects-source-code) | [Projects Articles](#projects-articles)
+- [Benchmarking](#benchmarking)
+- Resources
+  - [Articles](#articles)
+  - [Books](#books)
+  - [Libraries and Tools](#libraries-and-tools)
+  - [Courses](#courses)
+  - [TinyML Talks](#tinyml-talks)
+- [Contact & Feedback](#contact--feedback)
 
-## 2016
+## Awesome Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+### 2016
 
 - DEEP COMPRESSION: COMPRESSING DEEP NEURAL NETWORKS WITH PRUNING, TRAINED QUANTIZATION AND HUFFMAN CODING | [`[pdf]`](https://arxiv.org/pdf/1510.00149.pdf)
 - **[SQUEEZENET]** ALEXNET-LEVEL ACCURACY WITH50X FEWER PARAMETERS AND <0.5MB MODEL SIZE | [`[pdf]`](https://arxiv.org/pdf/1602.07360.pdf)
 
-## 2017
+### 2017
 
 - Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference | [`[pdf]`](https://arxiv.org/pdf/1712.05877.pdf)
 - Resource-efficient Machine Learning in 2 KB RAM for the Internet of Things  | [`[pdf]`](https://www.microsoft.com/en-us/research/uploads/prod/2017/06/kumar17.pdf)
 - ProtoNN: Compressed and Accurate kNN for Resource-scarce Devices  | [`[pdf]`](https://www.microsoft.com/en-us/research/uploads/prod/2017/06/protonn.pdf)
 - OPENMV: A PYTHON POWERED, EXTENSIBLE MACHINE VISION CAMERA | [`[pdf]`](https://arxiv.org/pdf/1711.10464.pdf) [`[official code]`]( https://github.com/openmv/openmv.git)
 
-## 2018
+### 2018
 
 - **[AMC]** AutoML for Model Compression and Acceleration on Mobile Devices | [`[pdf]`](https://arxiv.org/pdf/1802.03494.pdf) [`[official code]`](https://github.com/mit-han-lab/amc)
 - Mobile Machine Learning Hardware at ARM: A Systems-on-Chip (SoC) Perspective | [`[pdf]`](https://arxiv.org/pdf/1801.06274.pdf)
@@ -28,7 +39,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Quantizing deep convolutional networks for efficient inference: A whitepaper | [`[pdf]`](https://arxiv.org/pdf/1806.08342.pdf)
 - **[Hello Edge]** Keyword Spotting on Microcontrollers | [`[pdf]`](https://arxiv.org/pdf/1711.07128.pdf)
 
-## 2019
+### 2019
 
 - FastGRNN: A Fast, Accurate, Stable and Tiny Kilobyte Sized Gated Recurrent Neural Network | [`[pdf]`](https://arxiv.org/pdf/1901.02358.pdf)
 - Image Classification on IoT Edge Devices: Profiling and Modeling| [`[pdf]`](https://arxiv.org/pdf/1902.11119.pdf)
@@ -46,7 +57,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Latent Weights Do Not Exist: Rethinking Binarized Neural Network Optimization  |[`[pdf]`](https://arxiv.org/pdf/1906.02107.pdf)
 - Low-Power Computer Vision: Status, Challenges, Opportunities |[`[pdf]`](https://arxiv.org/pdf/1904.07714.pdf)
 
-## 2020
+### 2020
 
 - COMPRESSING RNNS FOR IOT DEVICES BY 15-38X USING KRONECKER PRODUCTS |[`[pdf]`](https://arxiv.org/pdf/1906.02876.pdf)
 - BENCHMARKING TINYML SYSTEMS: CHALLENGES AND DIRECTION |[`[pdf]`](https://arxiv.org/pdf/2003.04821v3.pdf)
@@ -88,7 +99,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - **[Larq]** An Open-Source Library for Training Binarized Neural Networks |[`[pdf]`](https://arxiv.org/pdf/2011.09398.pdf) [`[presentation]`](https://www.youtube.com/watch?v=f9SNqDejOB0) [`[official code]`](https://github.com/larq/larq)
 - **[FedML]** A Research Library and Benchmark for Federated Machine Learning  |[`[pdf]`](https://arxiv.org/pdf/2007.13518.pdf)
 
-## 2021
+### 2021
 
 - **[I-BERT]** Integer-only BERT Quantization |[`[pdf]`](https://arxiv.org/pdf/2101.01321.pdf)
 - **[TinyTL]** Reduce Memory, Not Parameters for Efficient On-Device Learning |[`[pdf]`](https://arxiv.org/pdf/2007.11622.pdf) [`[official code]`](https://github.com/mit-han-lab/tinyml/tree/master/tinytl)
@@ -155,7 +166,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - **[TiWS-iForest]**: Isolation Forest in Weakly Supervised and Tiny ML scenarios |[`[pdf]`](https://arxiv.org/pdf/2111.15432.pdf)
 
 
-## 2022
+### 2022
 - A Heterogeneous In-Memory Computing Cluster For Flexible End-to-End Inference of Real-World Deep Neural Networks |[`[pdf]`](https://arxiv.org/pdf/2201.01089.pdf)
 - CFU Playground: Full-Stack Open-Source Framework for Tiny Machine Learning (tinyML) Acceleration on FPGAs |[`[pdf]`](https://arxiv.org/pdf/2201.01863.pdf)
 - BottleFit: Learning Compressed Representations in Deep Neural Networks for Effective and Efficient Split Computing |[`[pdf]`](https://arxiv.org/pdf/2201.02693.pdf)
@@ -163,51 +174,54 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - A VM/Containerized Approach for Scaling TinyML Applications |[`[pdf]`](https://arxiv.org/pdf/2202.05057.pdf)
 - A Fast Network Exploration Strategy to Profile Low Energy Consumption for Keyword Spotting |[`[pdf]`](https://arxiv.org/pdf/2202.02361.pdf)
 - PocketNN: Integer-only Training and Inference of Neural Networks via Direct Feedback Alignment and Pocket Activations in Pure C++ |[`[pdf]`](https://arxiv.org/pdf/2201.02863.pdf)
-- 
+- TinyMLOps: Operational Challenges for Widespread Edge AI Adoption |[`[pdf]`](https://arxiv.org/pdf/2203.10923.pdf)
+
 ## Awesome TinyML Projects
 
-- TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be)
-- Moving From AI To IntelligentAI To Reduce The Cost Of AI At The Edge [`[official code]`](https://www.numerix-dsp.com/ai/) [`[presentation]`](https://youtu.be/mYy4Zv80tXQ)
+### <ins>**Projects Source code**</ins>
+- TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be) ![GitHub stars](https://img.shields.io/github/stars/kavyakvk/TinyFederatedLearning?style=social) 
+- Moving From AI To IntelligentAI To Reduce The Cost Of AI At The Edge [`[official code]`](https://www.numerix-dsp.com/ai/) [`[presentation]`](https://youtu.be/mYy4Zv80tXQ) 
 - Vibration Monitoring Machine Learning Demonstration [`[official code]`](https://www.numerix-dsp.com/ai/) [`[presentation]`](https://youtu.be/2iInOo0Lkfs)
-- [TinyML Study Group](https://github.com/tinyml-team/study-group)
-- [Arduino trash classification TinyML example](https://github.com/lightb0x/arduino_trash_classification)
-- [Air Guitar CS249R](https://github.com/RobJMal/Air-Guitar-CS249R) [`[presentation]`](https://www.youtube.com/watch?v=PVk9RUW1Hwo)
-- [TinyML ESP32](https://github.com/HollowMan6/TinyML-ESP32)
-- [TinyML Motion Classifier](https://github.com/TronixLab/TinyML-Motion-Classifier)
-- [Edge AI Anomaly Detection](https://github.com/ShawnHymel/tinyml-example-anomaly-detection)
-- [EleTect - TinyML and IoT Based Smart Wildlife Tracker](https://www.hackster.io/dhruvsheth_/eletect-tinyml-and-iot-based-smart-wildlife-tracker-c03e5a)
-- [MagicWand-TFLite-ESP32](https://github.com/andriyadi/MagicWand-TFLite-ESP32)
+- [TinyML Study Group](https://github.com/tinyml-team/study-group) ![GitHub stars](https://img.shields.io/github/stars/tinyml-team/study-group?style=social)
+- [Arduino trash classification TinyML example](https://github.com/lightb0x/arduino_trash_classification) ![GitHub stars](https://img.shields.io/github/stars/lightb0x/arduino_trash_classification?style=social) 
+- [TinyML on Arduino](https://github.com/sandeepmistry/aimldevfest-workshop-2019) ![GitHub stars](https://img.shields.io/github/stars/sandeepmistry/aimldevfest-workshop-2019?style=social) 
+- [Edge AI Anomaly Detection](https://github.com/ShawnHymel/tinyml-example-anomaly-detection) ![GitHub stars](https://img.shields.io/github/stars/ShawnHymel/tinyml-example-anomaly-detection?style=social) 
+- [Air Guitar CS249R](https://github.com/RobJMal/Air-Guitar-CS249R) [`[presentation]`](https://www.youtube.com/watch?v=PVk9RUW1Hwo) ![GitHub stars](https://img.shields.io/github/stars/RobJMal/Air-Guitar-CS249R?style=social) 
+- [TinyML ESP32](https://github.com/HollowMan6/TinyML-ESP32) ![GitHub stars](https://img.shields.io/github/stars/HollowMan6/TinyML-ESP32?style=social) 
+- [MagicWand-TFLite-ESP32](https://github.com/andriyadi/MagicWand-TFLite-ESP32) ![GitHub stars](https://img.shields.io/github/stars/andriyadi/MagicWand-TFLite-ESP32?style=social) 
+- [Localize your cat at home with BLE beacon, ESP32s, and Machine Learning](https://github.com/filipsPL/cat-localizer) ![GitHub stars](https://img.shields.io/github/stars/filipsPL/cat-localizer?style=social) 
+- [ESP32 Cam and Edge Impulse](https://github.com/luisomoreau/ESP32-Cam-Edge-Impulse) ![GitHub stars](https://img.shields.io/github/stars/luisomoreau/ESP32-Cam-Edge-Impulse?style=social) 
+- [The C++ Neural Network and Machine Learning project](https://github.com/intel/cppnnml) ![GitHub stars](https://img.shields.io/github/stars/intel/cppnnml?style=social) 
+- [Water Meter System Complete](https://github.com/jomjol/water-meter-system-complete) ![GitHub stars](https://img.shields.io/github/stars/jomjol/water-meter-system-complete?style=social) 
+- [Number recognition with MNIST on Raspberry Pi Pico](https://github.com/iwatake2222/pico-mnist) ![GitHub stars](https://img.shields.io/github/stars/iwatake2222/pico-mnist?style=social) 
+- [HallSensor RPM meter using Machine Learning](https://github.com/Miguelest07/HallSensor_ML_EdgeImpulse) ![GitHub stars](https://img.shields.io/github/stars/Miguelest07/HallSensor_ML_EdgeImpulse?style=social) 
+- [Weather forcasting with TinyML](https://github.com/BaptisteZloch/Weather_forcasting) ![GitHub stars](https://img.shields.io/github/stars/BaptisteZloch/Weather_forcasting?style=social) 
+- [TinyML using different frameworks applied to STM32F407 uC](https://github.com/fjpolo/STM32F407TinyML) ![GitHub stars](https://img.shields.io/github/stars/fjpolo/STM32F407TinyML?style=social) 
+- [CurrentSense-TinyML](https://github.com/Santandersecurityresearch/CurrentSense-TinyML) ![GitHub stars](https://img.shields.io/github/stars/Santandersecurityresearch/CurrentSense-TinyML?style=social) 
+- [Tensorflow Lite for Microcontrollers in Micropython](https://github.com/mocleiri/tensorflow-micropython-examples) ![GitHub stars](https://img.shields.io/github/stars/mocleiri/tensorflow-micropython-examples?style=social) 
+- [TensorFlow Lite Micro for Espressif Chipsets](https://github.com/espressif/tflite-micro-esp-examples) ![GitHub stars](https://img.shields.io/github/stars/espressif/tflite-micro-esp-examples?style=social)
+
+### <ins>**Projects Articles**</ins>
 - [Autonomous embedded driving using computer vision](https://www.edgeimpulse.com/blog/autonomous-driving-using-computer-vision)
-- [The C++ Neural Network and Machine Learning project](https://github.com/intel/cppnnml)
-- [TinyML on Arduino](https://github.com/sandeepmistry/aimldevfest-workshop-2019)
-- [Water Meter System Complete](https://github.com/jomjol/water-meter-system-complete)
+- [EleTect - TinyML and IoT Based Smart Wildlife Tracker](https://www.hackster.io/dhruvsheth_/eletect-tinyml-and-iot-based-smart-wildlife-tracker-c03e5a)
 - [Handwriting Recognition](https://www.hackster.io/naveenbskumar/handwriting-recognition-7583e3)
 - [Why Benchmarking TinyML Systems Is Challenging](https://analyticsindiamag.com/why-benchmarking-tinyml-systems-is-challenging/)
 - [Arduino Machine Learning: Build a Tensorflow lite model to control robot-car](https://www.survivingwithandroid.com/arduino-machine-learning-tensorflow-lite/)
 - [Build your own Google Assistant using tinyML](https://mjrobot.org/2021/01/27/building-an-intelligent-voice-assistant-from-scratch/)
-- [Weather forcasting with TinyML](https://github.com/BaptisteZloch/Weather_forcasting)
-- [Localize your cat at home with BLE beacon, ESP32s, and Machine Learning](https://github.com/filipsPL/cat-localizer)
 - [Fall detection and heart rate monitoring using AVR-IoT](https://www.hackster.io/naveenbskumar/fall-detection-and-heart-rate-monitoring-using-avr-iot-75fb16)
-- [Number recognition with MNIST on Raspberry Pi Pico](https://github.com/iwatake2222/pico-mnist)
-- [HallSensor RPM meter using Machine Learning](https://github.com/Miguelest07/HallSensor_ML_EdgeImpulse)
 - [The Maker Show: TinyML for wildlife conservation](https://dev.to/fordevs-community/the-maker-show-tinyml-for-wildlife-conservation-idg)
-- [TinyML using different frameworks applied to STM32F407 uC](https://github.com/fjpolo/STM32F407TinyML)
-- [ESP32 Cam and Edge Impulse](https://github.com/luisomoreau/ESP32-Cam-Edge-Impulse)
 - [TinyML ESP32-CAM: Edge Image classification with Edge Impulse](https://www.survivingwithandroid.com/tinyml-esp32-cam-edge-image-classification-with-edge-impulse/)
-- [CurrentSense-TinyML](https://github.com/Santandersecurityresearch/CurrentSense-TinyML)
 - [Under $100 and Less Than 1mW: Pneumonia Detection Solution for Everyone](https://www.edgeimpulse.com/blog/under-dollar100-and-less-than-1mw-pneumonia-detection-solution-for-everyone)
 - [Early Pigs' Respiratory Disease Detection Using Edge Impulse](https://www.hackster.io/clinton_oduor/early-pigs-respiratory-disease-detection-using-edge-impulse-2ab039)
 - [Posture Watchdog](https://www.hackster.io/naveenbskumar/posture-watchdog-c03f77?utm_campaign=Advanced%20Wearables%20Contest%20Hackster.io&utm_source=twitter&utm_medium=social&utm_content=Dream%20Smart%20Wearables%20winner:%20posture%20watchdog)
 - [Wireless Quarter: Edge Intelligence](https://www.nordicsemi.com/-/media/Publications/Wireless-Quarter-pdf/2021/WQ_Issue_2_2021.pdf?la=en&hash=A58D1AB12248E18E465658CE3CDFE33F9187692F#page=8)
 - [Localized Environmental Sensing With TinyML](https://highdemandskills.com/localized-monitoring-tinyml/)
-- [Tensorflow Lite for Microcontrollers in Micropython](https://github.com/mocleiri/tensorflow-micropython-examples)
-- [TensorFlow Lite Micro for Espressif Chipsets](https://github.com/espressif/tflite-micro-esp-examples)
 
 ## Benchmarking
 
-- [EEMBCs EnergyRunner](https://github.com/eembc/energyrunner)
-- [MLPerf](https://github.com/mlcommons/tiny/)
-- [FedML](https://fedml.ai/)
+- [EEMBCs EnergyRunner](https://github.com/eembc/energyrunner): The EEMBC EnergyRunner application framework for the MLPerf Tiny benchmark.
+- [MLPerf - Tiny](https://mlcommons.org/en/inference-tiny-05/): is an ML benchmark suite for extremely low-power systems such as microcontrollers. [`[GitHub]`](https://github.com/mlcommons/tiny/tree/v0.5)
+- [FedML](https://fedml.ai/): A Research Library and Benchmark for Federated Machine Learning. [`[GitHub]`](https://github.com/FedML-AI/FedML)
 
 ## Books
 
@@ -239,18 +253,18 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 
 ## Libraries and Tools
 
-- [Edge Impulse](https://www.edgeimpulse.com/)
+- [Edge Impulse](https://www.edgeimpulse.com/) - Interactive platform to generate models that can run in microcontrollers. They are also quite active on social netwoks talking about recent news on EdgeAI/TinyML.
 - [EVE is Edge Virtualization Engine](https://github.com/lf-edge/eve/blob/master/README.md)
-- [microTVM](https://tvm.apache.org/docs/microtvm/index.html)
-- [Larq](https://github.com/larq/larq)
-- [Neural Network on Microcontroller (NNoM)](https://github.com/majianjia/nnom)
-- [BerryNet](https://github.com/DT42/BerryNet)
-- [Rune](https://github.com/hotg-ai/rune)
-- [Onnxruntime](https://github.com/microsoft/onnxruntime)
+- [microTVM](https://tvm.apache.org/docs/microtvm/index.html) - is an open source tool to optimize tensor programs.
+- [Larq](https://github.com/larq/larq) - An Open-Source Library for Training Binarized Neural Networks.
+- [Neural Network on Microcontroller (NNoM)](https://github.com/majianjia/nnom) - Higher-level layer-based Neural Network library specifically for microcontrollers. Support for CMSIS-NN.
+- [BerryNet](https://github.com/DT42/BerryNet) - Deep learning gateway on Raspberry Pi and other edge devices.
+- [Rune](https://github.com/hotg-ai/rune) - provides containers to encapsulate and deploy edgeML pipelines and applications.
+- [Onnxruntime](https://github.com/microsoft/onnxruntime) - cross-platform, high performance ML inferencing and training accelerator. 
 
 ## Courses
 
-- **CS249r: Tiny Machine Learning (TinyML)** - *Harvard University* by Vijay Janapa Reddi: [sites.google.com](https://sites.google.com/g.harvard.edu/tinyml/home?authuser=0) | [`[YouTube]`](https://www.youtube.com/channel/UCLv1K6OaYHP44hXFd5rNqyA) | [`[edx]`](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)| [`[Github]`](https://github.com/tinyMLx/colabs)
+- **CS249r: Tiny Machine Learning (TinyML)** - *Harvard University* by Vijay Janapa Reddi: [sites.google.com](https://sites.google.com/g.harvard.edu/tinyml/home?authuser=0) | [`[YouTube]`](https://www.youtube.com/channel/UCLv1K6OaYHP44hXFd5rNqyA) | [`[edx]`](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning) | [`[GitHub]`](https://github.com/tinyMLx/colabs)
 - **MLOps for Scaling TinyML** - *Harvard University* by Vijay Janapa Reddi: [`[edX]`](https://www.edx.org/course/mlops-for-scaling-tinyml)
 - **Introduction to Embedded Machine Learning** - *Edge Impulse* by Shawn Hymel: [`[Coursera]`](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
 - **Embedded and Distributed AI** - *Jonkoping University, Sweden* by  Beril Sirmacek: [`[YouTube]`](https://www.youtube.com/watch?v=OTXqT00MmPA&list=PLyulI6o7oOtycIT15i_I2_mhuLxnNvPvX)
