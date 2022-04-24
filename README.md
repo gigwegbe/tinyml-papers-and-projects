@@ -174,7 +174,10 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - A VM/Containerized Approach for Scaling TinyML Applications |[`[pdf]`](https://arxiv.org/pdf/2202.05057.pdf)
 - A Fast Network Exploration Strategy to Profile Low Energy Consumption for Keyword Spotting |[`[pdf]`](https://arxiv.org/pdf/2202.02361.pdf)
 - PocketNN: Integer-only Training and Inference of Neural Networks via Direct Feedback Alignment and Pocket Activations in Pure C++ |[`[pdf]`](https://arxiv.org/pdf/2201.02863.pdf)
-- TinyMLOps: Operational Challenges for Widespread Edge AI Adoption |[`[pdf]`](https://arxiv.org/pdf/2203.10923.pdf)
+- **[TinyMLOps]**: Operational Challenges for Widespread Edge AI Adoption |[`[pdf]`](https://arxiv.org/pdf/2203.10923.pdf)
+- **[Auritus]**: An Open-Source Optimization Toolkit for Training and Development of Human Movement Models and Filters Using Earables |[`[pdf]`](https://www.researchgate.net/publication/359759183_Auritus_An_Open-Source_Optimization_Toolkit_for_Training_and_Development_of_Human_Movement_Models_and_Filters_Using_Earables) |[`[code]`](https://github.com/nesl/auritus)
+- Enabling Hyperparameter Tuning of Machine Learning Classifiers in Production |[`[pdf]`](https://www.researchgate.net/publication/356911955_Enabling_Hyperparameter_Tuning_of_Machine_Learning_Classifiers_in_Production)
+- TinyOdom: Hardware-Aware Efficient Neural Inertial Navigation |[`[pdf]`](https://www.researchgate.net/publication/360075622_TinyOdom_Hardware-Aware_Efficient_Neural_Inertial_Navigation?fbclid=IwAR3F5LhoDiXD6tDhyE2PLFDB1hgy0IBM6V5YIUFwva7TvUvHYDi7C0ryTB8) |[`[code]`](https://github.com/nesl/tinyodom?fbclid=IwAR1zbqrymVPxsVRHT6LZOtcwjJtzUYqfd0E8ChliklUvug-D6KKhWAAZ3dg)
 
 ## Awesome TinyML Projects
 
