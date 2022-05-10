@@ -1,4 +1,7 @@
-## TinyML Paper and Projects
+## TinyML Papers and Projects
+> TinyML is awesome.
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/gigwegbe/tinyml-papers-and-projects.svg?label=contributions)](https://github.com/gigwegbe/tinyml-papers-and-projects/pulls) [![Commits](https://img.shields.io/github/last-commit/gigwegbe/tinyml-papers-and-projects.svg?label=last%20contribution)](https://github.com/gigwegbe/tinyml-papers-and-projects/commits/main)
 
 This is a list of interesting papers, projects, articles and talks about TinyML.
 
@@ -13,21 +16,21 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
   - [TinyML Talks](#tinyml-talks)
 - [Contact & Feedback](#contact--feedback)
 
-## Awesome Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Papers 
 
-### 2016
+### <ins>**2016**</ins>
 
 - DEEP COMPRESSION: COMPRESSING DEEP NEURAL NETWORKS WITH PRUNING, TRAINED QUANTIZATION AND HUFFMAN CODING | [`[pdf]`](https://arxiv.org/pdf/1510.00149.pdf)
 - **[SQUEEZENET]** ALEXNET-LEVEL ACCURACY WITH50X FEWER PARAMETERS AND <0.5MB MODEL SIZE | [`[pdf]`](https://arxiv.org/pdf/1602.07360.pdf)
 
-### 2017
+### <ins>**2017**</ins>
 
 - Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference | [`[pdf]`](https://arxiv.org/pdf/1712.05877.pdf)
 - Resource-efficient Machine Learning in 2 KB RAM for the Internet of Things  | [`[pdf]`](https://www.microsoft.com/en-us/research/uploads/prod/2017/06/kumar17.pdf)
 - ProtoNN: Compressed and Accurate kNN for Resource-scarce Devices  | [`[pdf]`](https://www.microsoft.com/en-us/research/uploads/prod/2017/06/protonn.pdf)
 - OPENMV: A PYTHON POWERED, EXTENSIBLE MACHINE VISION CAMERA | [`[pdf]`](https://arxiv.org/pdf/1711.10464.pdf) [`[official code]`]( https://github.com/openmv/openmv.git)
 
-### 2018
+### <ins>**2018**</ins>
 
 - **[AMC]** AutoML for Model Compression and Acceleration on Mobile Devices | [`[pdf]`](https://arxiv.org/pdf/1802.03494.pdf) [`[official code]`](https://github.com/mit-han-lab/amc)
 - Mobile Machine Learning Hardware at ARM: A Systems-on-Chip (SoC) Perspective | [`[pdf]`](https://arxiv.org/pdf/1801.06274.pdf)
@@ -39,7 +42,10 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Quantizing deep convolutional networks for efficient inference: A whitepaper | [`[pdf]`](https://arxiv.org/pdf/1806.08342.pdf)
 - **[Hello Edge]** Keyword Spotting on Microcontrollers | [`[pdf]`](https://arxiv.org/pdf/1711.07128.pdf)
 
-### 2019
+  | ▲ [Top](#tinyml-papers-and-projects) |
+  | --- |
+
+### <ins>**2019**</ins>
 
 - FastGRNN: A Fast, Accurate, Stable and Tiny Kilobyte Sized Gated Recurrent Neural Network | [`[pdf]`](https://arxiv.org/pdf/1901.02358.pdf)
 - Image Classification on IoT Edge Devices: Profiling and Modeling| [`[pdf]`](https://arxiv.org/pdf/1902.11119.pdf)
@@ -57,7 +63,10 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Latent Weights Do Not Exist: Rethinking Binarized Neural Network Optimization  |[`[pdf]`](https://arxiv.org/pdf/1906.02107.pdf)
 - Low-Power Computer Vision: Status, Challenges, Opportunities |[`[pdf]`](https://arxiv.org/pdf/1904.07714.pdf)
 
-### 2020
+  | ▲ [Top](#tinyml-papers-and-projects) |
+  | --- |
+
+### <ins>**2020**</ins>
 
 - COMPRESSING RNNS FOR IOT DEVICES BY 15-38X USING KRONECKER PRODUCTS |[`[pdf]`](https://arxiv.org/pdf/1906.02876.pdf)
 - BENCHMARKING TINYML SYSTEMS: CHALLENGES AND DIRECTION |[`[pdf]`](https://arxiv.org/pdf/2003.04821v3.pdf)
@@ -99,7 +108,10 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - **[Larq]** An Open-Source Library for Training Binarized Neural Networks |[`[pdf]`](https://arxiv.org/pdf/2011.09398.pdf) [`[presentation]`](https://www.youtube.com/watch?v=f9SNqDejOB0) [`[official code]`](https://github.com/larq/larq)
 - **[FedML]** A Research Library and Benchmark for Federated Machine Learning  |[`[pdf]`](https://arxiv.org/pdf/2007.13518.pdf)
 
-### 2021
+  | ▲ [Top](#tinyml-papers-and-projects) |
+  | --- |
+
+### <ins>**2021**</ins>
 
 - **[I-BERT]** Integer-only BERT Quantization |[`[pdf]`](https://arxiv.org/pdf/2101.01321.pdf)
 - **[TinyTL]** Reduce Memory, Not Parameters for Efficient On-Device Learning |[`[pdf]`](https://arxiv.org/pdf/2007.11622.pdf) [`[official code]`](https://github.com/mit-han-lab/tinyml/tree/master/tinytl)
@@ -165,8 +177,11 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - **[BSC]**: Block-based Stochastic Computing to Enable Accurate and Efficient TinyML |[`[pdf]`](https://arxiv.org/pdf/2111.06686.pdf)
 - **[TiWS-iForest]**: Isolation Forest in Weakly Supervised and Tiny ML scenarios |[`[pdf]`](https://arxiv.org/pdf/2111.15432.pdf)
 
+  | ▲ [Top](#tinyml-papers-and-projects) |
+  | --- |
 
-### 2022
+### <ins>**2022**</ins>
+
 - A Heterogeneous In-Memory Computing Cluster For Flexible End-to-End Inference of Real-World Deep Neural Networks |[`[pdf]`](https://arxiv.org/pdf/2201.01089.pdf)
 - CFU Playground: Full-Stack Open-Source Framework for Tiny Machine Learning (tinyML) Acceleration on FPGAs |[`[pdf]`](https://arxiv.org/pdf/2201.01863.pdf)
 - BottleFit: Learning Compressed Representations in Deep Neural Networks for Effective and Efficient Split Computing |[`[pdf]`](https://arxiv.org/pdf/2201.02693.pdf)
@@ -178,6 +193,9 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - **[Auritus]**: An Open-Source Optimization Toolkit for Training and Development of Human Movement Models and Filters Using Earables |[`[pdf]`](https://www.researchgate.net/publication/359759183_Auritus_An_Open-Source_Optimization_Toolkit_for_Training_and_Development_of_Human_Movement_Models_and_Filters_Using_Earables) |[`[code]`](https://github.com/nesl/auritus)
 - Enabling Hyperparameter Tuning of Machine Learning Classifiers in Production |[`[pdf]`](https://www.researchgate.net/publication/356911955_Enabling_Hyperparameter_Tuning_of_Machine_Learning_Classifiers_in_Production)
 - TinyOdom: Hardware-Aware Efficient Neural Inertial Navigation |[`[pdf]`](https://www.researchgate.net/publication/360075622_TinyOdom_Hardware-Aware_Efficient_Neural_Inertial_Navigation?fbclid=IwAR3F5LhoDiXD6tDhyE2PLFDB1hgy0IBM6V5YIUFwva7TvUvHYDi7C0ryTB8) |[`[code]`](https://github.com/nesl/tinyodom?fbclid=IwAR1zbqrymVPxsVRHT6LZOtcwjJtzUYqfd0E8ChliklUvug-D6KKhWAAZ3dg)
+
+  | ▲ [Top](#tinyml-papers-and-projects) |
+  | --- |
 
 ## Awesome TinyML Projects
 
@@ -220,17 +238,26 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - [Wireless Quarter: Edge Intelligence](https://www.nordicsemi.com/-/media/Publications/Wireless-Quarter-pdf/2021/WQ_Issue_2_2021.pdf?la=en&hash=A58D1AB12248E18E465658CE3CDFE33F9187692F#page=8)
 - [Localized Environmental Sensing With TinyML](https://highdemandskills.com/localized-monitoring-tinyml/)
 
+| ▲ [Top](#tinyml-papers-and-projects) |
+| --- |
+
 ## Benchmarking
 
 - [EEMBCs EnergyRunner](https://github.com/eembc/energyrunner): The EEMBC EnergyRunner application framework for the MLPerf Tiny benchmark.
 - [MLPerf - Tiny](https://mlcommons.org/en/inference-tiny-05/): is an ML benchmark suite for extremely low-power systems such as microcontrollers. [`[GitHub]`](https://github.com/mlcommons/tiny/tree/v0.5)
 - [FedML](https://fedml.ai/): A Research Library and Benchmark for Federated Machine Learning. [`[GitHub]`](https://github.com/FedML-AI/FedML)
 
+| ▲ [Top](#tinyml-papers-and-projects) |
+| --- |
+
 ## Books
 
 - `[2022-04]` **TinyML Cookbook** (Gian Marco Iodice. Packt): [`[Book]`](https://www.packtpub.com/product/tinyml-cookbook/9781801814973) | [`[Github]`](https://github.com/PacktPublishing/TinyML-Cookbook)
 - `[2020-04]` **Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter**: Build scalable real-world projects to implement end-to-end neural networks on Android and iOS (Anubhav Singh, Rimjhim Bhadani, 2020. Packt): [`[Book]`](https://www.amazon.com/Mobile-Deep-Learning-TensorFlow-Flutter/dp/1789611210)
 - `[2020-01]` **TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers** (Pete Warden. O'Reilly Media): [`[Book]`](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
+
+| ▲ [Top](#tinyml-papers-and-projects) |
+| --- |
 
 ## Articles
 
@@ -254,6 +281,9 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - [‘Small Data’ Are Also Crucial for Machine Learning](https://www.hackster.io/CHA_RAN/tinyml-in-microcosmos-c1161c)
 - [AI Inspection Using Analog Gauge as an Example](https://indatalabs.com/blog/ai-inspection)
 
+| ▲ [Top](#tinyml-papers-and-projects) |
+| --- |
+
 ## Libraries and Tools
 
 - [Edge Impulse](https://www.edgeimpulse.com/) - Interactive platform to generate models that can run in microcontrollers. They are also quite active on social netwoks talking about recent news on EdgeAI/TinyML.
@@ -265,6 +295,9 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - [Rune](https://github.com/hotg-ai/rune) - provides containers to encapsulate and deploy edgeML pipelines and applications.
 - [Onnxruntime](https://github.com/microsoft/onnxruntime) - cross-platform, high performance ML inferencing and training accelerator. 
 
+| ▲ [Top](#tinyml-papers-and-projects) |
+| --- |
+
 ## Courses
 
 - **CS249r: Tiny Machine Learning (TinyML)** - *Harvard University* by Vijay Janapa Reddi: [sites.google.com](https://sites.google.com/g.harvard.edu/tinyml/home?authuser=0) | [`[YouTube]`](https://www.youtube.com/channel/UCLv1K6OaYHP44hXFd5rNqyA) | [`[edx]`](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning) | [`[GitHub]`](https://github.com/tinyMLx/colabs)
@@ -272,6 +305,9 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - **Introduction to Embedded Machine Learning** - *Edge Impulse* by Shawn Hymel: [`[Coursera]`](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
 - **Embedded and Distributed AI** - *Jonkoping University, Sweden* by  Beril Sirmacek: [`[YouTube]`](https://www.youtube.com/watch?v=OTXqT00MmPA&list=PLyulI6o7oOtycIT15i_I2_mhuLxnNvPvX)
 - **MLT Artificial Intelligence - EdgeAI** - Machine Learning Tokyo: [`[YouTube]`](https://www.youtube.com/playlist?list=PLaPdEEY26UXxrxn-82sqe9cTTvWC0y-rM)
+
+| ▲ [Top](#tinyml-papers-and-projects) |
+| --- |
 
 ## TinyML Talks
 
