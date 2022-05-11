@@ -201,8 +201,6 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 
 ### <ins>**Projects Source code**</ins>
 - TinyFederatedLearning | [`[official code]`](https://github.com/kavyakvk/TinyFederatedLearning) [`[presentation]`](https://www.youtube.com/watch?v=KSaidr3ZN9M&feature=youtu.be) ![GitHub stars](https://img.shields.io/github/stars/kavyakvk/TinyFederatedLearning?style=social) 
-- Moving From AI To IntelligentAI To Reduce The Cost Of AI At The Edge [`[official code]`](https://www.numerix-dsp.com/ai/) [`[presentation]`](https://youtu.be/mYy4Zv80tXQ) 
-- Vibration Monitoring Machine Learning Demonstration [`[official code]`](https://www.numerix-dsp.com/ai/) [`[presentation]`](https://youtu.be/2iInOo0Lkfs)
 - [TinyML Study Group](https://github.com/tinyml-team/study-group) ![GitHub stars](https://img.shields.io/github/stars/tinyml-team/study-group?style=social)
 - [Arduino trash classification TinyML example](https://github.com/lightb0x/arduino_trash_classification) ![GitHub stars](https://img.shields.io/github/stars/lightb0x/arduino_trash_classification?style=social) 
 - [TinyML on Arduino](https://github.com/sandeepmistry/aimldevfest-workshop-2019) ![GitHub stars](https://img.shields.io/github/stars/sandeepmistry/aimldevfest-workshop-2019?style=social) 
@@ -311,9 +309,13 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 
 ## TinyML Talks
 
-|  Title       |                     Speaker               |       Published Date      |
-|:------------:|:-----------------------------------------:|:-------------------------:|
-|     ------   |        -----        |          -          |                 -------   |
+|  Title       |                     Speaker               |       Published Date      |            Code           |
+|:------------:|:-----------------------------------------:|:-------------------------:|:-------------------------:|
+| [Vibration Monitoring Machine Learning Demonstration](https://youtu.be/2iInOo0Lkfs) | John Edwards | 2020-12-22 | [GitHub](https://github.com/Numerix-DSP/siglib/) |
+| [Moving From AI To IntelligentAI To Reduce The Cost Of AI At The Edge](https://youtu.be/mYy4Zv80tXQ) | John Edwards | 2020-12-22 | [Web](https://www.numerix-dsp.com/ai/) |
+
+| ▲ [Top](#tinyml-papers-and-projects) |
+| --- |
 
 ## Contact & Feedback
 
