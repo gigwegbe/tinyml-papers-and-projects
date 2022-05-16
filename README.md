@@ -311,6 +311,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 ## TinyML Talks & Conferences
 
 - TinyML Talks, Summit & Research Symposium: https://www.tinyml.org/events
+- Embedded Vision Summit - [Edge AI & Vision Alliance](https://www.edge-ai-vision.com/): https://embeddedvisionsummit.com
 - Low-Power Computer Vision Challenge: https://lpcv.ai
 
 |  Title       |                     Speaker               |       Published Date      |            Code           |
