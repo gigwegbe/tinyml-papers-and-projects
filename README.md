@@ -250,7 +250,8 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 
 ## Books
 
-- `[2022-04]` **TinyML Cookbook** (Gian Marco Iodice. Packt): [`[Book]`](https://www.packtpub.com/product/tinyml-cookbook/9781801814973) | [`[Github]`](https://github.com/PacktPublishing/TinyML-Cookbook)
+- `[2022-04]` **TinyML Cookbook** (Gian Marco Iodice, 2022. Packt): [`[Book]`](https://www.packtpub.com/product/tinyml-cookbook/9781801814973) | [`[Github]`](https://github.com/PacktPublishing/TinyML-Cookbook)
+- `[2021-03]` **Artificial Intelligence for IoT Cookbook** (Michael Roshak, 2021. Packt): [`[Book]`](https://www.packtpub.com/product/artificial-intelligence-for-iot-cookbook/9781838981983) | [`[Github]`](https://github.com/PacktPublishing/Artificial-Intelligence-for-IoT-Cookbook)
 - `[2020-04]` **Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter**: Build scalable real-world projects to implement end-to-end neural networks on Android and iOS (Anubhav Singh, Rimjhim Bhadani, 2020. Packt): [`[Book]`](https://www.amazon.com/Mobile-Deep-Learning-TensorFlow-Flutter/dp/1789611210)
 - `[2020-01]` **TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers** (Pete Warden. O'Reilly Media): [`[Book]`](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
 
@@ -307,7 +308,10 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 | ▲ [Top](#tinyml-papers-and-projects) |
 | --- |
 
-## TinyML Talks
+## TinyML Talks & Conferences
+
+- TinyML Talks, Summit & Research Symposium: https://www.tinyml.org/events
+- Low-Power Computer Vision Challenge: https://lpcv.ai
 
 |  Title       |                     Speaker               |       Published Date      |            Code           |
 |:------------:|:-----------------------------------------:|:-------------------------:|:-------------------------:|
