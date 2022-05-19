@@ -13,7 +13,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
   - [Books](#books)
   - [Libraries and Tools](#libraries-and-tools)
   - [Courses](#courses)
-  - [TinyML Talks](#tinyml-talks)
+  - [TinyML Talks](#tinyml-talks--conferences)
 - [Contact & Feedback](#contact--feedback)
 
 ## Awesome Papers 
@@ -250,6 +250,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 
 ## Books
 
+- `[2022-10]` **Machine Learning on Commodity Tiny Devices** (S. Guo & Q. Zhou, 2022. CRC Press): [`[Book]`](https://www.routledge.com/Machine-Learning-on-Commodity-Tiny-Devices-Theory-and-Practice/Guo-Zhou/p/book/9781032374239)
 - `[2022-04]` **TinyML Cookbook** (Gian Marco Iodice, 2022. Packt): [`[Book]`](https://www.packtpub.com/product/tinyml-cookbook/9781801814973) | [`[Github]`](https://github.com/PacktPublishing/TinyML-Cookbook)
 - `[2021-03]` **Artificial Intelligence for IoT Cookbook** (Michael Roshak, 2021. Packt): [`[Book]`](https://www.packtpub.com/product/artificial-intelligence-for-iot-cookbook/9781838981983) | [`[Github]`](https://github.com/PacktPublishing/Artificial-Intelligence-for-IoT-Cookbook)
 - `[2020-04]` **Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter**: Build scalable real-world projects to implement end-to-end neural networks on Android and iOS (Anubhav Singh, Rimjhim Bhadani, 2020. Packt): [`[Book]`](https://www.amazon.com/Mobile-Deep-Learning-TensorFlow-Flutter/dp/1789611210)
@@ -310,9 +311,9 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 
 ## TinyML Talks & Conferences
 
-- TinyML Talks, Summit & Research Symposium: https://www.tinyml.org/events
-- Embedded Vision Summit - [Edge AI & Vision Alliance](https://www.edge-ai-vision.com/): https://embeddedvisionsummit.com
-- Low-Power Computer Vision Challenge: https://lpcv.ai
+- TinyML Talks, Summit & Research Symposium: [`[Website]`](https://www.tinyml.org/events)
+- Embedded Vision Summit - [Edge AI & Vision Alliance](https://www.edge-ai-vision.com/): [`[Website]`](https://embeddedvisionsummit.com)
+- Low-Power Computer Vision Challenge (LPCV: [`[Website]`](https://lpcv.ai)
 
 |  Title       |                     Speaker               |       Published Date      |            Code           |
 |:------------:|:-----------------------------------------:|:-------------------------:|:-------------------------:|
