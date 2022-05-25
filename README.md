@@ -251,8 +251,8 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 ## Books
 
 - `[2022-10]` **Machine Learning on Commodity Tiny Devices** (S. Guo & Q. Zhou, 2022. CRC Press): [`[Book]`](https://www.routledge.com/Machine-Learning-on-Commodity-Tiny-Devices-Theory-and-Practice/Guo-Zhou/p/book/9781032374239)
-- `[2022-04]` **TinyML Cookbook** (Gian Marco Iodice, 2022. Packt): [`[Book]`](https://www.packtpub.com/product/tinyml-cookbook/9781801814973) | [`[Github]`](https://github.com/PacktPublishing/TinyML-Cookbook)
-- `[2021-03]` **Artificial Intelligence for IoT Cookbook** (Michael Roshak, 2021. Packt): [`[Book]`](https://www.packtpub.com/product/artificial-intelligence-for-iot-cookbook/9781838981983) | [`[Github]`](https://github.com/PacktPublishing/Artificial-Intelligence-for-IoT-Cookbook)
+- `[2022-04]` **TinyML Cookbook** (Gian Marco Iodice, 2022. Packt): [`[Book]`](https://www.packtpub.com/product/tinyml-cookbook/9781801814973) | [`[GitHub]`](https://github.com/PacktPublishing/TinyML-Cookbook)
+- `[2021-03]` **Artificial Intelligence for IoT Cookbook** (Michael Roshak, 2021. Packt): [`[Book]`](https://www.packtpub.com/product/artificial-intelligence-for-iot-cookbook/9781838981983) | [`[GitHub]`](https://github.com/PacktPublishing/Artificial-Intelligence-for-IoT-Cookbook)
 - `[2020-04]` **Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter**: Build scalable real-world projects to implement end-to-end neural networks on Android and iOS (Anubhav Singh, Rimjhim Bhadani, 2020. Packt): [`[Book]`](https://www.amazon.com/Mobile-Deep-Learning-TensorFlow-Flutter/dp/1789611210)
 - `[2020-01]` **TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers** (Pete Warden. O'Reilly Media): [`[Book]`](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
 
@@ -311,14 +311,15 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 
 ## TinyML Talks & Conferences
 
-- TinyML Talks, Summit & Research Symposium: [`[Website]`](https://www.tinyml.org/events)
-- Embedded Vision Summit - [Edge AI & Vision Alliance](https://www.edge-ai-vision.com/): [`[Website]`](https://embeddedvisionsummit.com)
-- Low-Power Computer Vision Challenge (LPCV: [`[Website]`](https://lpcv.ai)
+- TinyML Talks, Summit & Research Symposium: [`[Website]`](https://www.tinyml.org/events) | [`[YouTube]`](https://www.youtube.com/channel/UC9iWqvsWjhowkHWVJquHwkg)
+- Embedded Vision Summit - [Edge AI & Vision Alliance](https://www.edge-ai-vision.com/): [`[Website]`](https://embeddedvisionsummit.com) | [`[YouTube]`](https://www.youtube.com/c/EdgeAIandVisionAlliance)
+- Low-Power Computer Vision Challenge (LPCV): [`[Website]`](https://lpcv.ai) | [`[YouTube]`](https://www.youtube.com/channel/UCAeAbQsRUZ8KWmGUKejtgBg)
 
-|  Title       |                     Speaker               |       Published Date      |            Code           |
+|  Title       |                     Speaker               |       Published Date      |            Link           |
 |:------------:|:-----------------------------------------:|:-------------------------:|:-------------------------:|
-| [Vibration Monitoring Machine Learning Demonstration](https://youtu.be/2iInOo0Lkfs) | John Edwards | 2020-12-22 | [GitHub](https://github.com/Numerix-DSP/siglib/) |
-| [Moving From AI To IntelligentAI To Reduce The Cost Of AI At The Edge](https://youtu.be/mYy4Zv80tXQ) | John Edwards | 2020-12-22 | [Web](https://www.numerix-dsp.com/ai/) |
+| [MLOps for TinyML: Challenges & Directions in Operationalizing TinyML at Scale](https://www.youtube.com/channel/UCzyzBQda43zFYrHNvGgM3Uw/featured) | V.J. Reddi | 2022-05-24 | [slide](https://cms.tinyml.org/wp-content/uploads/talks2022/tinyML_Talks_Vijay_Janapa_Reddi_220524.pdf) |
+| [Vibration Monitoring Machine Learning Demonstration](https://youtu.be/2iInOo0Lkfs) | J. Edwards | 2020-12-22 | [github](https://github.com/Numerix-DSP/siglib/) |
+| [Moving From AI To IntelligentAI To Reduce The Cost Of AI At The Edge](https://youtu.be/mYy4Zv80tXQ) | J. Edwards | 2020-12-22 | [web](https://www.numerix-dsp.com/ai/) |
 
 | ▲ [Top](#tinyml-papers-and-projects) |
 | --- |
