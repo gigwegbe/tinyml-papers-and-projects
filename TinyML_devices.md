@@ -11,3 +11,4 @@
 - Esp32 devices
 - OpenMV devices
 - reTerminal
+- XIAO BLE Sense
