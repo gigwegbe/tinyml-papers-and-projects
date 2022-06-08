@@ -176,6 +176,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - **[ANALOGNETS]**: ML-HW CO-DESIGN OF NOISE-ROBUST TINYML MODELS AND ALWAYS-ON ANALOG COMPUTE-IN-MEMORY ACCELERATOR |[`[pdf]`](https://arxiv.org/pdf/2111.06503.pdf)
 - **[BSC]**: Block-based Stochastic Computing to Enable Accurate and Efficient TinyML |[`[pdf]`](https://arxiv.org/pdf/2111.06686.pdf)
 - **[TiWS-iForest]**: Isolation Forest in Weakly Supervised and Tiny ML scenarios |[`[pdf]`](https://arxiv.org/pdf/2111.15432.pdf)
+- The Synergy of Complex Event Processing and Tiny Machine Learning in Industrial IoT  |[`[pdf]`](https://arxiv.org/pdf/2105.03371.pdf)
 
   | ▲ [Top](#tinyml-papers-and-projects) |
   | --- |
@@ -193,7 +194,9 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - **[Auritus]**: An Open-Source Optimization Toolkit for Training and Development of Human Movement Models and Filters Using Earables |[`[pdf]`](https://www.researchgate.net/publication/359759183_Auritus_An_Open-Source_Optimization_Toolkit_for_Training_and_Development_of_Human_Movement_Models_and_Filters_Using_Earables) |[`[code]`](https://github.com/nesl/auritus)
 - Enabling Hyperparameter Tuning of Machine Learning Classifiers in Production |[`[pdf]`](https://www.researchgate.net/publication/356911955_Enabling_Hyperparameter_Tuning_of_Machine_Learning_Classifiers_in_Production)
 - TinyOdom: Hardware-Aware Efficient Neural Inertial Navigation |[`[pdf]`](https://www.researchgate.net/publication/360075622_TinyOdom_Hardware-Aware_Efficient_Neural_Inertial_Navigation?fbclid=IwAR3F5LhoDiXD6tDhyE2PLFDB1hgy0IBM6V5YIUFwva7TvUvHYDi7C0ryTB8) |[`[code]`](https://github.com/nesl/tinyodom?fbclid=IwAR1zbqrymVPxsVRHT6LZOtcwjJtzUYqfd0E8ChliklUvug-D6KKhWAAZ3dg)
-
+- Searching for Efficient Neural Architectures for On-Device ML on Edge TPUs |[`[pdf]`](https://arxiv.org/pdf/2204.14007.pdf)
+- Green Accelerated Hoeffding Tree |[`[pdf]`](https://arxiv.org/pdf/2205.03184.pdf)
+- tinyRadar: mmWave Radar based Human Activity Classification for Edge Computing |[`[pdf]`](https://labs.dese.iisc.ac.in/neuronics/wp-content/uploads/sites/16/2022/04/mmWave_Radar_ver1.3.5.pdf)
   | ▲ [Top](#tinyml-papers-and-projects) |
   | --- |
 
