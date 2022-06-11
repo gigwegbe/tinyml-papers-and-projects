@@ -197,6 +197,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - Searching for Efficient Neural Architectures for On-Device ML on Edge TPUs |[`[pdf]`](https://arxiv.org/pdf/2204.14007.pdf)
 - Green Accelerated Hoeffding Tree |[`[pdf]`](https://arxiv.org/pdf/2205.03184.pdf)
 - tinyRadar: mmWave Radar based Human Activity Classification for Edge Computing |[`[pdf]`](https://labs.dese.iisc.ac.in/neuronics/wp-content/uploads/sites/16/2022/04/mmWave_Radar_ver1.3.5.pdf)
+- MACHINE LEARNING SENSORS |[`[pdf]`](https://arxiv.org/pdf/2206.03266.pdf)
   | ▲ [Top](#tinyml-papers-and-projects) |
   | --- |
 
