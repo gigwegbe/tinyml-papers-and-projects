@@ -198,6 +198,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - Green Accelerated Hoeffding Tree |[`[pdf]`](https://arxiv.org/pdf/2205.03184.pdf)
 - tinyRadar: mmWave Radar based Human Activity Classification for Edge Computing |[`[pdf]`](https://labs.dese.iisc.ac.in/neuronics/wp-content/uploads/sites/16/2022/04/mmWave_Radar_ver1.3.5.pdf)
 - MACHINE LEARNING SENSORS |[`[pdf]`](https://arxiv.org/pdf/2206.03266.pdf)
+
   | ▲ [Top](#tinyml-papers-and-projects) |
   | --- |
 
@@ -321,7 +322,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 
 |  Title       |                     Speaker               |       Published Date      |            Link           |
 |:------------:|:-----------------------------------------:|:-------------------------:|:-------------------------:|
-| [MLOps for TinyML: Challenges & Directions in Operationalizing TinyML at Scale](https://www.youtube.com/channel/UCzyzBQda43zFYrHNvGgM3Uw/featured) | V.J. Reddi | 2022-05-24 | [slide](https://cms.tinyml.org/wp-content/uploads/talks2022/tinyML_Talks_Vijay_Janapa_Reddi_220524.pdf) |
+| [MLOps for TinyML: Challenges & Directions in Operationalizing TinyML at Scale](https://youtu.be/yydnTSH0R2I) | V.J. Reddi | 2022-05-24 | [slide](https://cms.tinyml.org/wp-content/uploads/talks2022/tinyML_Talks_Vijay_Janapa_Reddi_220524.pdf) |
 | [Vibration Monitoring Machine Learning Demonstration](https://youtu.be/2iInOo0Lkfs) | J. Edwards | 2020-12-22 | [github](https://github.com/Numerix-DSP/siglib/) |
 | [Moving From AI To IntelligentAI To Reduce The Cost Of AI At The Edge](https://youtu.be/mYy4Zv80tXQ) | J. Edwards | 2020-12-22 | [web](https://www.numerix-dsp.com/ai/) |
 
