@@ -322,6 +322,9 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 
 |  Title       |                     Speaker               |       Published Date      |            Link           |
 |:------------:|:-----------------------------------------:|:-------------------------:|:-------------------------:|
+| [Challenges for Large Scale Deployment of Tiny ML Devices](https://youtu.be/bwjHLrLGkOY) | G. Raghavan | 2022-04-29 | [slide](https://cms.tinyml.org/wp-content/uploads/summit2022/Raghavan-Gopal.pdf) |
+| [Building data-centric AI tooling for embedded engineers](https://youtu.be/9rnzM-C7QdA) | D. Situnayake | 2022-04-29 | [slide](https://cms.tinyml.org/wp-content/uploads/summit2022/Situnayake-Daniel.pdf) |
+| [Sensors and ML: waking smarter for less](https://youtu.be/VXpQlOouBqU) | A. Ataya | 2022-05-04 | [slide](https://cms.tinyml.org/wp-content/uploads/summit2022/Abbas-Ataya.pdf) |
 | [MLOps for TinyML: Challenges & Directions in Operationalizing TinyML at Scale](https://youtu.be/yydnTSH0R2I) | V.J. Reddi | 2022-05-24 | [slide](https://cms.tinyml.org/wp-content/uploads/talks2022/tinyML_Talks_Vijay_Janapa_Reddi_220524.pdf) |
 | [Vibration Monitoring Machine Learning Demonstration](https://youtu.be/2iInOo0Lkfs) | J. Edwards | 2020-12-22 | [github](https://github.com/Numerix-DSP/siglib/) |
 | [Moving From AI To IntelligentAI To Reduce The Cost Of AI At The Edge](https://youtu.be/mYy4Zv80tXQ) | J. Edwards | 2020-12-22 | [web](https://www.numerix-dsp.com/ai/) |
