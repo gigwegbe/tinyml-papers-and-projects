@@ -198,6 +198,12 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - Green Accelerated Hoeffding Tree |[`[pdf]`](https://arxiv.org/pdf/2205.03184.pdf)
 - tinyRadar: mmWave Radar based Human Activity Classification for Edge Computing |[`[pdf]`](https://labs.dese.iisc.ac.in/neuronics/wp-content/uploads/sites/16/2022/04/mmWave_Radar_ver1.3.5.pdf)
 - MACHINE LEARNING SENSORS |[`[pdf]`](https://arxiv.org/pdf/2206.03266.pdf)
+- Evaluating Short-Term Forecasting of Multiple Time Series in IoT Environments |[`[pdf]`](https://arxiv.org/pdf/2206.07784.pdf)
+- How to train accurate BNNs for embedded systems? |[`[pdf]`](https://arxiv.org/pdf/2206.12322.pdf)
+- Vildehaye: A Family of Versatile, Widely-Applicable, and Field-Proven Lightweight Wildlife Tracking and Sensing Tags  |[`[pdf]`](https://arxiv.org/pdf/2206.06171.pdf)
+- On-Device Training Under 256KB Memory  |[`[pdf]`](https://arxiv.org/pdf/2206.15472.pdf)
+- DEPTH PRUNING WITH AUXILIARY NETWORKS FOR TINYML  |[`[pdf]`](https://arxiv.org/pdf/2204.10546.pdf)
+- **[EdgeNeXt]**: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications |[`[pdf]`](https://arxiv.org/pdf/2206.10589.pdf)
 
   | ▲ [Top](#tinyml-papers-and-projects) |
   | --- |
