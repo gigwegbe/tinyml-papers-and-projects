@@ -230,6 +230,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - [CurrentSense-TinyML](https://github.com/Santandersecurityresearch/CurrentSense-TinyML) ![GitHub stars](https://img.shields.io/github/stars/Santandersecurityresearch/CurrentSense-TinyML?style=social) 
 - [Tensorflow Lite for Microcontrollers in Micropython](https://github.com/mocleiri/tensorflow-micropython-examples) ![GitHub stars](https://img.shields.io/github/stars/mocleiri/tensorflow-micropython-examples?style=social) 
 - [TensorFlow Lite Micro for Espressif Chipsets](https://github.com/espressif/tflite-micro-esp-examples) ![GitHub stars](https://img.shields.io/github/stars/espressif/tflite-micro-esp-examples?style=social)
+- [ML Audio Classifier Example for Pico](https://github.com/ArmDeveloperEcosystem/ml-audio-classifier-example-for-pico) ![GitHub stars](https://img.shields.io/github/stars/ArmDeveloperEcosystem/ml-audio-classifier-example-for-pico?style=social)
 
 ### <ins>**Projects Articles**</ins>
 - `2020-09` [Autonomous embedded driving using computer vision](https://www.edgeimpulse.com/blog/autonomous-driving-using-computer-vision)
