@@ -12,3 +12,5 @@
 - OpenMV devices
 - reTerminal
 - XIAO BLE Sense
+- NORVI IIOT
+
