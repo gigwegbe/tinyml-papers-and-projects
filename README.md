@@ -204,6 +204,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - On-Device Training Under 256KB Memory  |[`[pdf]`](https://arxiv.org/pdf/2206.15472.pdf)
 - DEPTH PRUNING WITH AUXILIARY NETWORKS FOR TINYML  |[`[pdf]`](https://arxiv.org/pdf/2204.10546.pdf)
 - **[EdgeNeXt]**: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications |[`[pdf]`](https://arxiv.org/pdf/2206.10589.pdf)
+- Tiny Robot Learning: Challenges and Directions for Machine Learning in Resource-Constrained Robots |[`[pdf]`](https://arxiv.org/pdf/2205.05748.pdf)
 
   | ▲ [Top](#tinyml-papers-and-projects) |
   | --- |
@@ -247,6 +248,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - `2021` [Wireless Quarter: Edge Intelligence](https://www.nordicsemi.com/-/media/Publications/Wireless-Quarter-pdf/2021/WQ_Issue_2_2021.pdf?la=en&hash=A58D1AB12248E18E465658CE3CDFE33F9187692F#page=8)
 - [Arduino Machine Learning: Build a Tensorflow lite model to control robot-car](https://www.survivingwithandroid.com/arduino-machine-learning-tensorflow-lite/)
 - [TinyML ESP32-CAM: Edge Image classification with Edge Impulse](https://www.survivingwithandroid.com/tinyml-esp32-cam-edge-image-classification-with-edge-impulse/)
+- [Predictive Maintenance with TinyAutomator](https://www.waylay.io/articles/predictive-maintenance-with-tinyautomator)
 
 | ▲ [Top](#tinyml-papers-and-projects) |
 | --- |
