@@ -205,8 +205,8 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - DEPTH PRUNING WITH AUXILIARY NETWORKS FOR TINYML  |[`[pdf]`](https://arxiv.org/pdf/2204.10546.pdf)
 - **[EdgeNeXt]**: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications |[`[pdf]`](https://arxiv.org/pdf/2206.10589.pdf)
 - Tiny Robot Learning: Challenges and Directions for Machine Learning in Resource-Constrained Robots |[`[pdf]`](https://arxiv.org/pdf/2205.05748.pdf)
-- POET: Training Neural Networks on Tiny Devices with Integrated Rematerialization and PagingPOET: Training Neural Networks on Tiny Devices |[`[pdf]`](https://arxiv.org/pdf/2207.07697.pdf)
-
+- **[POET]**: Training Neural Networks on Tiny Devices with Integrated Rematerialization and PagingPOET: Training Neural Networks on Tiny Devices |[`[pdf]`](https://arxiv.org/pdf/2207.07697.pdf)
+- **[IMU2Doppler]**: Cross-Modal Domain Adaptation for Doppler-based Activity Recognition Using IMU Data" |[`[pdf]`](https://smashlab.io/pdfs/imu2dop.pdf)
   | ▲ [Top](#tinyml-papers-and-projects) |
   | --- |
 
