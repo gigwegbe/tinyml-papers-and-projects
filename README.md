@@ -342,6 +342,9 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 | ▲ [Top](#tinyml-papers-and-projects) |
 | --- |
 
+## Other Awesome Repos
+- [Awesome Human Activity Recognition](https://github.com/Jie-su/Awesome_Human_Activity_Recognition#2-Paper-with-code)
+
 ## Contact & Feedback
 
 If you have any suggestions about TinyML papers and projects, feel free to mail me :)
