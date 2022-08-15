@@ -176,6 +176,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - **[ANALOGNETS]**: ML-HW CO-DESIGN OF NOISE-ROBUST TINYML MODELS AND ALWAYS-ON ANALOG COMPUTE-IN-MEMORY ACCELERATOR |[`[pdf]`](https://arxiv.org/pdf/2111.06503.pdf)
 - **[BSC]**: Block-based Stochastic Computing to Enable Accurate and Efficient TinyML |[`[pdf]`](https://arxiv.org/pdf/2111.06686.pdf)
 - **[TiWS-iForest]**: Isolation Forest in Weakly Supervised and Tiny ML scenarios |[`[pdf]`](https://arxiv.org/pdf/2111.15432.pdf)
+- **[RadarNet]**: Efficient Gesture Recognition Technique Utilizing a Miniature Radar Sensor|[`[pdf]`](https://dl.acm.org/doi/pdf/10.1145/3411764.3445367)
 - The Synergy of Complex Event Processing and Tiny Machine Learning in Industrial IoT  |[`[pdf]`](https://arxiv.org/pdf/2105.03371.pdf)
 
   | ▲ [Top](#tinyml-papers-and-projects) |
