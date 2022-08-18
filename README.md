@@ -207,7 +207,11 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - **[EdgeNeXt]**: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications |[`[pdf]`](https://arxiv.org/pdf/2206.10589.pdf)
 - Tiny Robot Learning: Challenges and Directions for Machine Learning in Resource-Constrained Robots |[`[pdf]`](https://arxiv.org/pdf/2205.05748.pdf)
 - **[POET]**: Training Neural Networks on Tiny Devices with Integrated Rematerialization and PagingPOET: Training Neural Networks on Tiny Devices |[`[pdf]`](https://arxiv.org/pdf/2207.07697.pdf)
-- **[IMU2Doppler]**: Cross-Modal Domain Adaptation for Doppler-based Activity Recognition Using IMU Data" |[`[pdf]`](https://smashlab.io/pdfs/imu2dop.pdf)
+- **[IMU2Doppler]**: Cross-Modal Domain Adaptation for Doppler-based Activity Recognition Using IMU Data" |[`[pdf]
+`](https://smashlab.io/pdfs/imu2dop.pdf)
+- **[Tiny-HR]**: Towards an interpretable machine learning
+pipeline for heart rate estimation on edge devices  |[`[pdf]
+`](https://arxiv.org/pdf/2208.07981.pdf)
   | ▲ [Top](#tinyml-papers-and-projects) |
   | --- |
 
