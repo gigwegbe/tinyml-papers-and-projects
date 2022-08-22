@@ -212,6 +212,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - **[Tiny-HR]**: Towards an interpretable machine learning
 pipeline for heart rate estimation on edge devices  |[`[pdf]
 `](https://arxiv.org/pdf/2208.07981.pdf)
+- [Enabling Fast Deep Learning on Tiny Energy-Harvesting IoT Devices]|[`[pdf]`](https://arxiv.org/pdf/2111.14051.pdf)
   | ▲ [Top](#tinyml-papers-and-projects) |
   | --- |
 
