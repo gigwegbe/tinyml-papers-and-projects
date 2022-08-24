@@ -271,6 +271,7 @@ pipeline for heart rate estimation on edge devices  |[`[pdf]
 
 ## Books
 
+- `[2022-12]` **AI at the Edge** (D. Situnayake & J. Plunkett, 2022. O'Reilly): [`[Book]`](https://www.oreilly.com/library/view/ai-at-the/9781098120191/)
 - `[2022-10]` **Machine Learning on Commodity Tiny Devices** (S. Guo & Q. Zhou, 2022. CRC Press): [`[Book]`](https://www.routledge.com/Machine-Learning-on-Commodity-Tiny-Devices-Theory-and-Practice/Guo-Zhou/p/book/9781032374239)
 - `[2022-04]` **TinyML Cookbook** (Gian Marco Iodice, 2022. Packt): [`[Book]`](https://www.packtpub.com/product/tinyml-cookbook/9781801814973) | [`[GitHub]`](https://github.com/PacktPublishing/TinyML-Cookbook)
 - `[2021-03]` **Artificial Intelligence for IoT Cookbook** (Michael Roshak, 2021. Packt): [`[Book]`](https://www.packtpub.com/product/artificial-intelligence-for-iot-cookbook/9781838981983) | [`[GitHub]`](https://github.com/PacktPublishing/Artificial-Intelligence-for-IoT-Cookbook)
