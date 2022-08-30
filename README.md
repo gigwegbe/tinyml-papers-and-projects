@@ -213,6 +213,9 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 pipeline for heart rate estimation on edge devices  |[`[pdf]
 `](https://arxiv.org/pdf/2208.07981.pdf)
 - [Enabling Fast Deep Learning on Tiny Energy-Harvesting IoT Devices]|[`[pdf]`](https://arxiv.org/pdf/2111.14051.pdf)
+- A processing‑in‑pixel‑in‑memory paradigm for resource‑constrained TinyML applications  |[`[pdf`](https://www.nature.com/articles/s41598-022-17934-1.pdf)
+- **[DeepPicarMicro]**: Applying TinyML to Autonomous Cyber Physical Systems |[`[pdf`](https://arxiv.org/pdf/2208.11212.pdf)
+
   | ▲ [Top](#tinyml-papers-and-projects) |
   | --- |
 
