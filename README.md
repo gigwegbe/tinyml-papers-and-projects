@@ -242,6 +242,7 @@ pipeline for heart rate estimation on edge devices  |[`[pdf]
 - [Tensorflow Lite for Microcontrollers in Micropython](https://github.com/mocleiri/tensorflow-micropython-examples) ![GitHub stars](https://img.shields.io/github/stars/mocleiri/tensorflow-micropython-examples?style=social) 
 - [TensorFlow Lite Micro for Espressif Chipsets](https://github.com/espressif/tflite-micro-esp-examples) ![GitHub stars](https://img.shields.io/github/stars/espressif/tflite-micro-esp-examples?style=social)
 - [ML Audio Classifier Example for Pico](https://github.com/ArmDeveloperEcosystem/ml-audio-classifier-example-for-pico) ![GitHub stars](https://img.shields.io/github/stars/ArmDeveloperEcosystem/ml-audio-classifier-example-for-pico?style=social)
+- [Handwritten digit classification using Raspberry Pi Pico and Machine Learning](https://github.com/code2k13/rpipico_digit_classification)![GitHub stars](https://img.shields.io/github/stars/code2k13/rpipico_digit_classification?style=social)
 
 ### <ins>**Projects Articles**</ins>
 - `2020-09` [Autonomous embedded driving using computer vision](https://www.edgeimpulse.com/blog/autonomous-driving-using-computer-vision)
