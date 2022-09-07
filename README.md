@@ -325,7 +325,7 @@ pipeline for heart rate estimation on edge devices  |[`[pdf]
 | --- |
 
 ## Courses
-
+- **Machine Learning at the Edge on Arm: A Practical Introduction** - by  ARM | [`[edx]`](https://www.edx.org/course/machine-learning-at-the-edge-a-practical-introduction-from-arm)
 - **CS249r: Tiny Machine Learning (TinyML)** - *Harvard University* by Vijay Janapa Reddi: [sites.google.com](https://sites.google.com/g.harvard.edu/tinyml/home?authuser=0) | [`[YouTube]`](https://www.youtube.com/channel/UCLv1K6OaYHP44hXFd5rNqyA) | [`[edx]`](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning) | [`[GitHub]`](https://github.com/tinyMLx/colabs)
 - **MLOps for Scaling TinyML** - *Harvard University* by Vijay Janapa Reddi: [`[edX]`](https://www.edx.org/course/mlops-for-scaling-tinyml)
 - **Introduction to Embedded Machine Learning** - *Edge Impulse* by Shawn Hymel: [`[Coursera]`](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
