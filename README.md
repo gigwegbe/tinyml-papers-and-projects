@@ -260,6 +260,7 @@ pipeline for heart rate estimation on edge devices  |[`[pdf]
 - [Arduino Machine Learning: Build a Tensorflow lite model to control robot-car](https://www.survivingwithandroid.com/arduino-machine-learning-tensorflow-lite/)
 - [TinyML ESP32-CAM: Edge Image classification with Edge Impulse](https://www.survivingwithandroid.com/tinyml-esp32-cam-edge-image-classification-with-edge-impulse/)
 - [Predictive Maintenance with TinyAutomator](https://www.waylay.io/articles/predictive-maintenance-with-tinyautomator)
+- [TinyML Person Detection with Arduino and Arducam](https://www.thetinymlbook.com/resources/tinyml-person-detection)
 
 | ▲ [Top](#tinyml-papers-and-projects) |
 | --- |
@@ -277,6 +278,7 @@ pipeline for heart rate estimation on edge devices  |[`[pdf]
 
 - `[2022-12]` **AI at the Edge** (D. Situnayake & J. Plunkett, 2022. O'Reilly): [`[Book]`](https://www.oreilly.com/library/view/ai-at-the/9781098120191/)
 - `[2022-10]` **Machine Learning on Commodity Tiny Devices** (S. Guo & Q. Zhou, 2022. CRC Press): [`[Book]`](https://www.routledge.com/Machine-Learning-on-Commodity-Tiny-Devices-Theory-and-Practice/Guo-Zhou/p/book/9781032374239)
+- `[2022-07]` **Introduction to TinyML** (Rohit Sharma, 2022, AITS): [`[Book]`](https://www.thetinymlbook.com/) | [`[GitHub]`](https://github.com/ai-techsystems/deepC)
 - `[2022-04]` **TinyML Cookbook** (Gian Marco Iodice, 2022. Packt): [`[Book]`](https://www.packtpub.com/product/tinyml-cookbook/9781801814973) | [`[GitHub]`](https://github.com/PacktPublishing/TinyML-Cookbook)
 - `[2021-03]` **Artificial Intelligence for IoT Cookbook** (Michael Roshak, 2021. Packt): [`[Book]`](https://www.packtpub.com/product/artificial-intelligence-for-iot-cookbook/9781838981983) | [`[GitHub]`](https://github.com/PacktPublishing/Artificial-Intelligence-for-IoT-Cookbook)
 - `[2020-04]` **Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter**: Build scalable real-world projects to implement end-to-end neural networks on Android and iOS (Anubhav Singh, Rimjhim Bhadani, 2020. Packt): [`[Book]`](https://www.amazon.com/Mobile-Deep-Learning-TensorFlow-Flutter/dp/1789611210)
@@ -320,6 +322,8 @@ pipeline for heart rate estimation on edge devices  |[`[pdf]
 - [BerryNet](https://github.com/DT42/BerryNet) - Deep learning gateway on Raspberry Pi and other edge devices.
 - [Rune](https://github.com/hotg-ai/rune) - provides containers to encapsulate and deploy edgeML pipelines and applications.
 - [Onnxruntime](https://github.com/microsoft/onnxruntime) - cross-platform, high performance ML inferencing and training accelerator. 
+- [deepC](https://github.com/ai-techsystems/deepC) - vendor independent TinyML deep learning library, compiler and inference framework microcomputers and micro-controllers
+- [deepC for Arduino](https://github.com/ai-techsystems/arduino) - TinyML deep learning library customized for Arduiono IDE
 
 | ▲ [Top](#tinyml-papers-and-projects) |
 | --- |
