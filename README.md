@@ -172,7 +172,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - **[MOBILEVIT]**: LIGHT-WEIGHT, GENERAL-PURPOSE, AND MOBILE-FRIENDLY VISION TRANSFORMER |[`[pdf]`](https://arxiv.org/pdf/2110.02178.pdf?utm_medium=email&_hsmi=175723863&_hsenc=p2ANqtz--rVrB87u6eUrx_A5XM8m9kyJc-xTO-fwCZheo-n_Mx9IQ02upaLz87dMne5xsrlcFq5G0vxBHD_IzIXHOIvuR--axMLA&utm_content=175723863&utm_source=hs_email)
 - **[MCUNetV2]**: Memory-Efficient Patch-based Inference for Tiny Deep Learning |[`[pdf]`](https://arxiv.org/abs/2110.15352#)
 - **[LCS]**: LEARNING COMPRESSIBLE SUBSPACES FOR ADAPTIVE NETWORK COMPRESSION AT INFERENCE TIME |[`[pdf]`](https://arxiv.org/pdf/2110.04252.pdf)
-- Feature Augmented Hybrid CNN for Stress Recognition Using Wrist-based Photoplethysmography Sensor |[`[pdf]`](https://arxiv.org/pdf/2108.02313.pdf)
+- Feature Augmented Hybrid CNN for Stress Recognition Using Wrist-based Photoplethysmography Sensor |[`[pdf]`](https://arxiv.org/pdf/2108.03166.pdf)
 - **[ANALOGNETS]**: ML-HW CO-DESIGN OF NOISE-ROBUST TINYML MODELS AND ALWAYS-ON ANALOG COMPUTE-IN-MEMORY ACCELERATOR |[`[pdf]`](https://arxiv.org/pdf/2111.06503.pdf)
 - **[BSC]**: Block-based Stochastic Computing to Enable Accurate and Efficient TinyML |[`[pdf]`](https://arxiv.org/pdf/2111.06686.pdf)
 - **[TiWS-iForest]**: Isolation Forest in Weakly Supervised and Tiny ML scenarios |[`[pdf]`](https://arxiv.org/pdf/2111.15432.pdf)
