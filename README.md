@@ -5,7 +5,7 @@
 
 This is a list of interesting papers, projects, articles and talks about TinyML.
 
-- [Awesome Papers](#awesome-papers-): [2016](#2016) | [2017](#2017) | [2018](#2018) | [2019](#2019) | [2020](#2020) | [2022](#2022)
+- [Awesome Papers](#awesome-papers-): [2016](#2016) | [2017](#2017) | [2018](#2018) | [2019](#2019) | [2020](#2020) | [2022](#2022) | [2023](#2023)
 - [Awesome Projects](#awesome-tinyml-projects): [Projects Source code](#projects-source-code) | [Projects Articles](#projects-articles)
 - [Benchmarking](#benchmarking)
 - Resources
@@ -218,6 +218,15 @@ pipeline for heart rate estimation on edge devices  |[`[pdf]
 
   | ▲ [Top](#tinyml-papers-and-projects) |
   | --- |
+
+
+### <ins>**2023**</ins>
+
+- Exploring Automatic Gym Workouts Recognition Locally On Wearable Resource-Constrained Devices |[`[pdf`](https://arxiv.org/pdf/2301.05748.pdf)
+
+  | ▲ [Top](#tinyml-papers-and-projects) |
+  | --- |
+
 
 ## Awesome TinyML Projects
 
