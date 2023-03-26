@@ -207,14 +207,32 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - **[EdgeNeXt]**: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications |[`[pdf]`](https://arxiv.org/pdf/2206.10589.pdf)
 - Tiny Robot Learning: Challenges and Directions for Machine Learning in Resource-Constrained Robots |[`[pdf]`](https://arxiv.org/pdf/2205.05748.pdf)
 - **[POET]**: Training Neural Networks on Tiny Devices with Integrated Rematerialization and PagingPOET: Training Neural Networks on Tiny Devices |[`[pdf]`](https://arxiv.org/pdf/2207.07697.pdf)
+- Two-stage Human Activity Recognition on
+Microcontrollers with Decision Trees and CNNs  |[`[pdf]`](https://arxiv.org/pdf/2206.07652.pdf) 
 - **[IMU2Doppler]**: Cross-Modal Domain Adaptation for Doppler-based Activity Recognition Using IMU Data" |[`[pdf]
 `](https://smashlab.io/pdfs/imu2dop.pdf)
 - **[Tiny-HR]**: Towards an interpretable machine learning
 pipeline for heart rate estimation on edge devices  |[`[pdf]
 `](https://arxiv.org/pdf/2208.07981.pdf)
 - [Enabling Fast Deep Learning on Tiny Energy-Harvesting IoT Devices]|[`[pdf]`](https://arxiv.org/pdf/2111.14051.pdf)
-- A processing‑in‑pixel‑in‑memory paradigm for resource‑constrained TinyML applications  |[`[pdf`](https://www.nature.com/articles/s41598-022-17934-1.pdf)
-- **[DeepPicarMicro]**: Applying TinyML to Autonomous Cyber Physical Systems |[`[pdf`](https://arxiv.org/pdf/2208.11212.pdf)
+- Extremely Simple Activation Shaping for
+Out-of-Distribution Detection |[`[pdf]`](https://arxiv.org/pdf/2209.09858.pdf)
+- A processing‑in‑pixel‑in‑memory paradigm for resource‑constrained TinyML applications  |[`[pdf]`](https://www.nature.com/articles/s41598-022-17934-1.pdf)
+- **[tinySNN]**: Towards Memory- and Energy-Efficient Spiking Neural Networks |[`[pdf]`](https://arxiv.org/pdf/2206.08656.pdf)
+- **[DeepPicarMicro]**: Applying TinyML to Autonomous Cyber Physical Systems |[`[pdf]`](https://arxiv.org/pdf/2208.11212.pdf)
+- Incremental Online Learning Algorithms Comparison for Gesture and Visual Smart Sensors |[`[pdf`](https://arxiv.org/pdf/2209.00591.pdf)
+-**[Protean]**: An Energy-Efficient and Heterogeneous Platform for
+Adaptive and Hardware-Accelerated Battery-free Computing |[`[pdf`](https://dl.acm.org/doi/pdf/10.1145/3560905.3568561?utm_medium=email&_hsmi=249309419&_hsenc=p2ANqtz--_ltviIYSpzfz9c4PiqHChBsEQkRDbr6treGEpYyBsHcwC5HX_R7JMp4ldGoydUfIlR-bOB-V2lKC0RIAhOcFen7daog&utm_content=249309419&utm_source=hs_email)
+- IN-SENSOR & NEUROMORPHIC COMPUTING ARE ALL YOU NEED FOR ENERGY
+EFFICIENT COMPUTER VISION  |[`[pdf]`](https://arxiv.org/pdf/2212.10881.pdf)
+- Energy Efficient Hardware Acceleration of
+Neural Networks with Power-of-Two
+Quantisation |[`[pdf]`](https://arxiv.org/pdf/2209.15257.pdf)
+- Enabling ISP-less Low-Power Computer Vision |[`[pdf]`](https://arxiv.org/pdf/2210.05451.pdf)
+- Rethinking Vision Transformers for MobileNet Size and Speed |[`[pdf]`](https://arxiv.org/pdf/2212.08059.pdf)
+- Neuromorphic Computing and Sensing in Space |[`[pdf]`](https://arxiv.org/pdf/2212.05236.pdf)
+- Joint Data Deepening-and-Prefetching for Energy-Efficient Edge Learning |[`[pdf]`](https://arxiv.org/pdf/2211.07146.pdf)
+- PreMa: Predictive Maintenance of Solenoid Valve in Real-Time at Embedded Edge-Level | [`pdf]`](https://arxiv.org/pdf/2211.12326.pdf)
 
   | ▲ [Top](#tinyml-papers-and-projects) |
   | --- |
@@ -222,7 +240,13 @@ pipeline for heart rate estimation on edge devices  |[`[pdf]
 
 ### <ins>**2023**</ins>
 
-- Exploring Automatic Gym Workouts Recognition Locally On Wearable Resource-Constrained Devices |[`[pdf`](https://arxiv.org/pdf/2301.05748.pdf)
+- Exploring Automatic Gym Workouts Recognition Locally On Wearable Resource-Constrained Devices |[`[pdf]`](https://arxiv.org/pdf/2301.05748.pdf)
+- **[MetaLDC]**: Meta Learning of Low-Dimensional Computing Classifiers for Fast On-Device Adaption |[`[pdf]`](https://arxiv.org/pdf/2302.12347.pdf)
+- Faster Attention Is What You Need: A Fast
+Self-Attention Neural Network Backbone
+Architecture for the Edge via Double-Condensing
+Attention Condensers |[`[pdf]`](https://arxiv.org/pdf)
+
 
   | ▲ [Top](#tinyml-papers-and-projects) |
   | --- |
@@ -274,11 +298,12 @@ pipeline for heart rate estimation on edge devices  |[`[pdf]
 | ▲ [Top](#tinyml-papers-and-projects) |
 | --- |
 
-## Benchmarking
+## Benchmarking and Others
 
 - [EEMBCs EnergyRunner](https://github.com/eembc/energyrunner): The EEMBC EnergyRunner application framework for the MLPerf Tiny benchmark.
 - [MLPerf - Tiny](https://mlcommons.org/en/inference-tiny-05/): is an ML benchmark suite for extremely low-power systems such as microcontrollers. [`[GitHub]`](https://github.com/mlcommons/tiny/tree/v0.5)
 - [FedML](https://fedml.ai/): A Research Library and Benchmark for Federated Machine Learning. [`[GitHub]`](https://github.com/FedML-AI/FedML)
+- [FogML](https://github.com/tszydlo/FogML): A Research Library for source code generation of the inferencing functions for embedded devices [`[GitHub]`]()
 
 | ▲ [Top](#tinyml-papers-and-projects) |
 | --- |
