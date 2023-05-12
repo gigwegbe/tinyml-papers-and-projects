@@ -209,6 +209,8 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - **[POET]**: Training Neural Networks on Tiny Devices with Integrated Rematerialization and PagingPOET: Training Neural Networks on Tiny Devices |[`[pdf]`](https://arxiv.org/pdf/2207.07697.pdf)
 - Two-stage Human Activity Recognition on
 Microcontrollers with Decision Trees and CNNs  |[`[pdf]`](https://arxiv.org/pdf/2206.07652.pdf) 
+- How to Manage Tiny Machine Learning at Scale – An Industrial Perspective |[`[pdf`](https://arxiv.org/pdf/2202.09113.pdf)
+- **[SeLoC-ML]**: Semantic Low-Code Engineering for Machine Learning Applications in Industrial IoT|[`[pdf]`](https://arxiv.org/pdf/2207.08818.pdf)
 - **[IMU2Doppler]**: Cross-Modal Domain Adaptation for Doppler-based Activity Recognition Using IMU Data" |[`[pdf]
 `](https://smashlab.io/pdfs/imu2dop.pdf)
 - **[Tiny-HR]**: Towards an interpretable machine learning
@@ -246,6 +248,7 @@ Quantisation |[`[pdf]`](https://arxiv.org/pdf/2209.15257.pdf)
 Self-Attention Neural Network Backbone
 Architecture for the Edge via Double-Condensing
 Attention Condensers |[`[pdf]`](https://arxiv.org/pdf)
+- **[TinyReptile]**: TinyML with Federated Meta-Learning |[`[pdf`](https://arxiv.org/pdf/2304.05201.pdf)
 
 
   | ▲ [Top](#tinyml-papers-and-projects) |
