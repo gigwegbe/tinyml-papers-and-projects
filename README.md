@@ -361,6 +361,7 @@ Attention Condensers |[`[pdf]`](https://arxiv.org/pdf)
 - [Onnxruntime](https://github.com/microsoft/onnxruntime) - cross-platform, high performance ML inferencing and training accelerator. 
 - [deepC](https://github.com/ai-techsystems/deepC) - vendor independent TinyML deep learning library, compiler and inference framework microcomputers and micro-controllers
 - [deepC for Arduino](https://github.com/ai-techsystems/arduino) - TinyML deep learning library customized for Arduiono IDE
+- [emlearn](https://github.com/emlearn/emlearn) - Machine learning for microcontroller and embedded systems. Train in Python, then do inference on any device with a C99 compiler.
 
 | ▲ [Top](#tinyml-papers-and-projects) |
 | --- |
