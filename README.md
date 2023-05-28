@@ -397,6 +397,10 @@ Attention Condensers |[`[pdf]`](https://arxiv.org/pdf)
 | ▲ [Top](#tinyml-papers-and-projects) |
 | --- |
 
+## Competitions
+- **[LPCV]**: Low-Power Computer Vision Challenge |[`[website]`](https://lpcv.ai/)
+
+
 ## Other Awesome Repos
 - [Awesome Human Activity Recognition](https://github.com/Jie-su/Awesome_Human_Activity_Recognition#2-Paper-with-code)
 
