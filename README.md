@@ -247,7 +247,7 @@ Quantisation |[`[pdf]`](https://arxiv.org/pdf/2209.15257.pdf)
 - Faster Attention Is What You Need: A Fast
 Self-Attention Neural Network Backbone
 Architecture for the Edge via Double-Condensing
-Attention Condensers |[`[pdf]`](https://arxiv.org/pdf)
+Attention Condensers |[`[pdf]`](https://arxiv.org/pdf/2208.06980.pdf)
 - **[TinyReptile]**: TinyML with Federated Meta-Learning |[`[pdf`](https://arxiv.org/pdf/2304.05201.pdf)
 
 
