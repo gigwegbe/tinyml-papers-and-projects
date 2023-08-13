@@ -367,6 +367,7 @@ Attention Condensers |[`[pdf]`](https://arxiv.org/pdf/2208.06980.pdf)
 | --- |
 
 ## Courses
+- **TinyML4D: UNIFEI-IESTI01-TinyML-2023.1** - by UNIFEI | [`[website]`](https://github.com/Mjrovai/UNIFEI-IESTI01-TinyML-2023.1)
 - **Introduction to Embedded Deep Learning** - by CMU | [`[website]`](https://z4ziad.github.io/embed-dl-s23/EmbeddedDL_S23/)
 - **TinyML and Efficient Deep Learning** - by MIT | [`[website]`](https://efficientml.ai/)
 - **Machine Learning at the Edge on Arm: A Practical Introduction** - by  ARM | [`[edx]`](https://www.edx.org/course/machine-learning-at-the-edge-a-practical-introduction-from-arm)
