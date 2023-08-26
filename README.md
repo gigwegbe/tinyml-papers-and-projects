@@ -107,6 +107,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - **[TinyBERT]** Distilling BERT for Natural Language Understanding  |[`[pdf]`](https://arxiv.org/pdf/1909.10351.pdf)
 - **[Larq]** An Open-Source Library for Training Binarized Neural Networks |[`[pdf]`](https://arxiv.org/pdf/2011.09398.pdf) [`[presentation]`](https://www.youtube.com/watch?v=f9SNqDejOB0) [`[official code]`](https://github.com/larq/larq)
 - **[FedML]** A Research Library and Benchmark for Federated Machine Learning  |[`[pdf]`](https://arxiv.org/pdf/2007.13518.pdf)
+- Survey of Machine Learning Accelerators  |[`[pdf]`](https://arxiv.org/pdf/2009.00993.pdf)
 
   | ▲ [Top](#tinyml-papers-and-projects) |
   | --- |
