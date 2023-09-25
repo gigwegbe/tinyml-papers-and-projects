@@ -252,6 +252,10 @@ Attention Condensers |[`[pdf]`](https://arxiv.org/pdf/2208.06980.pdf)
 - **[TinyReptile]**: TinyML with Federated Meta-Learning |[`[pdf`](https://arxiv.org/pdf/2304.05201.pdf)
 - **[TinyProp]** - Adaptive Sparse Backpropagation for Efficient TinyML On-device Learning |[`[pdf`](https://arxiv.org/pdf/2308.09201.pdf)
 
+- **[LiteTrack]** - Layer Pruning with Asynchronous Feature Extraction
+for Lightweight and Efficient Visual Tracking - Adaptive Sparse Backpropagation for Efficient TinyML On-device Learning |[`[pdf`](https://arxiv.org/pdf/2309.09249.pdf)
+
+
 
   | ▲ [Top](#tinyml-papers-and-projects) |
   | --- |
