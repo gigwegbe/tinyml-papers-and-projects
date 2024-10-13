@@ -257,6 +257,7 @@ for Lightweight and Efficient Visual Tracking - Adaptive Sparse Backpropagation 
 
 ### <ins>**2024**</ins>
 
+- Model Compression in Practice: Lessons Learned from Practitioners Creating On-device Machine Learning Experiences | [`[pdf]`](https://arxiv.org/pdf/2310.04621v2)
 - TinyAgent: Function Calling at the Edge | [`[pdf]`](https://arxiv.org/pdf/2409.00608v1)
 
 
@@ -316,6 +317,7 @@ for Lightweight and Efficient Visual Tracking - Adaptive Sparse Backpropagation 
 - [MLPerf - Tiny](https://mlcommons.org/en/inference-tiny-05/): is an ML benchmark suite for extremely low-power systems such as microcontrollers. [`[GitHub]`](https://github.com/mlcommons/tiny/tree/v0.5)
 - [FedML](https://fedml.ai/): A Research Library and Benchmark for Federated Machine Learning. [`[GitHub]`](https://github.com/FedML-AI/FedML)
 - [FogML](https://github.com/tszydlo/FogML): A Research Library for source code generation of the inferencing functions for embedded devices [`[GitHub]`]()
+- [Benchmarking Machine Learning on the Edge](https://github.com/aallan/benchmarking-ml-on-the-edge)
 
 | ▲ [Top](#tinyml-papers-and-projects) |
 | --- |
