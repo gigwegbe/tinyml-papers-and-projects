@@ -262,6 +262,9 @@ for Lightweight and Efficient Visual Tracking - Adaptive Sparse Backpropagation 
 
 - Model Compression in Practice: Lessons Learned from Practitioners Creating On-device Machine Learning Experiences | [`[pdf]`](https://arxiv.org/pdf/2310.04621v2)
 - TinyAgent: Function Calling at the Edge | [`[pdf]`](https://arxiv.org/pdf/2409.00608v1)
+- SENSORLLM: ALIGNING LARGE LANGUAGE MODELS WITH MOTION SENSORS FOR HUMAN ACTIVITY
+RECOGNITION | [`[pdf]`](https://arxiv.org/pdf/2410.10624)
+- Penetrative AI: Making LLMs Comprehend the Physical World | [`[pdf]`](https://arxiv.org/pdf/2310.09605v2)
 
 
   | ▲ [Top](#tinyml-papers-and-projects) |
