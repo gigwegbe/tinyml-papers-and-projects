@@ -266,6 +266,8 @@ for Lightweight and Efficient Visual Tracking - Adaptive Sparse Backpropagation 
 RECOGNITION | [`[pdf]`](https://arxiv.org/pdf/2410.10624)
 - **[Penetrative AI]**: Making LLMs Comprehend the Physical World | [`[pdf]`](https://arxiv.org/pdf/2310.09605v2)
 - **[MobileCLIP]**: Fast Image-Text Models through Multi-Modal Reinforced Training  | [`[pdf]`](https://arxiv.org/pdf/2311.17049)
+- **[Zero-TPrune]**: Zero-Shot Token Pruning through Leveraging of the Attention
+Graph in Pre-Trained Transformers  | [`[pdf]`](https://arxiv.org/pdf/2305.17328)
 
 
   | ▲ [Top](#tinyml-papers-and-projects) |
