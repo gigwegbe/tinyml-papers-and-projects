@@ -270,6 +270,7 @@ RECOGNITION | [`[pdf]`](https://arxiv.org/pdf/2410.10624)
 - **[MobileCLIP]**: Fast Image-Text Models through Multi-Modal Reinforced Training  | [`[pdf]`](https://arxiv.org/pdf/2311.17049)
 - **[Zero-TPrune]**: Zero-Shot Token Pruning through Leveraging of the Attention
 Graph in Pre-Trained Transformers  | [`[pdf]`](https://arxiv.org/pdf/2305.17328)
+- Towards Edge General Intelligence via Large Language Models: Opportunities and Challenges | [`[pdf]`](https://arxiv.org/pdf/2410.18125)
 
 
   | ▲ [Top](#tinyml-papers-and-projects) |
