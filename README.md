@@ -5,7 +5,7 @@
 
 This is a list of interesting papers, projects, articles and talks about TinyML.
 
-- [Awesome Papers](#awesome-papers-): [2016](#2016) | [2017](#2017) | [2018](#2018) | [2019](#2019) | [2020](#2020) | [2022](#2022) | [2023](#2023) | [2024](#2024)
+- [Awesome Papers](#awesome-papers-): [2016](#2016) | [2017](#2017) | [2018](#2018) | [2019](#2019) | [2020](#2020) | [2022](#2022) | [2023](#2023) | [2024](#2024) | [2025](#2025)
 - [Awesome Projects](#awesome-tinyml-projects): [Projects Source code](#projects-source-code) | [Projects Articles](#projects-articles)
 - [Benchmarking](#benchmarking)
 - Resources
@@ -43,7 +43,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - **[Hello Edge]** Keyword Spotting on Microcontrollers | [`[pdf]`](https://arxiv.org/pdf/1711.07128.pdf)
 
   | ▲ [Top](#tinyml-papers-and-projects) |
-  | --- |
+  | ------------------------------------ |
 
 ### <ins>**2019**</ins>
 
@@ -64,7 +64,7 @@ This is a list of interesting papers, projects, articles and talks about TinyML.
 - Low-Power Computer Vision: Status, Challenges, Opportunities |[`[pdf]`](https://arxiv.org/pdf/1904.07714.pdf)
 
   | ▲ [Top](#tinyml-papers-and-projects) |
-  | --- |
+  | ------------------------------------ |
 
 ### <ins>**2020**</ins>
 
@@ -111,7 +111,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - Survey of Machine Learning Accelerators  |[`[pdf]`](https://arxiv.org/pdf/2009.00993.pdf)
 
   | ▲ [Top](#tinyml-papers-and-projects) |
-  | --- |
+  | ------------------------------------ |
 
 ### <ins>**2021**</ins>
 
@@ -183,7 +183,7 @@ using Hybrid Neural Network Architecture |[`[pdf]`](https://arxiv.org/pdf/2003.0
 - The Synergy of Complex Event Processing and Tiny Machine Learning in Industrial IoT  |[`[pdf]`](https://arxiv.org/pdf/2105.03371.pdf)
 
   | ▲ [Top](#tinyml-papers-and-projects) |
-  | --- |
+  | ------------------------------------ |
 
 ### <ins>**2022**</ins>
 
@@ -240,7 +240,7 @@ Quantisation |[`[pdf]`](https://arxiv.org/pdf/2209.15257.pdf)
 - PreMa: Predictive Maintenance of Solenoid Valve in Real-Time at Embedded Edge-Level | [`pdf]`](https://arxiv.org/pdf/2211.12326.pdf)
 
   | ▲ [Top](#tinyml-papers-and-projects) |
-  | --- |
+  | ------------------------------------ |
 
 
 ### <ins>**2023**</ins>
@@ -272,9 +272,11 @@ RECOGNITION | [`[pdf]`](https://arxiv.org/pdf/2410.10624)
 Graph in Pre-Trained Transformers  | [`[pdf]`](https://arxiv.org/pdf/2305.17328)
 - Towards Edge General Intelligence via Large Language Models: Opportunities and Challenges | [`[pdf]`](https://arxiv.org/pdf/2410.18125)
 
+<ins>**2025**</ins>
+- Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies| [`[pdf]`](https://arxiv.org/pdf/2501.03265)
 
   | ▲ [Top](#tinyml-papers-and-projects) |
-  | --- |
+  | ------------------------------------ |
 
 
 ## Awesome TinyML Projects
@@ -321,7 +323,7 @@ Graph in Pre-Trained Transformers  | [`[pdf]`](https://arxiv.org/pdf/2305.17328)
 - [TinyML Person Detection with Arduino and Arducam](https://www.thetinymlbook.com/resources/tinyml-person-detection)
 
 | ▲ [Top](#tinyml-papers-and-projects) |
-| --- |
+| ------------------------------------ |
 
 ## Benchmarking and Others
 
@@ -332,7 +334,7 @@ Graph in Pre-Trained Transformers  | [`[pdf]`](https://arxiv.org/pdf/2305.17328)
 - [Benchmarking Machine Learning on the Edge](https://github.com/aallan/benchmarking-ml-on-the-edge)
 
 | ▲ [Top](#tinyml-papers-and-projects) |
-| --- |
+| ------------------------------------ |
 
 ## Books
 
@@ -345,7 +347,7 @@ Graph in Pre-Trained Transformers  | [`[pdf]`](https://arxiv.org/pdf/2305.17328)
 - `[2020-01]` **TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers** (Pete Warden. O'Reilly Media): [`[Book]`](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043)
 
 | ▲ [Top](#tinyml-papers-and-projects) |
-| --- |
+| ------------------------------------ |
 
 ## Articles
 
@@ -370,7 +372,7 @@ Graph in Pre-Trained Transformers  | [`[pdf]`](https://arxiv.org/pdf/2305.17328)
 - `2021-09` [AI Inspection Using Analog Gauge as an Example](https://indatalabs.com/blog/ai-inspection)
 
 | ▲ [Top](#tinyml-papers-and-projects) |
-| --- |
+| ------------------------------------ |
 
 ## Libraries and Tools
 
@@ -387,7 +389,7 @@ Graph in Pre-Trained Transformers  | [`[pdf]`](https://arxiv.org/pdf/2305.17328)
 - [emlearn](https://github.com/emlearn/emlearn) - Machine learning for microcontroller and embedded systems. Train in Python, then do inference on any device with a C99 compiler.
 
 | ▲ [Top](#tinyml-papers-and-projects) |
-| --- |
+| ------------------------------------ |
 
 ## Courses
 - **11-767: On-Device Machine Learning Fall** - by CMU | [`[website]`](https://cmu-odml.github.io)
@@ -402,7 +404,7 @@ Graph in Pre-Trained Transformers  | [`[pdf]`](https://arxiv.org/pdf/2305.17328)
 - **MLT Artificial Intelligence - EdgeAI** - Machine Learning Tokyo: [`[YouTube]`](https://www.youtube.com/playlist?list=PLaPdEEY26UXxrxn-82sqe9cTTvWC0y-rM)
 
 | ▲ [Top](#tinyml-papers-and-projects) |
-| --- |
+| ------------------------------------ |
 
 ## TinyML Talks & Conferences
 
@@ -410,17 +412,17 @@ Graph in Pre-Trained Transformers  | [`[pdf]`](https://arxiv.org/pdf/2305.17328)
 - Embedded Vision Summit - [Edge AI & Vision Alliance](https://www.edge-ai-vision.com/): [`[Website]`](https://embeddedvisionsummit.com) | [`[YouTube]`](https://www.youtube.com/c/EdgeAIandVisionAlliance)
 - Low-Power Computer Vision Challenge (LPCV): [`[Website]`](https://lpcv.ai) | [`[YouTube]`](https://www.youtube.com/channel/UCAeAbQsRUZ8KWmGUKejtgBg)
 
-|  Title       |                     Speaker               |       Published Date      |            Link           |
-|:------------:|:-----------------------------------------:|:-------------------------:|:-------------------------:|
-| [Challenges for Large Scale Deployment of Tiny ML Devices](https://youtu.be/bwjHLrLGkOY) | G. Raghavan | 2022-04-29 | [slide](https://cms.tinyml.org/wp-content/uploads/summit2022/Raghavan-Gopal.pdf) |
-| [Building data-centric AI tooling for embedded engineers](https://youtu.be/9rnzM-C7QdA) | D. Situnayake | 2022-04-29 | [slide](https://cms.tinyml.org/wp-content/uploads/summit2022/Situnayake-Daniel.pdf) |
-| [Sensors and ML: waking smarter for less](https://youtu.be/VXpQlOouBqU) | A. Ataya | 2022-05-04 | [slide](https://cms.tinyml.org/wp-content/uploads/summit2022/Abbas-Ataya.pdf) |
-| [MLOps for TinyML: Challenges & Directions in Operationalizing TinyML at Scale](https://youtu.be/yydnTSH0R2I) | V.J. Reddi | 2022-05-24 | [slide](https://cms.tinyml.org/wp-content/uploads/talks2022/tinyML_Talks_Vijay_Janapa_Reddi_220524.pdf) |
-| [Vibration Monitoring Machine Learning Demonstration](https://youtu.be/2iInOo0Lkfs) | J. Edwards | 2020-12-22 | [github](https://github.com/Numerix-DSP/siglib/) |
-| [Moving From AI To IntelligentAI To Reduce The Cost Of AI At The Edge](https://youtu.be/mYy4Zv80tXQ) | J. Edwards | 2020-12-22 | [web](https://www.numerix-dsp.com/ai/) |
+|                                                     Title                                                     |    Speaker    | Published Date |                                                  Link                                                   |
+| :-----------------------------------------------------------------------------------------------------------: | :-----------: | :------------: | :-----------------------------------------------------------------------------------------------------: |
+|           [Challenges for Large Scale Deployment of Tiny ML Devices](https://youtu.be/bwjHLrLGkOY)            |  G. Raghavan  |   2022-04-29   |            [slide](https://cms.tinyml.org/wp-content/uploads/summit2022/Raghavan-Gopal.pdf)             |
+|            [Building data-centric AI tooling for embedded engineers](https://youtu.be/9rnzM-C7QdA)            | D. Situnayake |   2022-04-29   |           [slide](https://cms.tinyml.org/wp-content/uploads/summit2022/Situnayake-Daniel.pdf)           |
+|                    [Sensors and ML: waking smarter for less](https://youtu.be/VXpQlOouBqU)                    |   A. Ataya    |   2022-05-04   |              [slide](https://cms.tinyml.org/wp-content/uploads/summit2022/Abbas-Ataya.pdf)              |
+| [MLOps for TinyML: Challenges & Directions in Operationalizing TinyML at Scale](https://youtu.be/yydnTSH0R2I) |  V.J. Reddi   |   2022-05-24   | [slide](https://cms.tinyml.org/wp-content/uploads/talks2022/tinyML_Talks_Vijay_Janapa_Reddi_220524.pdf) |
+|              [Vibration Monitoring Machine Learning Demonstration](https://youtu.be/2iInOo0Lkfs)              |  J. Edwards   |   2020-12-22   |                            [github](https://github.com/Numerix-DSP/siglib/)                             |
+|     [Moving From AI To IntelligentAI To Reduce The Cost Of AI At The Edge](https://youtu.be/mYy4Zv80tXQ)      |  J. Edwards   |   2020-12-22   |                                 [web](https://www.numerix-dsp.com/ai/)                                  |
 
 | ▲ [Top](#tinyml-papers-and-projects) |
-| --- |
+| ------------------------------------ |
 
 ## Competitions
 - **[LPCV]**: Low-Power Computer Vision Challenge |[`[website]`](https://lpcv.ai/)
