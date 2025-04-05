@@ -271,6 +271,7 @@ RECOGNITION | [`[pdf]`](https://arxiv.org/pdf/2410.10624)
 - **[Zero-TPrune]**: Zero-Shot Token Pruning through Leveraging of the Attention
 Graph in Pre-Trained Transformers  | [`[pdf]`](https://arxiv.org/pdf/2305.17328)
 - Towards Edge General Intelligence via Large Language Models: Opportunities and Challenges | [`[pdf]`](https://arxiv.org/pdf/2410.18125)
+- **[TinyTTA]**: Efficient Test-time Adaptation via Early-exit Ensembles on Edge Devices | [`[pdf]`](https://proceedings.neurips.cc/paper_files/paper/2024/file/4c454d34f3a4c8d6b4ca85a918e5d7ba-Paper-Conference.pdf)
 
 <ins>**2025**</ins>
 - Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies| [`[pdf]`](https://arxiv.org/pdf/2501.03265)
@@ -408,7 +409,7 @@ Graph in Pre-Trained Transformers  | [`[pdf]`](https://arxiv.org/pdf/2305.17328)
 
 ## TinyML Talks & Conferences
 
-- TinyML Talks, Summit & Research Symposium: [`[Website]`](https://www.tinyml.org/events) | [`[YouTube]`](https://www.youtube.com/channel/UC9iWqvsWjhowkHWVJquHwkg)
+- TinyML Talks, Summit & Research Symposium: [`[Website]`](https://conf.researchr.org/series/tinyml-symp) | [`[YouTube]`](https://www.youtube.com/channel/UC9iWqvsWjhowkHWVJquHwkg)
 - Embedded Vision Summit - [Edge AI & Vision Alliance](https://www.edge-ai-vision.com/): [`[Website]`](https://embeddedvisionsummit.com) | [`[YouTube]`](https://www.youtube.com/c/EdgeAIandVisionAlliance)
 - Low-Power Computer Vision Challenge (LPCV): [`[Website]`](https://lpcv.ai) | [`[YouTube]`](https://www.youtube.com/channel/UCAeAbQsRUZ8KWmGUKejtgBg)
 
