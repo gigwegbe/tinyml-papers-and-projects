@@ -273,7 +273,8 @@ Graph in Pre-Trained Transformers  | [`[pdf]`](https://arxiv.org/pdf/2305.17328)
 - Towards Edge General Intelligence via Large Language Models: Opportunities and Challenges | [`[pdf]`](https://arxiv.org/pdf/2410.18125)
 
 <ins>**2025**</ins>
-- Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies| [`[pdf]`](https://arxiv.org/pdf/2501.03265)
+- Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies| [`[pdf]`](https://arxiv.org/pdf/2501.03265) | [`[GitHub]`](https://github.com/wangxb96/Awesome-EdgeAI)
+- Small Language Models are the Future of Agentic AI | [`[pdf]`](https://arxiv.org/abs/2506.02153) | [`[GitHub]`](https://research.nvidia.com/labs/lpr/slm-agents/)
 
   | ▲ [Top](#tinyml-papers-and-projects) |
   | ------------------------------------ |
