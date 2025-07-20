@@ -403,6 +403,7 @@ Graph in Pre-Trained Transformers  | [`[pdf]`](https://arxiv.org/pdf/2305.17328)
 - **Introduction to Embedded Machine Learning** - *Edge Impulse* by Shawn Hymel: [`[Coursera]`](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
 - **Embedded and Distributed AI** - *Jonkoping University, Sweden* by  Beril Sirmacek: [`[YouTube]`](https://www.youtube.com/watch?v=OTXqT00MmPA&list=PLyulI6o7oOtycIT15i_I2_mhuLxnNvPvX)
 - **MLT Artificial Intelligence - EdgeAI** - Machine Learning Tokyo: [`[YouTube]`](https://www.youtube.com/playlist?list=PLaPdEEY26UXxrxn-82sqe9cTTvWC0y-rM)
+- TinyML @ UPenn | [`[website]`](https://github.com/Mjrovai/UNIFEI-IESTI01-TinyML-2023.1) | [`[YouTube]`](https://www.youtube.com/playlist?list=PL7rtKJAz_mPe6kAbiH6Ucq02Vpa95qvBJ)
 
 | ▲ [Top](#tinyml-papers-and-projects) |
 | ------------------------------------ |
