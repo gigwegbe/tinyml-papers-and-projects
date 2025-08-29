@@ -277,6 +277,7 @@ Graph in Pre-Trained Transformers  | [`[pdf]`](https://arxiv.org/pdf/2305.17328)
 - Small Language Models are the Future of Agentic AI | [`[pdf]`](https://arxiv.org/abs/2506.02153) | [`[GitHub]`](https://research.nvidia.com/labs/lpr/slm-agents/)
 - SensorLM: Learning the Language of Wearable Sensors | | [`[pdf]`](https://arxiv.org/pdf/2506.09108)
 - A Comparative Survey of PyTorch vs TensorFlow for Deep Learning: Usability, Performance, and Deployment Trade-offss | | [`[pdf]`](https://arxiv.org/pdf/2508.04035v1)
+- **[MobileCLIP2]**: Improving Multi-Modal Reinforced Training  | [`[pdf]`](https://arxiv.org/pdf/2508.20691) | [`[official code]`](https://github.com/apple/ml-mobileclip/tree/main)
 
 
   | ▲ [Top](#tinyml-papers-and-projects) |
