@@ -273,6 +273,7 @@ Graph in Pre-Trained Transformers  | [`[pdf]`](https://arxiv.org/pdf/2305.17328)
 - Towards Edge General Intelligence via Large Language Models: Opportunities and Challenges | [`[pdf]`](https://arxiv.org/pdf/2410.18125)
 
 <ins>**2025**</ins>
+- **[EdgeMark]**: An Automation and Benchmarking System for Embedded Artificial Intelligence Tools  | [`[pdf]`](https://arxiv.org/pdf/2502.01700) | [`[official code]`](https://github.com/Black3rror/EdgeMark)
 - Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies| [`[pdf]`](https://arxiv.org/pdf/2501.03265) | [`[GitHub]`](https://github.com/wangxb96/Awesome-EdgeAI)
 - Small Language Models are the Future of Agentic AI | [`[pdf]`](https://arxiv.org/abs/2506.02153) | [`[GitHub]`](https://research.nvidia.com/labs/lpr/slm-agents/)
 - SensorLM: Learning the Language of Wearable Sensors | | [`[pdf]`](https://arxiv.org/pdf/2506.09108)
