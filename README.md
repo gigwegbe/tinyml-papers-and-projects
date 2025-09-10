@@ -330,6 +330,8 @@ Graph in Pre-Trained Transformers  | [`[pdf]`](https://arxiv.org/pdf/2305.17328)
 - [TinyML ESP32-CAM: Edge Image classification with Edge Impulse](https://www.survivingwithandroid.com/tinyml-esp32-cam-edge-image-classification-with-edge-impulse/)
 - [Predictive Maintenance with TinyAutomator](https://www.waylay.io/articles/predictive-maintenance-with-tinyautomator)
 - [TinyML Person Detection with Arduino and Arducam](https://www.thetinymlbook.com/resources/tinyml-person-detection)
+- [Object Detection and Spatial Understanding with VLMs ft. Qwen2.5-VL](https://learnopencv.com/object-detection-with-vlms-ft-qwen2-5-vl/)
+- [VLM on Edge: Worth the Hype or Just a Novelty?](https://learnopencv.com/vlm-on-edge-devices/)
 
 | ▲ [Top](#tinyml-papers-and-projects) |
 | ------------------------------------ |
