@@ -282,6 +282,7 @@ Graph in Pre-Trained Transformers  | [`[pdf]`](https://arxiv.org/pdf/2305.17328)
 - **[MobileCLIP2]**: Improving Multi-Modal Reinforced Training  | [`[pdf]`](https://arxiv.org/pdf/2508.20691) | [`[official code]`](https://github.com/apple/ml-mobileclip/tree/main)
 - **[FastVLM]**: Efficient Vision Encoding for Vision Language Models | [`[pdf]`](https://arxiv.org/pdf/2412.13303)
 - **[Flavors of Moonshine]**:Tiny Specialized ASR Models for Edge Devices | [`[pdf]`](https://arxiv.org/pdf/2509.02523)
+- LLM Pruning and Distillation in Practice: The Minitron Approach | [`[pdf]`](https://arxiv.org/pdf/2408.11796)
 
 
   | ▲ [Top](#tinyml-papers-and-projects) |
