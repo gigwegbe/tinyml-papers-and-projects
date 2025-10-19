@@ -244,7 +244,8 @@ Quantisation |[`[pdf]`](https://arxiv.org/pdf/2209.15257.pdf)
 
 
 ### <ins>**2023**</ins>
-
+- **[Coral NPU]**: A machine learning accelerator core designed for energy-efficient AI at the edge.  |[`[code]`](https://github.com/google-coral/coralnpu)
+- **[cpp-transformer]**: A C++ implementation of Transformer without special library dependencies, including training and inference. |[`[code]`](https://github.com/freelw/cpp-transformer)
 - Exploring Automatic Gym Workouts Recognition Locally On Wearable Resource-Constrained Devices |[`[pdf]`](https://arxiv.org/pdf/2301.05748.pdf)
 - **[MetaLDC]**: Meta Learning of Low-Dimensional Computing Classifiers for Fast On-Device Adaption |[`[pdf]`](https://arxiv.org/pdf/2302.12347.pdf)
 - Faster Attention Is What You Need: A Fast
