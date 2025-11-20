@@ -383,6 +383,7 @@ Graph in Pre-Trained Transformers  | [`[pdf]`](https://arxiv.org/pdf/2305.17328)
 - `2021-07` [A natively flexible 32-bit Arm microprocessor](https://www.nature.com/articles/s41586-021-03625-w)
 - `2021-07` [Wearable Devices Can Reduce Collision Risk in Blind and Visually Impaired People](https://masseyeandear.org/news/press-releases/2021/07/wearable-devices-can-reduce-collision-risk-in-blind-and-visually-impaired-people)
 - `2021-09` [AI Inspection Using Analog Gauge as an Example](https://indatalabs.com/blog/ai-inspection)
+- `2025-10` [Top Small Language Models for Agentic AI Solutions Development](https://thirdeyedata.ai/top-small-language-models-for-agentic-ai-solutions-development/)
 
 | ▲ [Top](#tinyml-papers-and-projects) |
 | ------------------------------------ |
