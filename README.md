@@ -285,6 +285,7 @@ Graph in Pre-Trained Transformers  | [`[pdf]`](https://arxiv.org/pdf/2305.17328)
 - **[Flavors of Moonshine]**:Tiny Specialized ASR Models for Edge Devices | [`[pdf]`](https://arxiv.org/pdf/2509.02523)
 - LLM Pruning and Distillation in Practice: The Minitron Approach | [`[pdf]`](https://arxiv.org/pdf/2408.11796)
 - Real-Time Performance Benchmarking of TinyML Models in Embedded Systems (PICO: Performance of Inference, CPU, and Operations) | [`[pdf]`](https://www.arxiv.org/pdf/2509.04721)
+- Small Language Models for Agentic Systems: A Survey of Architectures, Capabilities, and Deployment Trade-offs | [`[pdf]`](https://arxiv.org/pdf/2510.03847)
 
   | ▲ [Top](#tinyml-papers-and-projects) |
   | ------------------------------------ |
